@@ -4,7 +4,7 @@
 
 ## 安装
 
-1. 在 [Releases](https://github.com/bill-iu/Asbury_Pines_TC_pack/releases/latest) 下载 `Asbury_Pines_SC_0.1.14-pack.2_Setup.exe`。
+1. 在 [Releases](https://github.com/bill-iu/Asbury_Pines_Chinese_pack/releases/latest) 下载 `Asbury_Pines_SC_0.1.14-pack.2_Setup.exe`。
 2. 关闭游戏，双击安装器，选择包含 `AsburyPines.exe` 的游戏文件夹。
 3. 选择“安装／更新简体中文补丁”并执行，然后从 Steam 启动游戏。
 
