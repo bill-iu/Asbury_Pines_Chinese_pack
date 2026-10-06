@@ -44,3 +44,9 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\tools\Test-Pack.ps1 -G
 ```
 
 输出在 `artifacts/`。已存在相同版本的发布文件时，重建会停止以保护现有文件。测试使用独立副本，不改动传入的游戏安装。
+
+## 授权范围
+
+本项目有权授权的原创程序代码及原创代码贡献采用 [MIT License](LICENSE)，包括繁中／简中插件的原创实现、安装器、构建与转换工具及验证脚本。
+
+MIT 授权不涵盖游戏原文、剧情、素材、翻译词库、插件内嵌的游戏翻译文字及翻译／排版缓存数据。翻译内容的使用与分发仍须符合原作权利、适用许可及法律；本项目的 MIT 授权不表示已取得游戏开发者授权。第三方组件保留各自授权，UnityDoorstop 仍依其 LGPL 2.1 授权分发。完整范围见 [LICENSE-SCOPE.md](LICENSE-SCOPE.md) 和 [第三方声明](licenses/THIRD-PARTY-NOTICES.md)。

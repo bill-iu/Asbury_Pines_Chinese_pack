@@ -7,7 +7,7 @@ New-Item -ItemType Directory -Path $out -Force | Out-Null
 $zipPath=Join-Path $out ('Asbury_Pines_TC_'+$Version+'_Portable.zip')
 $exePath=Join-Path $out ('Asbury_Pines_TC_'+$Version+'_Setup.exe')
 if((Test-Path -LiteralPath $zipPath) -or (Test-Path -LiteralPath $exePath)){throw 'Release artifacts already exist; use a new version or preserve the existing artifacts first.'}
-$rootFiles=@('README.md','Easy-Setup.ps1','Install.cmd','Uninstall.cmd','Install-TraditionalChinese.ps1','Set-TraditionalChinese.ps1','Uninstall-TraditionalChinese.ps1')
+$rootFiles=@('LICENSE','LICENSE-SCOPE.md','README.md','Easy-Setup.ps1','Install.cmd','Uninstall.cmd','Install-TraditionalChinese.ps1','Set-TraditionalChinese.ps1','Uninstall-TraditionalChinese.ps1')
 $files=@(foreach($name in $rootFiles){Get-Item -LiteralPath (Join-Path $repo $name)};foreach($name in @('payload','source','licenses','docs','installer','tools')){Get-ChildItem -LiteralPath (Join-Path $repo $name) -Recurse -File | Where-Object {$_.FullName -notmatch '[\\/]__pycache__[\\/]'}})
 foreach($file in $files){
  $relative=$file.FullName.Substring($repo.Length+1)

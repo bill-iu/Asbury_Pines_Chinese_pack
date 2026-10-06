@@ -70,3 +70,9 @@
 簡中版可直接執行 `simplified/tools/Build-Pack.ps1` 重建安裝包。若要從繁中重新產生簡中詞庫及插件，需要建置端 Python／OpenCC `tw2s`，執行 `tools/Generate-Simplified.py`，再執行 `tools/Build-Simplified-Plugin.ps1 -GameRoot '遊戲資料夾'`。已有 `simplified/` 時產生器會停止，請先保留舊資料。已發佈安裝包不需 Python 或 OpenCC。
 
 Asbury Pines 及原有劇情、名稱與素材屬於各自權利人；翻譯用於另外安裝的遊戲。各第三方授權僅適用於對應元件，詳見 [第三方聲明](licenses/THIRD-PARTY-NOTICES.md)。
+
+## 授權範圍
+
+本專案有權授權的原創程式碼及原創程式碼貢獻採用 [MIT License](LICENSE)，包括繁中／簡中插件的原創實作、安裝器、建置與轉換工具及驗證腳本。
+
+MIT 授權不涵蓋遊戲原文、劇情、素材、翻譯詞庫、插件內嵌的遊戲翻譯文字及翻譯／排版快取資料。翻譯內容的使用與散佈仍須符合原作權利、適用許可及法律；本專案的 MIT 授權不表示已取得遊戲開發者的授權。第三方元件保留各自授權，UnityDoorstop 仍依其 LGPL 2.1 授權散佈。完整範圍見 [LICENSE-SCOPE.md](LICENSE-SCOPE.md)。
