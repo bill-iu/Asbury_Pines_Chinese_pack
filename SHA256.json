@@ -1,0 +1,652 @@
+[
+    {
+        "Path":  "docs/EXIT-PERFORMANCE.zh-TW.md",
+        "SHA256":  "C34818939DB56F26F672B1C833D2483EE6D1EB025DAFD972591C3D004DA92529",
+        "Bytes":  2927
+    },
+    {
+        "Path":  "docs/FULL-LAYOUT-AUDIT.zh-TW.md",
+        "SHA256":  "C6B2EA4633E1E21D58625D75813C0E26C9E071775C2F767E03861C2E71862DFF",
+        "Bytes":  2823
+    },
+    {
+        "Path":  "docs/PACKAGING-VERIFICATION.md",
+        "SHA256":  "1F05900D7B5B96968B1F2E2FED9DD234775E432F6A2698BB91B0E95B35E6BA46",
+        "Bytes":  2128
+    },
+    {
+        "Path":  "docs/PERFORMANCE.zh-TW.md",
+        "SHA256":  "3EAA6A88AFCF6F4421D44A3AD7488503DD658AEEFFB46434AB7F465E01FE2A2A",
+        "Bytes":  2271
+    },
+    {
+        "Path":  "docs/README.zh-TW.md",
+        "SHA256":  "F78F8FC5E111B3A3CD9B441C462BCECA22980E1121AC0FB0E2DF82BBF46B4930",
+        "Bytes":  7077
+    },
+    {
+        "Path":  "docs/RELEASE-NOTES.md",
+        "SHA256":  "CDB2D2889A697EB0FF2A61DF343D96BB7A130CCAF8E9AFD48910BAF42EB12119",
+        "Bytes":  1125
+    },
+    {
+        "Path":  "docs/RELEASE-VERIFICATION.md",
+        "SHA256":  "BBD6D91A7EAE01448DA93923154D5B3F108FB652FCA128E356DB8F5097E1129C",
+        "Bytes":  9617
+    },
+    {
+        "Path":  "docs/STATUS.md",
+        "SHA256":  "2319BB7CEE717D6EF69C81AD6C9EE2C057456EE917B7D8F1B8D99422BC50A639",
+        "Bytes":  7183
+    },
+    {
+        "Path":  "Easy-Setup.ps1",
+        "SHA256":  "2A3E2F247FFD4D6EB60F9C72AF5EB6FF10DC7815DB7FEE54E1A8F1A1020DBD20",
+        "Bytes":  5412
+    },
+    {
+        "Path":  "Install.cmd",
+        "SHA256":  "ED278F0590A4EEB8B997373B865D587B22B3D046442BFDBDD74225A421A2EBAC",
+        "Bytes":  154
+    },
+    {
+        "Path":  "installer/Bootstrap.cs",
+        "SHA256":  "935F0347736DF429C89B95B88E72F764BD243F65327D834D92A728513C195686",
+        "Bytes":  6834
+    },
+    {
+        "Path":  "Install-TraditionalChinese.ps1",
+        "SHA256":  "2A07C9E9FEAFA59701D6B97E6FB2ECB7CE0948848E845A0BEE9D1D28077FD88B",
+        "Bytes":  5658
+    },
+    {
+        "Path":  "licenses/BepInEx-LICENSE.txt",
+        "SHA256":  "E6E534EF6F4347B6449407EE046A3D09CB0174C6F688C996AD0BED94B74B3933",
+        "Bytes":  1062
+    },
+    {
+        "Path":  "licenses/Cecil-LICENSE.txt",
+        "SHA256":  "13D58ECBED676511C0C4C4009BFF107025E50007FF5E7901DC562700EC62509E",
+        "Bytes":  1098
+    },
+    {
+        "Path":  "licenses/Doorstop-LICENSE.txt",
+        "SHA256":  "20C17D8B8C48A600800DFD14F95D5CB9FF47066A9641DDEAB48DC54AEC96E331",
+        "Bytes":  26526
+    },
+    {
+        "Path":  "licenses/HarmonyInterop-LICENSE.txt",
+        "SHA256":  "FEB87A2E0C305DE3464CC44077DA5393C52D8CA6362D37427157D04EC6F4510D",
+        "Bytes":  1057
+    },
+    {
+        "Path":  "licenses/Harmony-original-LICENSE.txt",
+        "SHA256":  "27E65B8ADEEDD73C2F76088346EFA3756A00E4E88CCA5ACE0C196CE1733EF570",
+        "Bytes":  1072
+    },
+    {
+        "Path":  "licenses/HarmonyX-LICENSE.txt",
+        "SHA256":  "7E54AB4766EF78637A05FB3454663A66DE6BB960DBD4C7088890ED76B0844F36",
+        "Bytes":  1063
+    },
+    {
+        "Path":  "licenses/MonoMod-LICENSE.txt",
+        "SHA256":  "0B64833222E3C6A426AD29362D26334619FE02EAF2B89EA9C37805521896C920",
+        "Bytes":  1080
+    },
+    {
+        "Path":  "licenses/sources.json",
+        "SHA256":  "A1D2177CDE1773342CEB8EE3D60F16FB8BB22C62FD3C6840B3C6F7F92987428D",
+        "Bytes":  1784
+    },
+    {
+        "Path":  "licenses/THIRD-PARTY-NOTICES.md",
+        "SHA256":  "0DE4D98A70B5EC073367D09A97D22C72C7736A8F7713F128D3703CA5BB3D5324",
+        "Bytes":  2362
+    },
+    {
+        "Path":  "licenses/UnityDoorstop-v4.5.0-source.zip",
+        "SHA256":  "7F0C963104AA08BF5FEFEF8FF85E7FECD8306838F5AF3101487D9DB4E9188D63",
+        "Bytes":  109881
+    },
+    {
+        "Path":  "payload/.doorstop_version",
+        "SHA256":  "75A2F501000D4FE28F74BC7EE66DAE5581959D28B6C44F0C1B0C05CD5BA261E6",
+        "Bytes":  5
+    },
+    {
+        "Path":  "payload/BepInEx/core/0Harmony.dll",
+        "SHA256":  "1A21CC03424FC82C3DD1346905D16494536B9595AE4162228D99FB7C285C1031",
+        "Bytes":  204800
+    },
+    {
+        "Path":  "payload/BepInEx/core/0Harmony.xml",
+        "SHA256":  "D1F02FC3ADA3A13DA307DE421225BFE56EBE24064370980979391C4BE021672F",
+        "Bytes":  267107
+    },
+    {
+        "Path":  "payload/BepInEx/core/0Harmony20.dll",
+        "SHA256":  "C755A5AB2712915A32F9A850D580A8C1B70FF1653BC76600F2767AA8FFCCC663",
+        "Bytes":  112640
+    },
+    {
+        "Path":  "payload/BepInEx/core/BepInEx.dll",
+        "SHA256":  "8255B28902886085C578B9E427D3073C97002DB85176D2090CDEDA90EF14CE70",
+        "Bytes":  128512
+    },
+    {
+        "Path":  "payload/BepInEx/core/BepInEx.Harmony.dll",
+        "SHA256":  "00C8F2AC48593E4D45CE4EB26CE4E68B18113C5C489B38B8BF0850F65830D601",
+        "Bytes":  6656
+    },
+    {
+        "Path":  "payload/BepInEx/core/BepInEx.Harmony.xml",
+        "SHA256":  "A04FEDF08F7C81F5D01ABA6F2840A7FFCE50B79BBD24587D8DBE69AB73971D29",
+        "Bytes":  4056
+    },
+    {
+        "Path":  "payload/BepInEx/core/BepInEx.Preloader.dll",
+        "SHA256":  "55D3895351A9D16B63B6F35F1C01B44AC650979E853D0BD3A442B92A082AF64F",
+        "Bytes":  43008
+    },
+    {
+        "Path":  "payload/BepInEx/core/BepInEx.Preloader.xml",
+        "SHA256":  "33275B2783B7B99495A02C098EE86D6A9A2783E884A5C9369021F20C94CF99E7",
+        "Bytes":  7964
+    },
+    {
+        "Path":  "payload/BepInEx/core/BepInEx.xml",
+        "SHA256":  "7BA2266061B9F8A9F146218A312BFDD0D7F2B53A99A7E66C957215C6B66CA0D7",
+        "Bytes":  89835
+    },
+    {
+        "Path":  "payload/BepInEx/core/HarmonyXInterop.dll",
+        "SHA256":  "7CE1342D3AFA0334B59A3E38C0AED15E162B9ABE9D46F95F34BE44AF47F3B493",
+        "Bytes":  23552
+    },
+    {
+        "Path":  "payload/BepInEx/core/Mono.Cecil.dll",
+        "SHA256":  "7AE470288FFF4A402899C254D0A76CEFEF55877F5C54F96E83C797CC5BB6E2F6",
+        "Bytes":  339456
+    },
+    {
+        "Path":  "payload/BepInEx/core/Mono.Cecil.Mdb.dll",
+        "SHA256":  "5896D1898F616701FFF18F3B2C71E6B844D2390EF9F41E1C5FCCCE8CB27C698E",
+        "Bytes":  43008
+    },
+    {
+        "Path":  "payload/BepInEx/core/Mono.Cecil.Pdb.dll",
+        "SHA256":  "174DB44A067F58561510AF746F3CAEB032037762C57A31C8D9EE32DB25174984",
+        "Bytes":  86528
+    },
+    {
+        "Path":  "payload/BepInEx/core/Mono.Cecil.Rocks.dll",
+        "SHA256":  "54AC539FB5DDC8B44C0E9ACD0FCB7324F89D1A072EDF8EBC1B06DD691E3D3927",
+        "Bytes":  27648
+    },
+    {
+        "Path":  "payload/BepInEx/core/MonoMod.RuntimeDetour.dll",
+        "SHA256":  "40E49BB314391CD7BDDC2644F8553EEBA92C194B940836B103DF16955C464E0C",
+        "Bytes":  105984
+    },
+    {
+        "Path":  "payload/BepInEx/core/MonoMod.RuntimeDetour.xml",
+        "SHA256":  "54887808960D156550B37D602D08847607AA9E908D039F2765FB0B5E79394AA4",
+        "Bytes":  9414
+    },
+    {
+        "Path":  "payload/BepInEx/core/MonoMod.Utils.dll",
+        "SHA256":  "4976FDAA9041C468CBC2E25635F5F87694BCBCBEDD8A47D9F6002BE91A6AE37B",
+        "Bytes":  187392
+    },
+    {
+        "Path":  "payload/BepInEx/core/MonoMod.Utils.xml",
+        "SHA256":  "0577B362023A3432D6E8D7934C5EDDC3E08FDBB19E191AF083E341562C5EDE38",
+        "Bytes":  78973
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/AsburyPines.ZhHant.dll",
+        "SHA256":  "E6A5FD80A74CA003359ED34A17E21C72D45C1733258E681DEC9E69F71E12D2EB",
+        "Bytes":  1722368
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/character-labels.json",
+        "SHA256":  "67B73D86FF4ECE69561C3C72CE44B45B7867C7B4394E06886710B6A8B86CA653",
+        "Bytes":  21448
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/community-001-005.json",
+        "SHA256":  "8C82A96690879E894DCDB0777CA85EAC01E3259375E04C67A212E2B8FF827C06",
+        "Bytes":  11952
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/community-006-015.json",
+        "SHA256":  "E9FA871EF76117D1290969052E9FD43395E4A8341C03CF2C47DB09D8D328FBA8",
+        "Bytes":  19618
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/community-016-020.json",
+        "SHA256":  "3C077424AD441426122B4E020CB4CA5800E4F8B8229EFCA329B4DDB6BFF0C9A0",
+        "Bytes":  16608
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/community-021-025.json",
+        "SHA256":  "DE5FAEAAB195F86A65BA0F670D8FD824F75D1ECBF2BAFB021DF966D8AF90609A",
+        "Bytes":  14629
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/community-026-029.json",
+        "SHA256":  "8F598066D6E90BA79B8924E053FE9BC9D88E65497FB20C8BB52621E23E2926EA",
+        "Bytes":  14530
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/community-030-039.json",
+        "SHA256":  "5E87DE17EBD7CE73F324912F57E595C1064B13220FD7536307D4C5788E9317E6",
+        "Bytes":  22343
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/endings-001.json",
+        "SHA256":  "4F41E1795FCE109922D5FE083DBF5AF389307EAFEF902CFAEA781F19E97F2F01",
+        "Bytes":  13599
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/era-banners.json",
+        "SHA256":  "92DAA8ACD4C5DF65A18CE3F0107A243F49D34356FAFC66F01DC98FDE4C873C6B",
+        "Bytes":  2707
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/event-summaries-001.json",
+        "SHA256":  "267D4F364470AC609D67B6118E0DD3B9368A2405837C517D190D4427121EF941",
+        "Bytes":  13001
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/event-summaries-002.json",
+        "SHA256":  "A9A54682175AC9A855A92D0DBD62E61A692F8A2213630053BBC06B43EE3CA8F0",
+        "Bytes":  11567
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/event-summaries-003.json",
+        "SHA256":  "F854712FA9DF5D0AB866775A8982DFA2F8BDBC7863E3C72B0102EA3B51F32521",
+        "Bytes":  11268
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/event-summaries-004.json",
+        "SHA256":  "319BD384C375B469F7196DA02EE4CC63C4B6FD3D03CB6D800559C99850EFBFCF",
+        "Bytes":  8094
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/final-fictional-dates.json",
+        "SHA256":  "04A8C7E2E5144A3F6DBB0413A32F5C9BE354F20604A8692BDF576F19ECBC29E9",
+        "Bytes":  335
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/final-partial-labels.json",
+        "SHA256":  "1A5327244179AAF2C2131272EA5627DE32FE1044A3B071E072EF58139EDAF58E",
+        "Bytes":  187
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/help.json",
+        "SHA256":  "5CC5E8F513038F3E8A8C24173CF1FCB3D23BF2DA976C3864A82E3520D0646698",
+        "Bytes":  15746
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/managed-descriptions-001.json",
+        "SHA256":  "3C99D5D9123FBC8A8056237B0EA202D97EDB2960C6D845B6043D1C1FC833CFE2",
+        "Bytes":  18949
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/managed-descriptions-002.json",
+        "SHA256":  "71FD584C2943C311DD389B660498C339589AEEF5D38AB3A32543A70235AB181C",
+        "Bytes":  14720
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/managed-introductions.json",
+        "SHA256":  "96210846AF6844D9B07734279CEDC95F784E20E4D4B59758358504818262C304",
+        "Bytes":  14065
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/nature-001-015.json",
+        "SHA256":  "703D6E45D854711929F15369F7354119C0071478C9B4407B5D72F55E80D86810",
+        "Bytes":  18415
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/nature-016-030.json",
+        "SHA256":  "5603FFAD7BC4B68F3DEDB243B6776B22570A98BDC297C7964F695A4DCEFEDA98",
+        "Bytes":  19542
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/nature-031-040.json",
+        "SHA256":  "4E3536B2A1F990D67471CA2CA2A7B3092FA42BB93D9F3820437EE41D6BEDED29",
+        "Bytes":  13752
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/objects-and-workplaces.json",
+        "SHA256":  "9031221DE1AF27D68AB4ED7A4C86A1324BA65E07D41BBAF305394373B37B4DB9",
+        "Bytes":  12184
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/perks-001.json",
+        "SHA256":  "BD226BC358EC2D3C008783FDB7137AFBB3CDDE2BE7614C728805488A78DD4E5F",
+        "Bytes":  6036
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/perks-002.json",
+        "SHA256":  "29F67CBD8EF20417F13F4E5ECE58A86BF4252BDC12D99BDAB26EEAF31FE00750",
+        "Bytes":  7025
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/prefab-and-notes-001.json",
+        "SHA256":  "A0782A05F9880E73EA062CA85B606DBA0118F8767D831B229F5F91858C650682",
+        "Bytes":  23802
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/prefab-and-notes-002.json",
+        "SHA256":  "1E7550849DF1DCDEE8D9D920322CD983C6C398722E0A3FFECA1F33C7AE3EFEE8",
+        "Bytes":  28093
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/prefab-and-notes-003.json",
+        "SHA256":  "212D364BC02F7F77F349A891F2071374FF5FEB7E94743680D3D1BB18D5744B9A",
+        "Bytes":  27141
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/prefab-and-notes-004.json",
+        "SHA256":  "DEFCFF74ECC20159AC63262E2DE871844AB17E4FE86D645AEE6462F7C0672F03",
+        "Bytes":  18235
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/prefab-variants.json",
+        "SHA256":  "0D2D0ED90C54C25E0D13085F3A65A5D7630B3D5B733EAFC22237CD8255B705C4",
+        "Bytes":  13231
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/quest-labels.json",
+        "SHA256":  "792C9BD16BC52B30A25581D061E163032017D40882D4FE09ACBDC61683319F34",
+        "Bytes":  7979
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/quest-summary-aliases.json",
+        "SHA256":  "5C28EAC94C43FDC345E4B24A38F586F7785FD7A503AFE968B86E11A7DFA26EE5",
+        "Bytes":  20388
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/rules.json",
+        "SHA256":  "A9BECAB449BE5E57FBDF936D0520181237DD23C60E29451EE6B1E94DDF336AAC",
+        "Bytes":  4892
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/scene-misc-001.json",
+        "SHA256":  "6BB469996CFA6568A33DE7C939CFBBB0113B963ECD97198AD14CF58F5B645C0F",
+        "Bytes":  11043
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/settings.json",
+        "SHA256":  "169762C0735863A48A8F01F7E854D0E4BC203C1E9FB185BFB3439E3CA01B4982",
+        "Bytes":  1088
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-001-010.json",
+        "SHA256":  "E236A101BE176C0B1D82D1A6EAFC8F3F530BC00D91F9E7E8C3335FE8A84D868F",
+        "Bytes":  19211
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-011-022.json",
+        "SHA256":  "6C56C4D64278391DBE7E90FF4BB9B00BA7ADE9413D5F2FB7ADE95661EAE7A5DA",
+        "Bytes":  21992
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-023-035.json",
+        "SHA256":  "7B598796149E8450B8545E3C6A3F62737729775404051F7BE6CE8C9C3D02EB49",
+        "Bytes":  30568
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-036-047.json",
+        "SHA256":  "233F3B7C131407D06AF1CA67FBBC24847CC4C8B65F143031CAA98063DBF8D7F8",
+        "Bytes":  36426
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-048-055.json",
+        "SHA256":  "21107A27F240DB456D59FA35F6B8FBDB7637779A8AEC9C68BCFD0D94122C1761",
+        "Bytes":  24505
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-056-065.json",
+        "SHA256":  "E5F775DA18D8525F06CBBBC8A7D28413E5FA1BBC508A1208B94EDFA2869917C5",
+        "Bytes":  21753
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-066-075.json",
+        "SHA256":  "46CBC2278E88A5EC6A34FE627829A899403D1D979FC22C7BDBE3CE41A47797EF",
+        "Bytes":  24716
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-076-085.json",
+        "SHA256":  "BEEE514ED8E563906A50EC60B8BD8AE4024A143A0255AD78EB362210D1E74D7D",
+        "Bytes":  28177
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-086-095.json",
+        "SHA256":  "1758D6B7C666488CC5E6960002336353CCF06A858E4A272FEA54E5D4A557B65F",
+        "Bytes":  16798
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-096-105.json",
+        "SHA256":  "3784D6501A8716C158BC0F428A24EB0E5EE0EB3883AF14884391E4090424451E",
+        "Bytes":  20814
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-106-115.json",
+        "SHA256":  "167133EBADCBCD07C7A920632E800EF53F0DE938BD10060E893CF3634DEC7F48",
+        "Bytes":  25438
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-116-125.json",
+        "SHA256":  "3750A66316D0A5F2356BC3B33D044EEFA0C488E44BCF9B5D5390B5C4C1FCEA22",
+        "Bytes":  21237
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-126-135.json",
+        "SHA256":  "2A7BDB5EE3BB98FACCE5786794A7A91E4D6CE8580A813D71997D47FBAE8580D8",
+        "Bytes":  28660
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-136-145.json",
+        "SHA256":  "1AF547D61B4C0A4E5BB64DCFDCC291A585B6D7C6028B544EF0794713036134AE",
+        "Bytes":  28965
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-146-155.json",
+        "SHA256":  "2207317AECD02A30411FA44A9B0B2C61ACD48637966AFDFABAA4BD614CE00AA5",
+        "Bytes":  26611
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-156-165.json",
+        "SHA256":  "5360D6D5E0DD00EA3282CA61E371BB29F03E56973D9B20F68E92E074776DB992",
+        "Bytes":  19716
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-166-175.json",
+        "SHA256":  "BF41712689B8AA3F5CFD5F7DFE433256142275EA7402E7F39BC5C7C961DE9D94",
+        "Bytes":  33135
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-176-185.json",
+        "SHA256":  "6E6241BAD3C2E3261ED3B4A8CF43A3704AAE6363FE55ABAB3EF891DF11D48DC6",
+        "Bytes":  27763
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-186-195.json",
+        "SHA256":  "B68A4C72AA1C85A4762A63C1AB8DC355AB5DB449E53C9F68A6E502DAF1052954",
+        "Bytes":  30545
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-196-205.json",
+        "SHA256":  "873222952AD1B8FD71D3ACC8D269EA374EA555B888A7B2C5BBFA8F978F239DF9",
+        "Bytes":  20916
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-206-215.json",
+        "SHA256":  "42A1FAB68B65D93452334955D0D0CC38119897AE4DDADBF1FDB416E58ACE4F78",
+        "Bytes":  27164
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-216-225.json",
+        "SHA256":  "A6DF33A9A106B62FCBFFA862975FAB8302F79EDF7A317AB049E3B24467F82A1B",
+        "Bytes":  25038
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-226-235.json",
+        "SHA256":  "C0F6AA3482F98C2DB57DFDEA243CCB92B049B364EF0E79E904EB1B354945F0EB",
+        "Bytes":  27033
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-236-245.json",
+        "SHA256":  "D2860FF40A9C197E0894966B4E727BE79DA04030B3AC1BDAF4FB604835FB2074",
+        "Bytes":  15508
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-246-255.json",
+        "SHA256":  "6050865E4E86E87E504175189B44D502E4D611495BD22892392BA17E9FB28773",
+        "Bytes":  20710
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-256-265.json",
+        "SHA256":  "06AE31794DC4580E3E6C3BC24BBB702D2BAF605C96C291E9F973C2244D61FBCC",
+        "Bytes":  26315
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-266-275.json",
+        "SHA256":  "CC8B644FEB60BC840A217A782DA8337C3749D69E27703BFC618FF4E5C079EAD0",
+        "Bytes":  31403
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-276-280.json",
+        "SHA256":  "3189A8418943533F3AF5B0D68CEB340D0DB69957B36CF134F031C046A532C8B7",
+        "Bytes":  21875
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-281-285.json",
+        "SHA256":  "11ABBB0E4CACF7E289E074CF82D0C21B72E23E49AB08886346552DFC8D7A430B",
+        "Bytes":  35485
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/stories-286-292.json",
+        "SHA256":  "82DFE26A68C751CE36C1CB04B6CBBBDDD465CEA92C57127B7BEBDCB9D3DDE06D",
+        "Bytes":  34102
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/ui.json",
+        "SHA256":  "1D160D4514EDF426E1134FDF89467CD1342FB8DACA7B0AA73EB1214FD3A403B8",
+        "Bytes":  68291
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/ui-managed-remainder-labels.json",
+        "SHA256":  "031B91F37C310B4DCF149A35E6E82C9FF8B8E46F66C17ECFBB8D276A0B3DA1D3",
+        "Bytes":  430
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/ui-misc-002.json",
+        "SHA256":  "F43273F65D2C33B80EEAC13786BAE0F0518BD12216428D9AA0AFE3C74F46ED74",
+        "Bytes":  13434
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/ui-misc-003.json",
+        "SHA256":  "F30AE111C4931F7D9AA4BDD8DC33DAF4ED2BB4F0B651D7F6028F5451C59D03EA",
+        "Bytes":  6088
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/ui-misc-004.json",
+        "SHA256":  "2C97594716CBAFB3AEECCFE722F9C61BC6D239A7A12C848E8061CBC007891EB6",
+        "Bytes":  944
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/ui-notification-fallbacks.json",
+        "SHA256":  "89D554A092A7D4B5CB21D362711A23EDE5DC1668CEDE62D5390430F61ABEFBAE",
+        "Bytes":  205
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/ui-notification-labels.json",
+        "SHA256":  "38DFB5CC7F5A9633D67FA6B027C8DAFB59FFD5D59EED4180641CE0A8F51D870C",
+        "Bytes":  2706
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/ui-scene-small.json",
+        "SHA256":  "863A11B6D29782BEA3CCF43C2CE6B157C4AA5DC2B623A94ABCA4625FFA425CA2",
+        "Bytes":  271
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/ui-states-and-abbreviations.json",
+        "SHA256":  "50528CDD67CCCB23FCD8D80CD85A83EE612347A5F37D7C4BD5B7E6A81E4567AA",
+        "Bytes":  1693
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/version-labels.json",
+        "SHA256":  "BD65BE66EC38DF04A028E2B52550C2DEDDDFE8C553A95481C1821A9709F23D8B",
+        "Bytes":  4730
+    },
+    {
+        "Path":  "payload/BepInEx/plugins/AsburyPines.ZhHant/translations/world-locations-and-completion.json",
+        "SHA256":  "0EB8CE8C5A0367EC70259C1050F5095C00A733C0F6D69BDC054925EB5252ED62",
+        "Bytes":  8703
+    },
+    {
+        "Path":  "payload/doorstop_config.ini",
+        "SHA256":  "4D5C6DFA0F771C6A5B1B0C559ACA0BD0ECE7D08B08FFF894708DC3B73CE73CFC",
+        "Bytes":  1460
+    },
+    {
+        "Path":  "payload/winhttp.dll",
+        "SHA256":  "CC643B54484F694A8E0E6641CAC79D74141009AFC9E24D826F6FD7FD48FD182A",
+        "Bytes":  22016
+    },
+    {
+        "Path":  "README.md",
+        "SHA256":  "81E15C9BC66AAF0BECB9C1C4A4773C62CBD99BDC747658EB7CDD609C51C6B44F",
+        "Bytes":  4386
+    },
+    {
+        "Path":  "Set-TraditionalChinese.ps1",
+        "SHA256":  "43606F4399CCD5D69A9CC34D71A3E62132B9C75EA4D4CEB1E0BFA70140D95383",
+        "Bytes":  812
+    },
+    {
+        "Path":  "source/layout-cache.json.gz",
+        "SHA256":  "1CC45F1AA63E3D398752CFCD4168C4A34EBE649F059F38B11FBA9EE9EA782B3F",
+        "Bytes":  1614110
+    },
+    {
+        "Path":  "source/MonoMod.Utils.original.dll",
+        "SHA256":  "9D1495F147AC93C4F81F84538C1A326E8F8A6AEFC78D6289D798F3CE1162C5E9",
+        "Bytes":  187904
+    },
+    {
+        "Path":  "source/patch-monomod.ps1",
+        "SHA256":  "4E01BEC557FA907DCA3B403E31E22870A8CEFCD63A8752F66133F1ACF4B5F102",
+        "Bytes":  1591
+    },
+    {
+        "Path":  "source/Plugin.cs",
+        "SHA256":  "70546C4EE8FDC2768AEE376EC3DEC8CACE3C9BFD0E96D5A79371B8B6A768FE8D",
+        "Bytes":  94036
+    },
+    {
+        "Path":  "tools/Build-Pack.ps1",
+        "SHA256":  "D1967F4912D9336A67C13287D5C4E1F173BAA6E407114CA510666DC04E0A2AD9",
+        "Bytes":  3341
+    },
+    {
+        "Path":  "tools/Test-Pack.ps1",
+        "SHA256":  "A7B533AB4164670C4FBFE4A7272B85A671E395B41D44D5119086E6D12C1B4DC5",
+        "Bytes":  5873
+    },
+    {
+        "Path":  "Uninstall.cmd",
+        "SHA256":  "2A0952DA0FB7D33E25BD75530C8D087A859AA342DD20E8E6B523CC9646C2EABA",
+        "Bytes":  172
+    },
+    {
+        "Path":  "Uninstall-TraditionalChinese.ps1",
+        "SHA256":  "2A802230203CCD0DF477FAD5CBB008C6D5C12C020C4CB49B34D236D9BB13ED24",
+        "Bytes":  2737
+    }
+]

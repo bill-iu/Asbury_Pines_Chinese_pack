@@ -1,0 +1,134 @@
+[
+  {
+    "source": "BLOCKED FROM\nRESEARCHING",
+    "target": "無法\n研究"
+  },
+  {
+    "source": "Scavenge Zone Unlocked",
+    "target": "拾荒區域已解鎖"
+  },
+  {
+    "source": "Nature Location Unlocked",
+    "target": "自然地點已解鎖"
+  },
+  {
+    "source": "Work Location Unlocked",
+    "target": "工作地點已解鎖"
+  },
+  {
+    "source": "Science Unlocked",
+    "target": "科學已解鎖"
+  },
+  {
+    "source": "GO IDLE",
+    "target": "停止行動"
+  },
+  {
+    "source": "Scavenge Zone Completed",
+    "target": "拾荒區域已完成"
+  },
+  {
+    "source": "Building Completed",
+    "target": "建造已完成"
+  },
+  {
+    "source": "Government Completed",
+    "target": "政體已完成"
+  },
+  {
+    "source": "BLOCKED FROM\nBUILDING",
+    "target": "無法\n建造"
+  },
+  {
+    "source": "BLOCKED FROM\nLIVING",
+    "target": "無法\n生活"
+  },
+  {
+    "source": "Character Unlocked",
+    "target": "角色已解鎖"
+  },
+  {
+    "source": "BLOCKED FROM\nGOVERNING",
+    "target": "無法\n治理"
+  },
+  {
+    "source": "Story Unlocked",
+    "target": "故事已解鎖"
+  },
+  {
+    "source": "Science Completed",
+    "target": "科學已完成"
+  },
+  {
+    "source": "Artifact Unlocked",
+    "target": "文物已解鎖"
+  },
+  {
+    "source": "Religion Completed",
+    "target": "宗教已完成"
+  },
+  {
+    "source": "Gained Resource",
+    "target": "獲得資源"
+  },
+  {
+    "source": "BLOCKED FROM\nEXPLORING",
+    "target": "無法\n探索"
+  },
+  {
+    "source": "Government Unlocked",
+    "target": "政體已解鎖"
+  },
+  {
+    "source": "BLOCKED FROM\nSCAVENGING",
+    "target": "無法\n拾荒"
+  },
+  {
+    "source": "CURRENTLY\nUNKNOWN",
+    "target": "目前\n未知"
+  },
+  {
+    "source": "Religion Unlocked",
+    "target": "宗教已解鎖"
+  },
+  {
+    "source": "BLOCKED FROM\nWORSHIPPING",
+    "target": "無法\n崇拜"
+  },
+  {
+    "source": "BLOCKED FROM\nEXAMINING",
+    "target": "無法\n檢視"
+  },
+  {
+    "source": "Community Event Unlocked",
+    "target": "社群事件已解鎖"
+  },
+  {
+    "source": "BLOCKED FROM\nWORKING",
+    "target": "無法\n工作"
+  },
+  {
+    "source": "Artifact Completed",
+    "target": "文物已完成"
+  },
+  {
+    "source": "The Colonial Era",
+    "target": "殖民時代"
+  },
+  {
+    "source": "The Neolithic Era",
+    "target": "新石器時代"
+  },
+  {
+    "source": "Era Unlocked",
+    "target": "時代已解鎖"
+  },
+  {
+    "source": "Perk Obtained",
+    "target": "獲得加成"
+  },
+  {
+    "source": "LIVING LIFE",
+    "target": "生活中"
+  }
+]

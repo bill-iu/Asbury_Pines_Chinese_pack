@@ -1,0 +1,102 @@
+[
+  {
+    "source": "This release is to be used for the beta test of segment #1. \n\n<b>Segments</b>\nThe game's planned content has been divided into approximately twelve segments, plus or minus three segments. Each segment contains a portion of story, some new gameplay mechanics, and other content. Our development philosophy involves creating each segment, testing it internally for balance, and then beta testing it for further polish, balance, and review. This allows us to continually assess & expand the game in a controlled manner.\n\nThank you for being part of the Beta Test!",
+    "target": "這個版本供第一階段 Beta 測試使用。\n\n<b>開發階段</b>\n我們將規劃中的遊戲內容分成約十二個階段，可能增減三個。每個階段包含一部分故事、新玩法機制及其他內容。我們的開發理念是：逐一建立各階段，先進行內部平衡測試，再透過 Beta 測試進一步修潤、調整平衡與檢視。如此便能在可控的情況下，持續評估及擴充遊戲。\n\n感謝你參與 Beta 測試！"
+  },
+  {
+    "source": "Testing a variety of economic balance adjustments. Also includes the following bug fixes & quality of life updates.\n\n<b>Changes</b>\n- Added Setting(s) to Hide Notification types.\n- Research completed banners no longer cover perk text.\n- Resource info popups are no longer displayed when hovering over locked locations.\n- Supplies text is no longer cutoff on explored nature locations.\n- Resource notification stack labels now color coded by era to match stories page.\n- Added clarity to animals tab by removing EXP text and EXP icons from the display.",
+    "target": "測試各種經濟平衡調整，也包含以下錯誤修正與便利性更新。\n\n<b>變更</b>\n- 新增隱藏各類通知的設定。\n- 研究完成橫幅不再遮住加成文字。\n- 滑鼠停在鎖定地點上時，不再顯示資源資訊視窗。\n- 已探索自然地點的物資文字不再被裁切。\n- 資源通知堆疊的標籤，現在依時代以顏色區分，與故事頁面一致。\n- 移除動物分頁中的經驗值文字與圖示，讓資訊更清楚。"
+  },
+  {
+    "source": "the hopeful, and brings them to join the Commune. Gatekeeper assists with the opening of the third eye and assures the one-eyed angel welcomes lost souls as they pass through to the enlightened plane. This is the golden path of the Gatekeeper. Gatekeeper holds the sacred duty to expand the membership of the Commune. \r\n\r\n     I, Pathfinder, With My Own Lifeblood Vow to \n     Uphold My Radical Purpose\r\n\r\n  \r\n\r\n\r     I, Gatekeeper, With My Own Lifeblood to \n     Uphold My Radical Purpose\r\n\r\n  \r\n",
+    "target": "懷抱希望者，帶領他們加入公社。守門人協助開啟第三隻眼睛，確保獨眼天使在迷失的靈魂進入啟蒙境界時迎接他們。這就是守門人的金色道路。守門人肩負擴大公社成員的神聖職責。\n\n我，尋路者，以自身鮮血立誓，\n實踐我的激進使命\n\n\n\n我，守門人，以自身鮮血，\n實踐我的激進使命\n\n"
+  },
+  {
+    "source": "This build includes support for Steam Deck (and other similar hardware) + a few other bug fixes and improvements.\n\n<b>Changes</b> \n- Implented many UI tweaks & features to facilitate play on Steam Deck.\n- Resolved a variety of content flow bugs from prior builds.\n- Progress now continues when the game is minimized, in true idle-game fashion.\n- Initial help manual page setup. This page will likely evolve into a more complex form (with additional navigation features).",
+    "target": "這個版本加入 Steam Deck 與其他類似硬體的支援，以及一些錯誤修正與改善。\n\n<b>變更</b>\n- 實作多項介面調整與功能，方便在 Steam Deck 上遊玩。\n- 解決先前版本的各種內容流程錯誤。\n- 遊戲最小化後仍會持續推進，實現真正的放置遊戲體驗。\n- 建立初步說明手冊頁面，之後可能加入更多導覽功能，擴充為更完整的形式。"
+  },
+  {
+    "source": "Testing a variety of economic balance adjustments.\n\n<b>Changes</b>\n- Can now move characters from the \"Living-Blocked\" state to Idle.\n- Eras unlocked by each era now limited to resources actually required for that era.\n- Red dots appear in quest tree to highlight which tiles a user has not seen. They can click the tiles to remove the red dot.\n- Resource tooltips no longer displayed for completed artifacts.\n- Resolved raycast issue on victory page menu button.",
+    "target": "測試各種經濟平衡調整。\n\n<b>變更</b>\n- 現在可將「人生受阻」狀態的角色轉為閒置。\n- 各時代的解鎖條件，現在僅限於該時代實際需要的資源。\n- 任務樹中會以紅點標示玩家尚未看過的方塊，點選後即可消除紅點。\n- 已完成文物不再顯示資源提示。\n- 解決完成度頁面選單按鈕的射線偵測問題。"
+  },
+  {
+    "source": "Testing a variety of economic balance adjustments.\n\n<b>Changes</b>\n- Fixed SS1 Artifact Image.\n- Artifacts page now large enough to access bottom-most menus.\n- Negative warning tooltips and resource value tooltips no longer overlap.\n- HS1 Story Close button restored.\n- Goverment, Religion, and Science timers now correctly display very large times.\n- Nature notes no longer overlap with nature timeline progress text.\n- DP2 portrait now displayed for ce-0006.",
+    "target": "測試各種經濟平衡調整。\n\n<b>變更</b>\n- 修正 SS1 文物圖像。\n- 文物頁面現在夠大，可操作最底部的選單。\n- 負值警告提示不再與資源數值提示重疊。\n- 恢復 HS1 故事的關閉按鈕。\n- 政體、宗教與科學的計時器，現在可正確顯示很長的時間。\n- 自然筆記不再與自然時間軸的進度文字重疊。\n- ce-0006 現在會顯示 DP2 肖像。"
+  },
+  {
+    "source": "\n\r\nI wish I could let go my woes \r\nThe way old river seems to know\r\nTo save itself from paaaaainful memory\r\n\r\nBut a joke, a joy, a warm embrace \r\nThe lingering smile on mama’s face\r\nCan stay alive in ouuuuur melody\r\n\r\nSo I’ll sit and think on all we’ve done,\r\nThere ain’t no use to river run \r\nI’ll make the good foreeeeever mine\r\n\r\nForeeeeever mine\r\nOh, foreeeeever mine\r\nI’ll make the good foreeeeever mine\r\n\r\nLove,\r\nGav / Heth\r\n",
+    "target": "但願我也能放下憂傷，\n像老河流早已懂得那樣，\n不再困於痛苦——的記憶。\n\n但一個笑話、一份喜悅、一個溫暖擁抱，\n媽媽臉上久久不散的微笑，\n都能活在我們——的旋律。\n\n所以我會坐著，想想我們走過的一切，\n像河水那樣逃走也無濟於事，\n我要讓美好永遠——屬於我。\n\n永遠——屬於我，\n噢，永遠——屬於我，\n我要讓美好永遠——屬於我。\n\n愛你的，\n蓋文／海瑟"
+  },
+  {
+    "source": "The sun winks through the pines, scattering beams on the ferns below. Retired couples, active parents, and idle minds wander peacefully along the many trails. They move like monorails, never deviating, making scheduled stops to open their eyelids and peer out at a sequence of views and vistas. Creatures of the pines avoid the monorail of humans, and live hard lives of competition with the other creatures. \n",
+    "target": "陽光從松樹間眨眼，將光束灑向下方的蕨類。退休伴侶、活力充沛的父母與放空思緒的人們，沿著眾多步道平靜漫遊。他們像單軌列車，從不偏離路線，按時停下，張開眼皮，欣賞接連出現的風景。松林裡的生物避開這列人類單軌列車，過著與其他生物艱苦競爭的日子。"
+  },
+  {
+    "source": "This patch improves the game's notification system (a foundational change required for upcoming content).\n\n<b>Changes</b>\n- The number of opening notifications has been reduced for simplicity.\n- Notifications are now easier to read.\n- Notifications stay visible until closed (via new \"X\" button).\n- All notifications can now be closed via the \"Close All\" (notifications) button.",
+    "target": "這次更新改善遊戲的通知系統，為即將加入的內容奠定必要基礎。\n\n<b>變更</b>\n- 為求簡潔，減少開場通知數量。\n- 通知現在更容易閱讀。\n- 通知會持續顯示，直到使用新加入的「X」按鈕關閉。\n- 現在可透過通知的「全部關閉」按鈕關閉所有通知。"
+  },
+  {
+    "source": "Welcome to our public beta event! This build provides access to about 50% of the game's content. Access has been provided by invitation only, and feedback is greatly appreciated! Thank you again for playing and supporting our game.\n\n<b>Changes</b>\n- Final audio tracks selected.\n- Era banner text updated.\n- Numerous small polish improvements to stories and community events.",
+    "target": "歡迎參加我們的公開 Beta 測試活動！這個版本開放約 50% 的遊戲內容，目前僅受邀玩家可參與，非常歡迎提供回饋！再次感謝你遊玩並支持我們的遊戲。\n\n<b>變更</b>\n- 選定最終音軌。\n- 更新時代橫幅文字。\n- 對故事與社群事件進行多項細部修潤。"
+  },
+  {
+    "source": "Testing a major overhaul to the economic balance of the game. In this version, players are required to combine resources from the past, to gain timeline progress in the future. As players get further into the future, this combination process becomes more complex, more layered, and requires further involvement from past characters.\n",
+    "target": "測試遊戲經濟平衡的大幅改造。在這個版本中，玩家必須結合來自過去的資源，才能推進未來的時間軸。隨著玩家深入未來，這種組合過程會越來越複雜、更有層次，也需要過去的角色投入更多協助。"
+  },
+  {
+    "source": "This build contains a number of economic balance adjustments. \n\n<b>Changes</b>\n- Resolved an issue where some artifacts were overlapping.\n- Added wood to timeline resource menus that it was missing from.\n- Work build timers are now dynamic countdown timers.\n- Animals now show \"time\" as the unit of progress on the animals page.",
+    "target": "這個版本包含多項經濟平衡調整。\n\n<b>變更</b>\n- 解決部分文物互相重疊的問題。\n- 在原本缺少木材的時間軸資源選單中補上木材。\n- 工作地點的建造計時器，現在會動態倒數。\n- 動物頁面現在以「時間」作為動物的進度單位。"
+  },
+  {
+    "source": "Segments #1 and #2 have been reworked from a game-flow perspective. Additionally, this build will serve as the foundation for a public demo taking place in Fall 2023.\r\n\r\n<b>Changes</b>\r\n- Flow of character and content unlocks changed for gameplay reasons.\r\n- Adjustments made to progress coefficients throughout the game.\r",
+    "target": "從遊戲流程角度重新製作第一與第二階段。此外，這個版本也將作為 2023 年秋季公開試玩版的基礎。\n\n<b>變更</b>\n- 基於玩法考量，調整角色與內容的解鎖流程。\n- 調整全遊戲的進度係數。"
+  },
+  {
+    "source": "This build marks the end of primary development, and the beginning of our beta testing effort. This version of the game is complete: it is playable, beatable, and contains all initially planned content. We will continue to release updates that resolve defects, balance the game's economy, and improve quality of life.",
+    "target": "這個版本標誌著主要開發工作結束，以及 Beta 測試的開始。此版本的遊戲已完整：可以遊玩、可以通關，並包含最初規劃的所有內容。我們將持續推出更新，修正缺陷、平衡遊戲經濟，並改善遊玩便利性。"
+  },
+  {
+    "source": "We’re continuing to address a wide range of issues raised by the community. \n\r\n<b>Changes</b>\n- [Spoiler Animal] stories / nodes adjusted in the quest tree.\n- Quest tree top-of-page description adjusted.\r\n- [Spoiler Plant] story text no longer misaligned in widescreen mode.\r\n- Offline Progress now defaults to \"On\".",
+    "target": "我們持續處理社群提出的各種問題。\n\n<b>變更</b>\n- 調整任務樹中［涉及劇透的動物］故事與節點。\n- 調整任務樹頁面頂端的說明。\n- ［涉及劇透的植物］故事文字在寬螢幕模式下不再錯位。\n- 離線進度現在預設啟用。"
+  },
+  {
+    "source": "Welcome to Asbury Pines v1.00.000!\n\nWe are glad you are playing the very first release of our new game, <b>Asbury Pines</b>. If you find any bugs, have any ideas for new features, or notice an area that could have more polish or balance, let us know in our discord server!\n\nBest,\n-john & pete",
+    "target": "歡迎來到 Asbury Pines v1.00.000！\n\n很高興你正在遊玩我們新作 <b>Asbury Pines</b> 的首個版本。如果發現錯誤、對新功能有想法，或注意到需要進一步修潤與平衡的地方，請到我們的 Discord 伺服器告訴我們！\n\n祝好，\n-john 與 pete"
+  },
+  {
+    "source": "control of the town. I’ll plan it tomorrow… property purchases, loans and investments ONLY into businesses and people who abide by the Word of the Lord… \r\n\r\nOh indeed, to be spared of hellfire and brimstone is worth giving up every temptation the devil had seeded in the hearts of man.  ",
+    "target": "整個鎮子的控制權。明天就來計畫……購買房產、提供貸款與投資，但只給那些遵循主的話語的商家與人……\n\n噢，確實如此。只要能免受地獄烈火與硫磺的煎熬，放棄魔鬼在人心種下的一切誘惑，絕對值得。"
+  },
+  {
+    "source": "Build includes updates to music page, along with many art assets.\n\n<b>Changes</b>\n- Can now select which songs are played on the music page.\n- Music volume can be adjusted.\n- Added code to display variant portraits for characters who have variant portraits.\n- Loaded all character art.",
+    "target": "這個版本包含音樂頁面更新，以及許多美術素材。\n\n<b>變更</b>\n- 現在可在音樂頁面選擇要播放的曲目。\n- 可以調整音樂音量。\n- 加入程式，為具有不同肖像版本的角色顯示相應肖像。\n- 載入所有角色美術素材。"
+  },
+  {
+    "source": "Includes the following bug fixes & quality of life updates.\n\n<b>Changes</b>\n- Added UI tooltips that address the issue of negative resources on the production flow page, and timeline resource dropdowns.\n- Base Action Lengths now appear correctly in the Action Length Tooltip.",
+    "target": "包含以下錯誤修正與便利性更新。\n\n<b>變更</b>\n- 在生產流動頁面與時間軸資源下拉選單中，加入說明資源負值問題的介面提示。\n- 行動時間提示現在會正確顯示基礎行動時間。"
+  },
+  {
+    "source": "Perhaps Monsior Petellier will bring Gwendolyn children soon. It has been three years since his last visit. \r\n\r\nWhat was that strange look on his face when he saw Gwendolyn digging? A “louf” is what he called us, as if our faculties are damaged, as if our mind is\r\n\r",
+    "target": "也許佩爾蒂耶先生很快會替關德琳帶來孩子。距離他上次造訪，已經三年了。\n\n他看見關德琳挖掘時，臉上那個奇怪表情是怎麼回事？他叫我們「瘋子」，彷彿我們的心智能力受損，彷彿我們的腦子"
+  },
+  {
+    "source": "<b>Mayor's Office:</b> Hello, this is an automated message from the Asbury Pines Office of the Mayor. We are closed, but your call is important to Mayor Van Eisen. Please leave your name, phone number, and the reason for your call. We will contact you at our \n\r",
+    "target": "<b>鎮長辦公室：</b>您好，這是阿斯伯里松林鎮鎮長辦公室的自動語音留言。目前已停止辦公，但范艾森鎮長非常重視您的來電。請留下姓名、電話號碼與來電原因。我們會在"
+  },
+  {
+    "source": "Preparing for EA release with some additional late game economic balance changes, quality of life improvements, and story corrections.\n\n<b>Changes</b>\n- Late game economic balance changes.\n- Several story corrections.\n- Added \"micro-mode\" to the quest tree.",
+    "target": "為搶先體驗版發行做準備，進一步調整後期經濟平衡、改善便利性，並修正故事。\n\n<b>變更</b>\n- 調整後期經濟平衡。\n- 修正數處故事內容。\n- 為任務樹加入「迷你模式」。"
+  },
+  {
+    "source": "Preparing for EA release with some late game economic balance changes, and quality of life improvements.\n\n<b>Changes</b>\n- Late game economic balance changes.\n- Various late game typos and text issues resolved.\n- Some minor adjustments to the help manual.",
+    "target": "為搶先體驗版發行做準備，調整後期經濟平衡並改善便利性。\n\n<b>變更</b>\n- 調整後期經濟平衡。\n- 解決後期各種錯字與文字問題。\n- 小幅調整說明手冊。"
+  },
+  {
+    "source": "Build includes all content, and a complete economy. Will be used for internal testing. Small changes expected from here out, such as Beta Test feedback and internal economic tweaking.\n\n<b>Changes</b>\n- Viable complete economy (coefficients and resources).",
+    "target": "這個版本包含所有內容與完整經濟系統，將用於內部測試。之後預計只會進行小幅變動，例如依 Beta 測試回饋調整，以及內部經濟微調。\n\n<b>變更</b>\n- 可運作的完整經濟系統，包含係數與資源。"
+  },
+  {
+    "source": "The old coot can call Gwendolyn whatever he pleases!\r\n\r\nThe SECRET remains betwixt Gewndolyn and myself – there is a green emerald lode on our land! Riches await! \r\n\r\nWhere in heavens are the children?  ",
+    "target": "那老傢伙愛怎麼叫關德琳，就隨他高興！\n\n祕密仍只屬於關德琳與我——我們的土地上，有一條綠色祖母綠礦脈！財富在等著我們！\n\n孩子們到底跑哪去了？"
+  }
+]

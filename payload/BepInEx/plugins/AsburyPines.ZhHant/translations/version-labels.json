@@ -1,0 +1,190 @@
+[
+  {
+    "source": "v3.00.011 - MINOR UPDATE",
+    "target": "v3.00.011－小型更新"
+  },
+  {
+    "source": "v3.00.005 - MINOR UPDATE",
+    "target": "v3.00.005－小型更新"
+  },
+  {
+    "source": "v1.06.001 - INTERNAL TEST",
+    "target": "v1.06.001－內部測試"
+  },
+  {
+    "source": "v3.00.009 - MINOR UPDATE",
+    "target": "v3.00.009－小型更新"
+  },
+  {
+    "source": "v1.03.001 - EARLY ACCESS DEMO",
+    "target": "v1.03.001－搶先試玩版"
+  },
+  {
+    "source": "v1.05.000 - INTERNAL TEST",
+    "target": "v1.05.000－內部測試"
+  },
+  {
+    "source": "v1.04.000 - INTERNAL TEST",
+    "target": "v1.04.000－內部測試"
+  },
+  {
+    "source": "v2.00.000 - BETA TEST START",
+    "target": "v2.00.000－Beta 測試開始"
+  },
+  {
+    "source": "v3.00.012 - MINOR UPDATE",
+    "target": "v3.00.012－小型更新"
+  },
+  {
+    "source": "v3.00.003 - EARLY ACCESS STAGING",
+    "target": "v3.00.003－搶先體驗版準備"
+  },
+  {
+    "source": "v1.10.001 - INTERNAL TEST",
+    "target": "v1.10.001－內部測試"
+  },
+  {
+    "source": "v2.00.003 - PUBLIC BETA",
+    "target": "v2.00.003－公開 Beta 測試"
+  },
+  {
+    "source": "v3.00.013 - MINOR UPDATE",
+    "target": "v3.00.013－小型更新"
+  },
+  {
+    "source": "v1.12.000 - ECONOMY & BALANCE",
+    "target": "v1.12.000－經濟與平衡"
+  },
+  {
+    "source": "v3.00.000 - EARLY ACCESS STAGING",
+    "target": "v3.00.000－搶先體驗版準備"
+  },
+  {
+    "source": "v1.06.000 - INTERNAL TEST",
+    "target": "v1.06.000－內部測試"
+  },
+  {
+    "source": "v1.12.001 - ECONOMY & BALANCE",
+    "target": "v1.12.001－經濟與平衡"
+  },
+  {
+    "source": "v3.00.001 - EARLY ACCESS STAGING",
+    "target": "v3.00.001－搶先體驗版準備"
+  },
+  {
+    "source": "v1.10.000 - CONTENT LOAD",
+    "target": "v1.10.000－內容載入"
+  },
+  {
+    "source": "v1.01.000 - SEGMENT #1 BETA TEST",
+    "target": "v1.01.000－第一階段 Beta 測試"
+  },
+  {
+    "source": "v1.08.001 - BALANCE CHANGES",
+    "target": "v1.08.001－平衡調整"
+  },
+  {
+    "source": "v1.07.000 - INTERNAL TEST",
+    "target": "v1.07.000－內部測試"
+  },
+  {
+    "source": "v3.00.010 - MINOR UPDATE",
+    "target": "v3.00.010－小型更新"
+  },
+  {
+    "source": "v1.02.001 - MINOR CHANGES",
+    "target": "v1.02.001－小幅變更"
+  },
+  {
+    "source": "v1.09.001 - BALANCE CHANGES",
+    "target": "v1.09.001－平衡調整"
+  },
+  {
+    "source": "v1.07.003 - BALANCE CHANGES",
+    "target": "v1.07.003－平衡調整"
+  },
+  {
+    "source": "v1.07.001 - BALANCE CHANGES",
+    "target": "v1.07.001－平衡調整"
+  },
+  {
+    "source": "v3.00.002 - EARLY ACCESS STAGING",
+    "target": "v3.00.002－搶先體驗版準備"
+  },
+  {
+    "source": "v1.09.000 - BALANCE CHANGES",
+    "target": "v1.09.000－平衡調整"
+  },
+  {
+    "source": "v1.08.000 - INTERNAL TEST",
+    "target": "v1.08.000－內部測試"
+  },
+  {
+    "source": "v1.07.005 - INTERNAL TEST",
+    "target": "v1.07.005－內部測試"
+  },
+  {
+    "source": "v3.01.001 - MINOR UPDATE",
+    "target": "v3.01.001－小型更新"
+  },
+  {
+    "source": "v1.11.000 - INTERNAL TEST",
+    "target": "v1.11.000－內部測試"
+  },
+  {
+    "source": "v1.07.002 - BALANCE CHANGES",
+    "target": "v1.07.002－平衡調整"
+  },
+  {
+    "source": "v2.00.002 - BETA UPDATE",
+    "target": "v2.00.002－Beta 更新"
+  },
+  {
+    "source": "v3.01.000 - MINOR UPDATE",
+    "target": "v3.01.000－小型更新"
+  },
+  {
+    "source": "v1.07.004 - BALANCE CHANGES",
+    "target": "v1.07.004－平衡調整"
+  },
+  {
+    "source": "v1.02.002 - MINOR CHANGES",
+    "target": "v1.02.002－小幅變更"
+  },
+  {
+    "source": "v2.00.001 - BETA UPDATE",
+    "target": "v2.00.001－Beta 更新"
+  },
+  {
+    "source": "v1.03.002 - STEAM DECK SUPPORT",
+    "target": "v1.03.002－Steam Deck 支援"
+  },
+  {
+    "source": "v1.03.000 - DEMO BETA TEST",
+    "target": "v1.03.000－試玩版 Beta 測試"
+  },
+  {
+    "source": "v3.00.007 - MINOR UPDATE",
+    "target": "v3.00.007－小型更新"
+  },
+  {
+    "source": "v1.00.000 - INITIAL RELEASE",
+    "target": "v1.00.000－初始版本"
+  },
+  {
+    "source": "v3.00.004 - EARLY ACCESS RELEASE",
+    "target": "v3.00.004－搶先體驗版發行"
+  },
+  {
+    "source": "v1.02.000 - SEGMENT #2 BETA TEST",
+    "target": "v1.02.000－第二階段 Beta 測試"
+  },
+  {
+    "source": "v3.00.008 - MINOR UPDATE",
+    "target": "v3.00.008－小型更新"
+  },
+  {
+    "source": "v3.00.006 - MINOR UPDATE",
+    "target": "v3.00.006－小型更新"
+  }
+]

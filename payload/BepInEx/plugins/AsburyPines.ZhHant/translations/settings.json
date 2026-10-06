@@ -1,0 +1,14 @@
+[
+  {
+    "source": "<b>Note:</b> This game was designed for the standard 16:9 aspect ratio — ideally in fullscreen at 1080p. Due to the way text scales, especially in longer paragraphs, using other formats may result in minor display issues.",
+    "target": "<b>注意：</b>本遊戲以標準16:9長寬比設計，建議使用1080p全螢幕模式。文字縮放方式可能使其他顯示格式出現輕微的排版問題，尤其是較長的段落。"
+  },
+  {
+    "source": "<b>Note:</b> Native 1080p values are <i>0</i>.",
+    "target": "<b>注意：</b>原生1080p的預設值為 <i>0</i>。"
+  },
+  {
+    "source": "<b>Note:</b> This game was built for 1x speed. The pacing — from story beats to dialogue, from gameplay flow to how content unfolds — is all tuned for that tempo. For the clearest, most balanced experience, we recommend you play at 1x.",
+    "target": "<b>注意：</b>本遊戲以1倍速設計。故事節奏、對話、遊玩流程及內容展開速度，皆依此調整。為獲得最清晰、均衡的體驗，建議以1倍速遊玩。"
+  }
+]

@@ -1,0 +1,3682 @@
+[
+  {
+    "source": "MAIN MENU",
+    "target": "主選單"
+  },
+  {
+    "source": "Main Menu",
+    "target": "主選單"
+  },
+  {
+    "source": "main menu",
+    "target": "主選單"
+  },
+  {
+    "source": "Continue Game",
+    "target": "繼續遊戲"
+  },
+  {
+    "source": "continue game",
+    "target": "繼續遊戲"
+  },
+  {
+    "source": "CONTINUE GAME",
+    "target": "繼續遊戲"
+  },
+  {
+    "source": "New Game",
+    "target": "開始新遊戲"
+  },
+  {
+    "source": "new game",
+    "target": "開始新遊戲"
+  },
+  {
+    "source": "NEW GAME",
+    "target": "開始新遊戲"
+  },
+  {
+    "source": "Start Game",
+    "target": "開始遊戲"
+  },
+  {
+    "source": "START GAME",
+    "target": "開始遊戲"
+  },
+  {
+    "source": "start game",
+    "target": "開始遊戲"
+  },
+  {
+    "source": "load game",
+    "target": "載入遊戲"
+  },
+  {
+    "source": "LOAD GAME",
+    "target": "載入遊戲"
+  },
+  {
+    "source": "Load Game",
+    "target": "載入遊戲"
+  },
+  {
+    "source": "Save Game",
+    "target": "儲存遊戲"
+  },
+  {
+    "source": "save game",
+    "target": "儲存遊戲"
+  },
+  {
+    "source": "SAVE GAME",
+    "target": "儲存遊戲"
+  },
+  {
+    "source": "delete game",
+    "target": "刪除存檔"
+  },
+  {
+    "source": "Delete Game",
+    "target": "刪除存檔"
+  },
+  {
+    "source": "DELETE GAME",
+    "target": "刪除存檔"
+  },
+  {
+    "source": "KEEP GAME",
+    "target": "保留存檔"
+  },
+  {
+    "source": "Keep Game",
+    "target": "保留存檔"
+  },
+  {
+    "source": "keep game",
+    "target": "保留存檔"
+  },
+  {
+    "source": "are you sure you want to delete this game?",
+    "target": "確定要刪除這個存檔嗎？"
+  },
+  {
+    "source": "Are You Sure You Want To Delete This Game?",
+    "target": "確定要刪除這個存檔嗎？"
+  },
+  {
+    "source": "Are you sure you want to delete this game?",
+    "target": "確定要刪除這個存檔嗎？"
+  },
+  {
+    "source": "ARE YOU SURE YOU WANT TO DELETE THIS GAME?",
+    "target": "確定要刪除這個存檔嗎？"
+  },
+  {
+    "source": "SETTINGS",
+    "target": "設定"
+  },
+  {
+    "source": "settings",
+    "target": "設定"
+  },
+  {
+    "source": "Settings",
+    "target": "設定"
+  },
+  {
+    "source": "Help Manual",
+    "target": "遊戲指南"
+  },
+  {
+    "source": "help manual",
+    "target": "遊戲指南"
+  },
+  {
+    "source": "HELP MANUAL",
+    "target": "遊戲指南"
+  },
+  {
+    "source": "development info",
+    "target": "開發資訊"
+  },
+  {
+    "source": "DEVELOPMENT INFO",
+    "target": "開發資訊"
+  },
+  {
+    "source": "Development Info",
+    "target": "開發資訊"
+  },
+  {
+    "source": "Development Log",
+    "target": "開發日誌"
+  },
+  {
+    "source": "DEVELOPMENT LOG",
+    "target": "開發日誌"
+  },
+  {
+    "source": "development log",
+    "target": "開發日誌"
+  },
+  {
+    "source": "QUIT GAME",
+    "target": "離開遊戲"
+  },
+  {
+    "source": "Quit Game",
+    "target": "離開遊戲"
+  },
+  {
+    "source": "quit game",
+    "target": "離開遊戲"
+  },
+  {
+    "source": "EXIT GAME",
+    "target": "離開遊戲"
+  },
+  {
+    "source": "exit game",
+    "target": "離開遊戲"
+  },
+  {
+    "source": "Exit Game",
+    "target": "離開遊戲"
+  },
+  {
+    "source": "QUIT",
+    "target": "離開"
+  },
+  {
+    "source": "quit",
+    "target": "離開"
+  },
+  {
+    "source": "Quit",
+    "target": "離開"
+  },
+  {
+    "source": "Exit",
+    "target": "離開"
+  },
+  {
+    "source": "exit",
+    "target": "離開"
+  },
+  {
+    "source": "EXIT",
+    "target": "離開"
+  },
+  {
+    "source": "Close",
+    "target": "關閉"
+  },
+  {
+    "source": "close",
+    "target": "關閉"
+  },
+  {
+    "source": "CLOSE",
+    "target": "關閉"
+  },
+  {
+    "source": "CLOSE STORY",
+    "target": "關閉故事"
+  },
+  {
+    "source": "close story",
+    "target": "關閉故事"
+  },
+  {
+    "source": "Close Story",
+    "target": "關閉故事"
+  },
+  {
+    "source": "Close All",
+    "target": "全部關閉"
+  },
+  {
+    "source": "close all",
+    "target": "全部關閉"
+  },
+  {
+    "source": "CLOSE ALL",
+    "target": "全部關閉"
+  },
+  {
+    "source": "Apply",
+    "target": "套用"
+  },
+  {
+    "source": "apply",
+    "target": "套用"
+  },
+  {
+    "source": "APPLY",
+    "target": "套用"
+  },
+  {
+    "source": "<< back",
+    "target": "<< 返回"
+  },
+  {
+    "source": "<< BACK",
+    "target": "<< 返回"
+  },
+  {
+    "source": "<< Back",
+    "target": "<< 返回"
+  },
+  {
+    "source": "Back",
+    "target": "返回"
+  },
+  {
+    "source": "back",
+    "target": "返回"
+  },
+  {
+    "source": "BACK",
+    "target": "返回"
+  },
+  {
+    "source": "Loading",
+    "target": "載入中"
+  },
+  {
+    "source": "LOADING",
+    "target": "載入中"
+  },
+  {
+    "source": "loading",
+    "target": "載入中"
+  },
+  {
+    "source": "Loading...",
+    "target": "載入中……"
+  },
+  {
+    "source": "loading...",
+    "target": "載入中……"
+  },
+  {
+    "source": "LOADING...",
+    "target": "載入中……"
+  },
+  {
+    "source": "loaded",
+    "target": "已載入"
+  },
+  {
+    "source": "LOADED",
+    "target": "已載入"
+  },
+  {
+    "source": "Loaded",
+    "target": "已載入"
+  },
+  {
+    "source": "LOADED GAME",
+    "target": "已載入的存檔"
+  },
+  {
+    "source": "Loaded Game",
+    "target": "已載入的存檔"
+  },
+  {
+    "source": "loaded game",
+    "target": "已載入的存檔"
+  },
+  {
+    "source": "Game Not Started.",
+    "target": "尚未開始遊戲。"
+  },
+  {
+    "source": "GAME NOT STARTED.",
+    "target": "尚未開始遊戲。"
+  },
+  {
+    "source": "game not started.",
+    "target": "尚未開始遊戲。"
+  },
+  {
+    "source": "LAST SAVE TIME",
+    "target": "上次儲存時間"
+  },
+  {
+    "source": "Last Save Time",
+    "target": "上次儲存時間"
+  },
+  {
+    "source": "last save time",
+    "target": "上次儲存時間"
+  },
+  {
+    "source": "Save Slot",
+    "target": "存檔欄位"
+  },
+  {
+    "source": "save slot",
+    "target": "存檔欄位"
+  },
+  {
+    "source": "SAVE SLOT",
+    "target": "存檔欄位"
+  },
+  {
+    "source": "main quest",
+    "target": "主要任務"
+  },
+  {
+    "source": "MAIN QUEST",
+    "target": "主要任務"
+  },
+  {
+    "source": "Main Quest",
+    "target": "主要任務"
+  },
+  {
+    "source": "Main",
+    "target": "主要"
+  },
+  {
+    "source": "MAIN",
+    "target": "主要"
+  },
+  {
+    "source": "main",
+    "target": "主要"
+  },
+  {
+    "source": "RESOURCES",
+    "target": "資源"
+  },
+  {
+    "source": "Resources",
+    "target": "資源"
+  },
+  {
+    "source": "resources",
+    "target": "資源"
+  },
+  {
+    "source": "ERA RESOURCES",
+    "target": "時代資源"
+  },
+  {
+    "source": "Era Resources",
+    "target": "時代資源"
+  },
+  {
+    "source": "era resources",
+    "target": "時代資源"
+  },
+  {
+    "source": "Resource",
+    "target": "資源"
+  },
+  {
+    "source": "RESOURCE",
+    "target": "資源"
+  },
+  {
+    "source": "resource",
+    "target": "資源"
+  },
+  {
+    "source": "Perks",
+    "target": "加成"
+  },
+  {
+    "source": "perks",
+    "target": "加成"
+  },
+  {
+    "source": "PERKS",
+    "target": "加成"
+  },
+  {
+    "source": "Perk",
+    "target": "加成"
+  },
+  {
+    "source": "perk",
+    "target": "加成"
+  },
+  {
+    "source": "PERK",
+    "target": "加成"
+  },
+  {
+    "source": "People",
+    "target": "人物"
+  },
+  {
+    "source": "people",
+    "target": "人物"
+  },
+  {
+    "source": "PEOPLE",
+    "target": "人物"
+  },
+  {
+    "source": "ANIMALS",
+    "target": "動物"
+  },
+  {
+    "source": "animals",
+    "target": "動物"
+  },
+  {
+    "source": "Animals",
+    "target": "動物"
+  },
+  {
+    "source": "plants",
+    "target": "植物"
+  },
+  {
+    "source": "Plants",
+    "target": "植物"
+  },
+  {
+    "source": "PLANTS",
+    "target": "植物"
+  },
+  {
+    "source": "community events",
+    "target": "社群事件"
+  },
+  {
+    "source": "COMMUNITY EVENTS",
+    "target": "社群事件"
+  },
+  {
+    "source": "Community Events",
+    "target": "社群事件"
+  },
+  {
+    "source": "COMMUNITY",
+    "target": "社群"
+  },
+  {
+    "source": "community",
+    "target": "社群"
+  },
+  {
+    "source": "Community",
+    "target": "社群"
+  },
+  {
+    "source": "stories",
+    "target": "故事"
+  },
+  {
+    "source": "Stories",
+    "target": "故事"
+  },
+  {
+    "source": "STORIES",
+    "target": "故事"
+  },
+  {
+    "source": "story",
+    "target": "故事"
+  },
+  {
+    "source": "Story",
+    "target": "故事"
+  },
+  {
+    "source": "STORY",
+    "target": "故事"
+  },
+  {
+    "source": "Work",
+    "target": "工作"
+  },
+  {
+    "source": "WORK",
+    "target": "工作"
+  },
+  {
+    "source": "work",
+    "target": "工作"
+  },
+  {
+    "source": "NATURE LOCATIONS",
+    "target": "自然地點"
+  },
+  {
+    "source": "Nature Locations",
+    "target": "自然地點"
+  },
+  {
+    "source": "nature locations",
+    "target": "自然地點"
+  },
+  {
+    "source": "Nature",
+    "target": "自然"
+  },
+  {
+    "source": "NATURE",
+    "target": "自然"
+  },
+  {
+    "source": "nature",
+    "target": "自然"
+  },
+  {
+    "source": "SCAVENGING",
+    "target": "拾荒"
+  },
+  {
+    "source": "Scavenging",
+    "target": "拾荒"
+  },
+  {
+    "source": "scavenging",
+    "target": "拾荒"
+  },
+  {
+    "source": "Government",
+    "target": "政體"
+  },
+  {
+    "source": "GOVERNMENT",
+    "target": "政體"
+  },
+  {
+    "source": "government",
+    "target": "政體"
+  },
+  {
+    "source": "SCIENCE",
+    "target": "科學"
+  },
+  {
+    "source": "science",
+    "target": "科學"
+  },
+  {
+    "source": "Science",
+    "target": "科學"
+  },
+  {
+    "source": "SCIENCES",
+    "target": "科學"
+  },
+  {
+    "source": "sciences",
+    "target": "科學"
+  },
+  {
+    "source": "Sciences",
+    "target": "科學"
+  },
+  {
+    "source": "Religion",
+    "target": "宗教"
+  },
+  {
+    "source": "religion",
+    "target": "宗教"
+  },
+  {
+    "source": "RELIGION",
+    "target": "宗教"
+  },
+  {
+    "source": "Religions",
+    "target": "宗教"
+  },
+  {
+    "source": "RELIGIONS",
+    "target": "宗教"
+  },
+  {
+    "source": "religions",
+    "target": "宗教"
+  },
+  {
+    "source": "Artifacts",
+    "target": "文物"
+  },
+  {
+    "source": "artifacts",
+    "target": "文物"
+  },
+  {
+    "source": "ARTIFACTS",
+    "target": "文物"
+  },
+  {
+    "source": "NOTIFICATION LOG",
+    "target": "通知紀錄"
+  },
+  {
+    "source": "Notification Log",
+    "target": "通知紀錄"
+  },
+  {
+    "source": "notification log",
+    "target": "通知紀錄"
+  },
+  {
+    "source": "Music",
+    "target": "音樂"
+  },
+  {
+    "source": "MUSIC",
+    "target": "音樂"
+  },
+  {
+    "source": "music",
+    "target": "音樂"
+  },
+  {
+    "source": "MUSIC OFF",
+    "target": "關閉音樂"
+  },
+  {
+    "source": "Music Off",
+    "target": "關閉音樂"
+  },
+  {
+    "source": "music off",
+    "target": "關閉音樂"
+  },
+  {
+    "source": "music on",
+    "target": "開啟音樂"
+  },
+  {
+    "source": "Music On",
+    "target": "開啟音樂"
+  },
+  {
+    "source": "MUSIC ON",
+    "target": "開啟音樂"
+  },
+  {
+    "source": "NO TRACKS SELECTED",
+    "target": "尚未選擇曲目"
+  },
+  {
+    "source": "No Tracks Selected",
+    "target": "尚未選擇曲目"
+  },
+  {
+    "source": "no tracks selected",
+    "target": "尚未選擇曲目"
+  },
+  {
+    "source": "NOTIFICATIONS",
+    "target": "通知"
+  },
+  {
+    "source": "notifications",
+    "target": "通知"
+  },
+  {
+    "source": "Notifications",
+    "target": "通知"
+  },
+  {
+    "source": "Notification Text",
+    "target": "通知文字"
+  },
+  {
+    "source": "NOTIFICATION TEXT",
+    "target": "通知文字"
+  },
+  {
+    "source": "notification text",
+    "target": "通知文字"
+  },
+  {
+    "source": "all quest items completed",
+    "target": "已完成所有任務項目"
+  },
+  {
+    "source": "All Quest Items Completed",
+    "target": "已完成所有任務項目"
+  },
+  {
+    "source": "ALL QUEST ITEMS COMPLETED",
+    "target": "已完成所有任務項目"
+  },
+  {
+    "source": "All Sciences Researched",
+    "target": "已完成所有科學研究"
+  },
+  {
+    "source": "ALL SCIENCES RESEARCHED",
+    "target": "已完成所有科學研究"
+  },
+  {
+    "source": "all sciences researched",
+    "target": "已完成所有科學研究"
+  },
+  {
+    "source": "Progression Status",
+    "target": "進度狀態"
+  },
+  {
+    "source": "PROGRESSION STATUS",
+    "target": "進度狀態"
+  },
+  {
+    "source": "progression status",
+    "target": "進度狀態"
+  },
+  {
+    "source": "PROGRESSION TREE",
+    "target": "進度樹"
+  },
+  {
+    "source": "progression tree",
+    "target": "進度樹"
+  },
+  {
+    "source": "Progression Tree",
+    "target": "進度樹"
+  },
+  {
+    "source": "production flow",
+    "target": "生產流程"
+  },
+  {
+    "source": "Production Flow",
+    "target": "生產流程"
+  },
+  {
+    "source": "PRODUCTION FLOW",
+    "target": "生產流程"
+  },
+  {
+    "source": "production",
+    "target": "生產"
+  },
+  {
+    "source": "Production",
+    "target": "生產"
+  },
+  {
+    "source": "PRODUCTION",
+    "target": "生產"
+  },
+  {
+    "source": "experience",
+    "target": "經驗"
+  },
+  {
+    "source": "EXPERIENCE",
+    "target": "經驗"
+  },
+  {
+    "source": "Experience",
+    "target": "經驗"
+  },
+  {
+    "source": "exp pool",
+    "target": "經驗池"
+  },
+  {
+    "source": "Exp Pool",
+    "target": "經驗池"
+  },
+  {
+    "source": "EXP POOL",
+    "target": "經驗池"
+  },
+  {
+    "source": "food",
+    "target": "食物"
+  },
+  {
+    "source": "FOOD",
+    "target": "食物"
+  },
+  {
+    "source": "Food",
+    "target": "食物"
+  },
+  {
+    "source": "WOOD",
+    "target": "木材"
+  },
+  {
+    "source": "Wood",
+    "target": "木材"
+  },
+  {
+    "source": "wood",
+    "target": "木材"
+  },
+  {
+    "source": "STONE",
+    "target": "石材"
+  },
+  {
+    "source": "Stone",
+    "target": "石材"
+  },
+  {
+    "source": "stone",
+    "target": "石材"
+  },
+  {
+    "source": "ceramics",
+    "target": "陶器"
+  },
+  {
+    "source": "Ceramics",
+    "target": "陶器"
+  },
+  {
+    "source": "CERAMICS",
+    "target": "陶器"
+  },
+  {
+    "source": "plastics",
+    "target": "塑膠"
+  },
+  {
+    "source": "PLASTICS",
+    "target": "塑膠"
+  },
+  {
+    "source": "Plastics",
+    "target": "塑膠"
+  },
+  {
+    "source": "Oil",
+    "target": "石油"
+  },
+  {
+    "source": "OIL",
+    "target": "石油"
+  },
+  {
+    "source": "oil",
+    "target": "石油"
+  },
+  {
+    "source": "Electricity",
+    "target": "電力"
+  },
+  {
+    "source": "electricity",
+    "target": "電力"
+  },
+  {
+    "source": "ELECTRICITY",
+    "target": "電力"
+  },
+  {
+    "source": "MONEY",
+    "target": "金錢"
+  },
+  {
+    "source": "money",
+    "target": "金錢"
+  },
+  {
+    "source": "Money",
+    "target": "金錢"
+  },
+  {
+    "source": "HIDES",
+    "target": "獸皮"
+  },
+  {
+    "source": "hides",
+    "target": "獸皮"
+  },
+  {
+    "source": "Hides",
+    "target": "獸皮"
+  },
+  {
+    "source": "Prayers",
+    "target": "祈禱"
+  },
+  {
+    "source": "PRAYERS",
+    "target": "祈禱"
+  },
+  {
+    "source": "prayers",
+    "target": "祈禱"
+  },
+  {
+    "source": "KNOWLEDGE",
+    "target": "知識"
+  },
+  {
+    "source": "knowledge",
+    "target": "知識"
+  },
+  {
+    "source": "Knowledge",
+    "target": "知識"
+  },
+  {
+    "source": "computers",
+    "target": "電腦"
+  },
+  {
+    "source": "COMPUTERS",
+    "target": "電腦"
+  },
+  {
+    "source": "Computers",
+    "target": "電腦"
+  },
+  {
+    "source": "IRON",
+    "target": "鐵"
+  },
+  {
+    "source": "Iron",
+    "target": "鐵"
+  },
+  {
+    "source": "iron",
+    "target": "鐵"
+  },
+  {
+    "source": "STEEL",
+    "target": "鋼"
+  },
+  {
+    "source": "steel",
+    "target": "鋼"
+  },
+  {
+    "source": "Steel",
+    "target": "鋼"
+  },
+  {
+    "source": "snails",
+    "target": "蝸牛"
+  },
+  {
+    "source": "Snails",
+    "target": "蝸牛"
+  },
+  {
+    "source": "SNAILS",
+    "target": "蝸牛"
+  },
+  {
+    "source": "green opals",
+    "target": "綠蛋白石"
+  },
+  {
+    "source": "GREEN OPALS",
+    "target": "綠蛋白石"
+  },
+  {
+    "source": "Green Opals",
+    "target": "綠蛋白石"
+  },
+  {
+    "source": "neolithic",
+    "target": "新石器時代"
+  },
+  {
+    "source": "NEOLITHIC",
+    "target": "新石器時代"
+  },
+  {
+    "source": "Neolithic",
+    "target": "新石器時代"
+  },
+  {
+    "source": "Colonial",
+    "target": "殖民時代"
+  },
+  {
+    "source": "colonial",
+    "target": "殖民時代"
+  },
+  {
+    "source": "COLONIAL",
+    "target": "殖民時代"
+  },
+  {
+    "source": "long depression",
+    "target": "長期蕭條"
+  },
+  {
+    "source": "Long Depression",
+    "target": "長期蕭條"
+  },
+  {
+    "source": "LONG DEPRESSION",
+    "target": "長期蕭條"
+  },
+  {
+    "source": "jazz age",
+    "target": "爵士時代"
+  },
+  {
+    "source": "Jazz Age",
+    "target": "爵士時代"
+  },
+  {
+    "source": "JAZZ AGE",
+    "target": "爵士時代"
+  },
+  {
+    "source": "ROARING TWENTIES",
+    "target": "咆哮的二○年代"
+  },
+  {
+    "source": "roaring twenties",
+    "target": "咆哮的二○年代"
+  },
+  {
+    "source": "Roaring Twenties",
+    "target": "咆哮的二○年代"
+  },
+  {
+    "source": "Space Age",
+    "target": "太空時代"
+  },
+  {
+    "source": "space age",
+    "target": "太空時代"
+  },
+  {
+    "source": "SPACE AGE",
+    "target": "太空時代"
+  },
+  {
+    "source": "y2k",
+    "target": "千禧年"
+  },
+  {
+    "source": "Y2K",
+    "target": "千禧年"
+  },
+  {
+    "source": "present",
+    "target": "當代"
+  },
+  {
+    "source": "PRESENT",
+    "target": "當代"
+  },
+  {
+    "source": "Present",
+    "target": "當代"
+  },
+  {
+    "source": "Worm83",
+    "target": "蠕蟲83"
+  },
+  {
+    "source": "WORM83",
+    "target": "蠕蟲83"
+  },
+  {
+    "source": "worm83",
+    "target": "蠕蟲83"
+  },
+  {
+    "source": "the tides",
+    "target": "潮汐時代"
+  },
+  {
+    "source": "THE TIDES",
+    "target": "潮汐時代"
+  },
+  {
+    "source": "The Tides",
+    "target": "潮汐時代"
+  },
+  {
+    "source": "SNAIL BARBARISM",
+    "target": "蝸牛蠻荒時代"
+  },
+  {
+    "source": "snail barbarism",
+    "target": "蝸牛蠻荒時代"
+  },
+  {
+    "source": "Snail Barbarism",
+    "target": "蝸牛蠻荒時代"
+  },
+  {
+    "source": "dust age",
+    "target": "塵埃時代"
+  },
+  {
+    "source": "Dust Age",
+    "target": "塵埃時代"
+  },
+  {
+    "source": "DUST AGE",
+    "target": "塵埃時代"
+  },
+  {
+    "source": "SECOND RENAISSANCE",
+    "target": "第二次文藝復興"
+  },
+  {
+    "source": "second renaissance",
+    "target": "第二次文藝復興"
+  },
+  {
+    "source": "Second Renaissance",
+    "target": "第二次文藝復興"
+  },
+  {
+    "source": "Colonial Production",
+    "target": "殖民時代生產"
+  },
+  {
+    "source": "COLONIAL PRODUCTION",
+    "target": "殖民時代生產"
+  },
+  {
+    "source": "colonial production",
+    "target": "殖民時代生產"
+  },
+  {
+    "source": "Era",
+    "target": "時代"
+  },
+  {
+    "source": "ERA",
+    "target": "時代"
+  },
+  {
+    "source": "era",
+    "target": "時代"
+  },
+  {
+    "source": "PAST",
+    "target": "過去"
+  },
+  {
+    "source": "Past",
+    "target": "過去"
+  },
+  {
+    "source": "past",
+    "target": "過去"
+  },
+  {
+    "source": "Future",
+    "target": "未來"
+  },
+  {
+    "source": "future",
+    "target": "未來"
+  },
+  {
+    "source": "FUTURE",
+    "target": "未來"
+  },
+  {
+    "source": "idle",
+    "target": "閒置"
+  },
+  {
+    "source": "IDLE",
+    "target": "閒置"
+  },
+  {
+    "source": "Idle",
+    "target": "閒置"
+  },
+  {
+    "source": "Idle All",
+    "target": "全部閒置"
+  },
+  {
+    "source": "IDLE ALL",
+    "target": "全部閒置"
+  },
+  {
+    "source": "idle all",
+    "target": "全部閒置"
+  },
+  {
+    "source": "working",
+    "target": "工作中"
+  },
+  {
+    "source": "Working",
+    "target": "工作中"
+  },
+  {
+    "source": "WORKING",
+    "target": "工作中"
+  },
+  {
+    "source": "LIVING",
+    "target": "生活中"
+  },
+  {
+    "source": "Living",
+    "target": "生活中"
+  },
+  {
+    "source": "living",
+    "target": "生活中"
+  },
+  {
+    "source": "LIVE LIFE",
+    "target": "過生活"
+  },
+  {
+    "source": "live life",
+    "target": "過生活"
+  },
+  {
+    "source": "Live Life",
+    "target": "過生活"
+  },
+  {
+    "source": "build",
+    "target": "建造"
+  },
+  {
+    "source": "BUILD",
+    "target": "建造"
+  },
+  {
+    "source": "Build",
+    "target": "建造"
+  },
+  {
+    "source": "BUILDING",
+    "target": "建造中"
+  },
+  {
+    "source": "building",
+    "target": "建造中"
+  },
+  {
+    "source": "Building",
+    "target": "建造中"
+  },
+  {
+    "source": "building cost",
+    "target": "建造成本"
+  },
+  {
+    "source": "Building Cost",
+    "target": "建造成本"
+  },
+  {
+    "source": "BUILDING COST",
+    "target": "建造成本"
+  },
+  {
+    "source": "Cost",
+    "target": "成本"
+  },
+  {
+    "source": "cost",
+    "target": "成本"
+  },
+  {
+    "source": "COST",
+    "target": "成本"
+  },
+  {
+    "source": "explore",
+    "target": "探索"
+  },
+  {
+    "source": "EXPLORE",
+    "target": "探索"
+  },
+  {
+    "source": "Explore",
+    "target": "探索"
+  },
+  {
+    "source": "Explorer",
+    "target": "探索者"
+  },
+  {
+    "source": "explorer",
+    "target": "探索者"
+  },
+  {
+    "source": "EXPLORER",
+    "target": "探索者"
+  },
+  {
+    "source": "Exploring",
+    "target": "探索中"
+  },
+  {
+    "source": "exploring",
+    "target": "探索中"
+  },
+  {
+    "source": "EXPLORING",
+    "target": "探索中"
+  },
+  {
+    "source": "Examine",
+    "target": "檢視"
+  },
+  {
+    "source": "examine",
+    "target": "檢視"
+  },
+  {
+    "source": "EXAMINE",
+    "target": "檢視"
+  },
+  {
+    "source": "Examiner",
+    "target": "檢視者"
+  },
+  {
+    "source": "examiner",
+    "target": "檢視者"
+  },
+  {
+    "source": "EXAMINER",
+    "target": "檢視者"
+  },
+  {
+    "source": "Examining",
+    "target": "檢視中"
+  },
+  {
+    "source": "EXAMINING",
+    "target": "檢視中"
+  },
+  {
+    "source": "examining",
+    "target": "檢視中"
+  },
+  {
+    "source": "RESEARCH",
+    "target": "研究"
+  },
+  {
+    "source": "research",
+    "target": "研究"
+  },
+  {
+    "source": "Research",
+    "target": "研究"
+  },
+  {
+    "source": "RESEARCHER",
+    "target": "研究者"
+  },
+  {
+    "source": "Researcher",
+    "target": "研究者"
+  },
+  {
+    "source": "researcher",
+    "target": "研究者"
+  },
+  {
+    "source": "RESEARCHING",
+    "target": "研究中"
+  },
+  {
+    "source": "Researching",
+    "target": "研究中"
+  },
+  {
+    "source": "researching",
+    "target": "研究中"
+  },
+  {
+    "source": "Worship",
+    "target": "信奉"
+  },
+  {
+    "source": "worship",
+    "target": "信奉"
+  },
+  {
+    "source": "WORSHIP",
+    "target": "信奉"
+  },
+  {
+    "source": "WORSHIPPING",
+    "target": "信奉中"
+  },
+  {
+    "source": "worshipping",
+    "target": "信奉中"
+  },
+  {
+    "source": "Worshipping",
+    "target": "信奉中"
+  },
+  {
+    "source": "govern",
+    "target": "治理"
+  },
+  {
+    "source": "Govern",
+    "target": "治理"
+  },
+  {
+    "source": "GOVERN",
+    "target": "治理"
+  },
+  {
+    "source": "Governing",
+    "target": "治理中"
+  },
+  {
+    "source": "governing",
+    "target": "治理中"
+  },
+  {
+    "source": "GOVERNING",
+    "target": "治理中"
+  },
+  {
+    "source": "SCAVENGE",
+    "target": "拾荒"
+  },
+  {
+    "source": "scavenge",
+    "target": "拾荒"
+  },
+  {
+    "source": "Scavenge",
+    "target": "拾荒"
+  },
+  {
+    "source": "Scavenger",
+    "target": "拾荒者"
+  },
+  {
+    "source": "scavenger",
+    "target": "拾荒者"
+  },
+  {
+    "source": "SCAVENGER",
+    "target": "拾荒者"
+  },
+  {
+    "source": "Go Fishing",
+    "target": "去釣魚"
+  },
+  {
+    "source": "GO FISHING",
+    "target": "去釣魚"
+  },
+  {
+    "source": "go fishing",
+    "target": "去釣魚"
+  },
+  {
+    "source": "fishing",
+    "target": "釣魚"
+  },
+  {
+    "source": "Fishing",
+    "target": "釣魚"
+  },
+  {
+    "source": "FISHING",
+    "target": "釣魚"
+  },
+  {
+    "source": "develop friendship",
+    "target": "培養友誼"
+  },
+  {
+    "source": "DEVELOP FRIENDSHIP",
+    "target": "培養友誼"
+  },
+  {
+    "source": "Develop Friendship",
+    "target": "培養友誼"
+  },
+  {
+    "source": "developing friendship...",
+    "target": "正在培養友誼……"
+  },
+  {
+    "source": "Developing Friendship...",
+    "target": "正在培養友誼……"
+  },
+  {
+    "source": "DEVELOPING FRIENDSHIP...",
+    "target": "正在培養友誼……"
+  },
+  {
+    "source": "FRIENDSHIP SKILL BOOSTS",
+    "target": "友誼技能加成"
+  },
+  {
+    "source": "friendship skill boosts",
+    "target": "友誼技能加成"
+  },
+  {
+    "source": "Friendship Skill Boosts",
+    "target": "友誼技能加成"
+  },
+  {
+    "source": "LEARNING...",
+    "target": "學習中……"
+  },
+  {
+    "source": "Learning...",
+    "target": "學習中……"
+  },
+  {
+    "source": "learning...",
+    "target": "學習中……"
+  },
+  {
+    "source": "enable support role(s)",
+    "target": "啟用支援職位"
+  },
+  {
+    "source": "Enable Support Role(S)",
+    "target": "啟用支援職位"
+  },
+  {
+    "source": "ENABLE SUPPORT ROLE(S)",
+    "target": "啟用支援職位"
+  },
+  {
+    "source": "inputs",
+    "target": "投入"
+  },
+  {
+    "source": "INPUTS",
+    "target": "投入"
+  },
+  {
+    "source": "Inputs",
+    "target": "投入"
+  },
+  {
+    "source": "OUTPUTS",
+    "target": "產出"
+  },
+  {
+    "source": "Outputs",
+    "target": "產出"
+  },
+  {
+    "source": "outputs",
+    "target": "產出"
+  },
+  {
+    "source": "NO INPUT REQUIRED",
+    "target": "無需投入資源"
+  },
+  {
+    "source": "No Input Required",
+    "target": "無需投入資源"
+  },
+  {
+    "source": "no input required",
+    "target": "無需投入資源"
+  },
+  {
+    "source": "Final Yield",
+    "target": "最終產量"
+  },
+  {
+    "source": "final yield",
+    "target": "最終產量"
+  },
+  {
+    "source": "FINAL YIELD",
+    "target": "最終產量"
+  },
+  {
+    "source": "BONUS",
+    "target": "加成"
+  },
+  {
+    "source": "bonus",
+    "target": "加成"
+  },
+  {
+    "source": "Bonus",
+    "target": "加成"
+  },
+  {
+    "source": "BONUS FROM PERKS",
+    "target": "項目加成"
+  },
+  {
+    "source": "bonus from perks",
+    "target": "項目加成"
+  },
+  {
+    "source": "Bonus From Perks",
+    "target": "項目加成"
+  },
+  {
+    "source": "EFFECT",
+    "target": "效果"
+  },
+  {
+    "source": "Effect",
+    "target": "效果"
+  },
+  {
+    "source": "effect",
+    "target": "效果"
+  },
+  {
+    "source": "Influence",
+    "target": "影響力"
+  },
+  {
+    "source": "INFLUENCE",
+    "target": "影響力"
+  },
+  {
+    "source": "influence",
+    "target": "影響力"
+  },
+  {
+    "source": "currently",
+    "target": "目前"
+  },
+  {
+    "source": "CURRENTLY",
+    "target": "目前"
+  },
+  {
+    "source": "Currently",
+    "target": "目前"
+  },
+  {
+    "source": "currently worshipping",
+    "target": "目前信奉"
+  },
+  {
+    "source": "Currently Worshipping",
+    "target": "目前信奉"
+  },
+  {
+    "source": "CURRENTLY WORSHIPPING",
+    "target": "目前信奉"
+  },
+  {
+    "source": "level",
+    "target": "等級"
+  },
+  {
+    "source": "Level",
+    "target": "等級"
+  },
+  {
+    "source": "LEVEL",
+    "target": "等級"
+  },
+  {
+    "source": "lvl",
+    "target": "等級"
+  },
+  {
+    "source": "Lvl",
+    "target": "等級"
+  },
+  {
+    "source": "LVL",
+    "target": "等級"
+  },
+  {
+    "source": "Lvl Boost",
+    "target": "等級加成"
+  },
+  {
+    "source": "LVL BOOST",
+    "target": "等級加成"
+  },
+  {
+    "source": "lvl boost",
+    "target": "等級加成"
+  },
+  {
+    "source": "skills",
+    "target": "技能"
+  },
+  {
+    "source": "SKILLS",
+    "target": "技能"
+  },
+  {
+    "source": "Skills",
+    "target": "技能"
+  },
+  {
+    "source": "SKILL",
+    "target": "技能"
+  },
+  {
+    "source": "Skill",
+    "target": "技能"
+  },
+  {
+    "source": "skill",
+    "target": "技能"
+  },
+  {
+    "source": "actions",
+    "target": "行動"
+  },
+  {
+    "source": "ACTIONS",
+    "target": "行動"
+  },
+  {
+    "source": "Actions",
+    "target": "行動"
+  },
+  {
+    "source": "Completed",
+    "target": "已完成"
+  },
+  {
+    "source": "COMPLETED",
+    "target": "已完成"
+  },
+  {
+    "source": "completed",
+    "target": "已完成"
+  },
+  {
+    "source": "completed.",
+    "target": "已完成。"
+  },
+  {
+    "source": "Completed.",
+    "target": "已完成。"
+  },
+  {
+    "source": "COMPLETED.",
+    "target": "已完成。"
+  },
+  {
+    "source": "Explored.",
+    "target": "已探索。"
+  },
+  {
+    "source": "EXPLORED.",
+    "target": "已探索。"
+  },
+  {
+    "source": "explored.",
+    "target": "已探索。"
+  },
+  {
+    "source": "Examined.",
+    "target": "已檢視。"
+  },
+  {
+    "source": "examined.",
+    "target": "已檢視。"
+  },
+  {
+    "source": "EXAMINED.",
+    "target": "已檢視。"
+  },
+  {
+    "source": "Locked",
+    "target": "尚未解鎖"
+  },
+  {
+    "source": "LOCKED",
+    "target": "尚未解鎖"
+  },
+  {
+    "source": "locked",
+    "target": "尚未解鎖"
+  },
+  {
+    "source": "Locked.",
+    "target": "尚未解鎖。"
+  },
+  {
+    "source": "LOCKED.",
+    "target": "尚未解鎖。"
+  },
+  {
+    "source": "locked.",
+    "target": "尚未解鎖。"
+  },
+  {
+    "source": "NOT YET BUILT.",
+    "target": "尚未建造。"
+  },
+  {
+    "source": "not yet built.",
+    "target": "尚未建造。"
+  },
+  {
+    "source": "Not Yet Built.",
+    "target": "尚未建造。"
+  },
+  {
+    "source": "no progress.",
+    "target": "尚無進度。"
+  },
+  {
+    "source": "No progress.",
+    "target": "尚無進度。"
+  },
+  {
+    "source": "No Progress.",
+    "target": "尚無進度。"
+  },
+  {
+    "source": "NO PROGRESS.",
+    "target": "尚無進度。"
+  },
+  {
+    "source": "completion",
+    "target": "完成度"
+  },
+  {
+    "source": "Completion",
+    "target": "完成度"
+  },
+  {
+    "source": "COMPLETION",
+    "target": "完成度"
+  },
+  {
+    "source": "None",
+    "target": "無"
+  },
+  {
+    "source": "none",
+    "target": "無"
+  },
+  {
+    "source": "NONE",
+    "target": "無"
+  },
+  {
+    "source": "More",
+    "target": "更多"
+  },
+  {
+    "source": "more",
+    "target": "更多"
+  },
+  {
+    "source": "MORE",
+    "target": "更多"
+  },
+  {
+    "source": "INFO",
+    "target": "資訊"
+  },
+  {
+    "source": "Info",
+    "target": "資訊"
+  },
+  {
+    "source": "info",
+    "target": "資訊"
+  },
+  {
+    "source": "Help",
+    "target": "說明"
+  },
+  {
+    "source": "help",
+    "target": "說明"
+  },
+  {
+    "source": "HELP",
+    "target": "說明"
+  },
+  {
+    "source": "hint:",
+    "target": "提示："
+  },
+  {
+    "source": "HINT:",
+    "target": "提示："
+  },
+  {
+    "source": "Hint:",
+    "target": "提示："
+  },
+  {
+    "source": "name",
+    "target": "名稱"
+  },
+  {
+    "source": "NAME",
+    "target": "名稱"
+  },
+  {
+    "source": "Name",
+    "target": "名稱"
+  },
+  {
+    "source": "NAME:",
+    "target": "名稱："
+  },
+  {
+    "source": "name:",
+    "target": "名稱："
+  },
+  {
+    "source": "Name:",
+    "target": "名稱："
+  },
+  {
+    "source": "Age",
+    "target": "年齡"
+  },
+  {
+    "source": "age",
+    "target": "年齡"
+  },
+  {
+    "source": "AGE",
+    "target": "年齡"
+  },
+  {
+    "source": "AGE:",
+    "target": "年齡："
+  },
+  {
+    "source": "age:",
+    "target": "年齡："
+  },
+  {
+    "source": "Age:",
+    "target": "年齡："
+  },
+  {
+    "source": "DATE",
+    "target": "日期"
+  },
+  {
+    "source": "date",
+    "target": "日期"
+  },
+  {
+    "source": "Date",
+    "target": "日期"
+  },
+  {
+    "source": "DATE:",
+    "target": "日期："
+  },
+  {
+    "source": "Date:",
+    "target": "日期："
+  },
+  {
+    "source": "date:",
+    "target": "日期："
+  },
+  {
+    "source": "CATEGORY",
+    "target": "類別"
+  },
+  {
+    "source": "category",
+    "target": "類別"
+  },
+  {
+    "source": "Category",
+    "target": "類別"
+  },
+  {
+    "source": "EVENT",
+    "target": "事件"
+  },
+  {
+    "source": "event",
+    "target": "事件"
+  },
+  {
+    "source": "Event",
+    "target": "事件"
+  },
+  {
+    "source": "Narrative",
+    "target": "敘事"
+  },
+  {
+    "source": "narrative",
+    "target": "敘事"
+  },
+  {
+    "source": "NARRATIVE",
+    "target": "敘事"
+  },
+  {
+    "source": "characters",
+    "target": "角色"
+  },
+  {
+    "source": "CHARACTERS",
+    "target": "角色"
+  },
+  {
+    "source": "Characters",
+    "target": "角色"
+  },
+  {
+    "source": "GAME AREAS",
+    "target": "遊戲區域"
+  },
+  {
+    "source": "game areas",
+    "target": "遊戲區域"
+  },
+  {
+    "source": "Game Areas",
+    "target": "遊戲區域"
+  },
+  {
+    "source": "OFFICIALS",
+    "target": "官員"
+  },
+  {
+    "source": "Officials",
+    "target": "官員"
+  },
+  {
+    "source": "officials",
+    "target": "官員"
+  },
+  {
+    "source": "Notice",
+    "target": "公告"
+  },
+  {
+    "source": "notice",
+    "target": "公告"
+  },
+  {
+    "source": "NOTICE",
+    "target": "公告"
+  },
+  {
+    "source": "platform",
+    "target": "平台"
+  },
+  {
+    "source": "PLATFORM",
+    "target": "平台"
+  },
+  {
+    "source": "Platform",
+    "target": "平台"
+  },
+  {
+    "source": "ON/OFF",
+    "target": "開／關"
+  },
+  {
+    "source": "On/Off",
+    "target": "開／關"
+  },
+  {
+    "source": "on/off",
+    "target": "開／關"
+  },
+  {
+    "source": "on",
+    "target": "開啟"
+  },
+  {
+    "source": "ON",
+    "target": "開啟"
+  },
+  {
+    "source": "On",
+    "target": "開啟"
+  },
+  {
+    "source": "OFF",
+    "target": "關閉"
+  },
+  {
+    "source": "Off",
+    "target": "關閉"
+  },
+  {
+    "source": "off",
+    "target": "關閉"
+  },
+  {
+    "source": "Ok",
+    "target": "確定"
+  },
+  {
+    "source": "ok",
+    "target": "確定"
+  },
+  {
+    "source": "OK",
+    "target": "確定"
+  },
+  {
+    "source": "yes",
+    "target": "是"
+  },
+  {
+    "source": "Yes",
+    "target": "是"
+  },
+  {
+    "source": "YES",
+    "target": "是"
+  },
+  {
+    "source": "no",
+    "target": "否"
+  },
+  {
+    "source": "No",
+    "target": "否"
+  },
+  {
+    "source": "NO",
+    "target": "否"
+  },
+  {
+    "source": "No.",
+    "target": "不。"
+  },
+  {
+    "source": "no.",
+    "target": "不。"
+  },
+  {
+    "source": "NO.",
+    "target": "不。"
+  },
+  {
+    "source": "DEFAULT",
+    "target": "預設"
+  },
+  {
+    "source": "default",
+    "target": "預設"
+  },
+  {
+    "source": "Default",
+    "target": "預設"
+  },
+  {
+    "source": "Error Occured",
+    "target": "發生錯誤"
+  },
+  {
+    "source": "error occured",
+    "target": "發生錯誤"
+  },
+  {
+    "source": "ERROR OCCURED",
+    "target": "發生錯誤"
+  },
+  {
+    "source": "FULL SCREEN MODE",
+    "target": "全螢幕模式"
+  },
+  {
+    "source": "full screen mode",
+    "target": "全螢幕模式"
+  },
+  {
+    "source": "Full Screen Mode",
+    "target": "全螢幕模式"
+  },
+  {
+    "source": "ui font size",
+    "target": "介面字體大小"
+  },
+  {
+    "source": "Ui Font Size",
+    "target": "介面字體大小"
+  },
+  {
+    "source": "UI FONT SIZE",
+    "target": "介面字體大小"
+  },
+  {
+    "source": "UI Font Size",
+    "target": "介面字體大小"
+  },
+  {
+    "source": "ui scale",
+    "target": "介面縮放"
+  },
+  {
+    "source": "Ui Scale",
+    "target": "介面縮放"
+  },
+  {
+    "source": "UI SCALE",
+    "target": "介面縮放"
+  },
+  {
+    "source": "UI Scale",
+    "target": "介面縮放"
+  },
+  {
+    "source": "Story Scale",
+    "target": "故事縮放"
+  },
+  {
+    "source": "STORY SCALE",
+    "target": "故事縮放"
+  },
+  {
+    "source": "story scale",
+    "target": "故事縮放"
+  },
+  {
+    "source": "Music Volume",
+    "target": "音樂音量"
+  },
+  {
+    "source": "MUSIC VOLUME",
+    "target": "音樂音量"
+  },
+  {
+    "source": "music volume",
+    "target": "音樂音量"
+  },
+  {
+    "source": "mute if not focused",
+    "target": "視窗失去焦點時靜音"
+  },
+  {
+    "source": "Mute if not Focused",
+    "target": "視窗失去焦點時靜音"
+  },
+  {
+    "source": "Mute If Not Focused",
+    "target": "視窗失去焦點時靜音"
+  },
+  {
+    "source": "MUTE IF NOT FOCUSED",
+    "target": "視窗失去焦點時靜音"
+  },
+  {
+    "source": "OFFLINE PROGRESS",
+    "target": "離線進度"
+  },
+  {
+    "source": "offline progress",
+    "target": "離線進度"
+  },
+  {
+    "source": "Offline Progress",
+    "target": "離線進度"
+  },
+  {
+    "source": "Display Current Page",
+    "target": "顯示目前頁面"
+  },
+  {
+    "source": "DISPLAY CURRENT PAGE",
+    "target": "顯示目前頁面"
+  },
+  {
+    "source": "display current page",
+    "target": "顯示目前頁面"
+  },
+  {
+    "source": "display overall % complete",
+    "target": "顯示整體完成百分比"
+  },
+  {
+    "source": "DISPLAY OVERALL % COMPLETE",
+    "target": "顯示整體完成百分比"
+  },
+  {
+    "source": "Display Overall % Complete",
+    "target": "顯示整體完成百分比"
+  },
+  {
+    "source": "display resource notifications",
+    "target": "顯示資源通知"
+  },
+  {
+    "source": "Display Resource Notifications",
+    "target": "顯示資源通知"
+  },
+  {
+    "source": "DISPLAY RESOURCE NOTIFICATIONS",
+    "target": "顯示資源通知"
+  },
+  {
+    "source": "display unlock notifications",
+    "target": "顯示解鎖通知"
+  },
+  {
+    "source": "Display Unlock Notifications",
+    "target": "顯示解鎖通知"
+  },
+  {
+    "source": "DISPLAY UNLOCK NOTIFICATIONS",
+    "target": "顯示解鎖通知"
+  },
+  {
+    "source": "GATHER RESOURCES.",
+    "target": "收集資源。"
+  },
+  {
+    "source": "Gather Resources.",
+    "target": "收集資源。"
+  },
+  {
+    "source": "Gather resources.",
+    "target": "收集資源。"
+  },
+  {
+    "source": "gather resources.",
+    "target": "收集資源。"
+  },
+  {
+    "source": "collect resource bundles.",
+    "target": "領取資源包。"
+  },
+  {
+    "source": "COLLECT RESOURCE BUNDLES.",
+    "target": "領取資源包。"
+  },
+  {
+    "source": "Collect resource bundles.",
+    "target": "領取資源包。"
+  },
+  {
+    "source": "Collect Resource Bundles.",
+    "target": "領取資源包。"
+  },
+  {
+    "source": "convert resources into other resources.",
+    "target": "將資源轉換成其他資源。"
+  },
+  {
+    "source": "Convert resources into other resources.",
+    "target": "將資源轉換成其他資源。"
+  },
+  {
+    "source": "CONVERT RESOURCES INTO OTHER RESOURCES.",
+    "target": "將資源轉換成其他資源。"
+  },
+  {
+    "source": "Convert Resources Into Other Resources.",
+    "target": "將資源轉換成其他資源。"
+  },
+  {
+    "source": "progress the timelines of animals.",
+    "target": "推進動物的時間線。"
+  },
+  {
+    "source": "Progress the timelines of animals.",
+    "target": "推進動物的時間線。"
+  },
+  {
+    "source": "Progress The Timelines Of Animals.",
+    "target": "推進動物的時間線。"
+  },
+  {
+    "source": "PROGRESS THE TIMELINES OF ANIMALS.",
+    "target": "推進動物的時間線。"
+  },
+  {
+    "source": "progress the timelines of people.",
+    "target": "推進人物的時間線。"
+  },
+  {
+    "source": "Progress The Timelines Of People.",
+    "target": "推進人物的時間線。"
+  },
+  {
+    "source": "PROGRESS THE TIMELINES OF PEOPLE.",
+    "target": "推進人物的時間線。"
+  },
+  {
+    "source": "Progress the timelines of people.",
+    "target": "推進人物的時間線。"
+  },
+  {
+    "source": "Progress the timelines of plants.",
+    "target": "推進植物的時間線。"
+  },
+  {
+    "source": "Progress The Timelines Of Plants.",
+    "target": "推進植物的時間線。"
+  },
+  {
+    "source": "progress the timelines of plants.",
+    "target": "推進植物的時間線。"
+  },
+  {
+    "source": "PROGRESS THE TIMELINES OF PLANTS.",
+    "target": "推進植物的時間線。"
+  },
+  {
+    "source": "Grow The Effect Of Perks.",
+    "target": "提升加成效果。"
+  },
+  {
+    "source": "GROW THE EFFECT OF PERKS.",
+    "target": "提升加成效果。"
+  },
+  {
+    "source": "Grow the effect of perks.",
+    "target": "提升加成效果。"
+  },
+  {
+    "source": "grow the effect of perks.",
+    "target": "提升加成效果。"
+  },
+  {
+    "source": "invest in large perks.",
+    "target": "投資大型加成。"
+  },
+  {
+    "source": "Invest in large perks.",
+    "target": "投資大型加成。"
+  },
+  {
+    "source": "INVEST IN LARGE PERKS.",
+    "target": "投資大型加成。"
+  },
+  {
+    "source": "Invest In Large Perks.",
+    "target": "投資大型加成。"
+  },
+  {
+    "source": "INVEST IN SMALL PERKS.",
+    "target": "投資小型加成。"
+  },
+  {
+    "source": "invest in small perks.",
+    "target": "投資小型加成。"
+  },
+  {
+    "source": "Invest in small perks.",
+    "target": "投資小型加成。"
+  },
+  {
+    "source": "Invest In Small Perks.",
+    "target": "投資小型加成。"
+  },
+  {
+    "source": "Hover over arrows to view conversion rates.",
+    "target": "將游標移到箭頭上，即可查看轉換比率。"
+  },
+  {
+    "source": "Hover Over Arrows To View Conversion Rates.",
+    "target": "將游標移到箭頭上，即可查看轉換比率。"
+  },
+  {
+    "source": "hover over arrows to view conversion rates.",
+    "target": "將游標移到箭頭上，即可查看轉換比率。"
+  },
+  {
+    "source": "HOVER OVER ARROWS TO VIEW CONVERSION RATES.",
+    "target": "將游標移到箭頭上，即可查看轉換比率。"
+  },
+  {
+    "source": "Hover Over Bonuses To See Bonus Origins.",
+    "target": "將游標移到加成上，即可查看加成來源。"
+  },
+  {
+    "source": "hover over bonuses to see bonus origins.",
+    "target": "將游標移到加成上，即可查看加成來源。"
+  },
+  {
+    "source": "HOVER OVER BONUSES TO SEE BONUS ORIGINS.",
+    "target": "將游標移到加成上，即可查看加成來源。"
+  },
+  {
+    "source": "Hover over bonuses to see bonus origins.",
+    "target": "將游標移到加成上，即可查看加成來源。"
+  },
+  {
+    "source": "hover over boxes to view additional details.",
+    "target": "將游標移到方框上，即可查看詳細資訊。"
+  },
+  {
+    "source": "Hover Over Boxes To View Additional Details.",
+    "target": "將游標移到方框上，即可查看詳細資訊。"
+  },
+  {
+    "source": "Hover over boxes to view additional details.",
+    "target": "將游標移到方框上，即可查看詳細資訊。"
+  },
+  {
+    "source": "HOVER OVER BOXES TO VIEW ADDITIONAL DETAILS.",
+    "target": "將游標移到方框上，即可查看詳細資訊。"
+  },
+  {
+    "source": "Nature Location Completed",
+    "target": "自然地點已完成"
+  },
+  {
+    "source": "NATURE LOCATION COMPLETED",
+    "target": "自然地點已完成"
+  },
+  {
+    "source": "nature location completed",
+    "target": "自然地點已完成"
+  },
+  {
+    "source": "LIFE \\ LIVING",
+    "target": "人生／生活"
+  },
+  {
+    "source": "life \\ living",
+    "target": "人生／生活"
+  },
+  {
+    "source": "Life \\ Living",
+    "target": "人生／生活"
+  },
+  {
+    "source": "nature \\ exploring",
+    "target": "自然／探索"
+  },
+  {
+    "source": "Nature \\ Exploring",
+    "target": "自然／探索"
+  },
+  {
+    "source": "NATURE \\ EXPLORING",
+    "target": "自然／探索"
+  },
+  {
+    "source": "fast forward",
+    "target": "快轉"
+  },
+  {
+    "source": "FAST FORWARD",
+    "target": "快轉"
+  },
+  {
+    "source": "Fast Forward",
+    "target": "快轉"
+  },
+  {
+    "source": "chat with us!",
+    "target": "來和我們聊聊！"
+  },
+  {
+    "source": "Chat With Us!",
+    "target": "來和我們聊聊！"
+  },
+  {
+    "source": "CHAT WITH US!",
+    "target": "來和我們聊聊！"
+  },
+  {
+    "source": "Join Our Discord",
+    "target": "加入我們的 Discord"
+  },
+  {
+    "source": "JOIN OUR DISCORD",
+    "target": "加入我們的 Discord"
+  },
+  {
+    "source": "join our discord",
+    "target": "加入我們的 Discord"
+  },
+  {
+    "source": "Join Us On Discord!",
+    "target": "歡迎加入我們的 Discord！"
+  },
+  {
+    "source": "JOIN US ON DISCORD!",
+    "target": "歡迎加入我們的 Discord！"
+  },
+  {
+    "source": "join us on discord!",
+    "target": "歡迎加入我們的 Discord！"
+  },
+  {
+    "source": "Discord Community",
+    "target": "Discord 社群"
+  },
+  {
+    "source": "DISCORD COMMUNITY",
+    "target": "Discord 社群"
+  },
+  {
+    "source": "discord community",
+    "target": "Discord 社群"
+  },
+  {
+    "source": "Can This Guide Be Improved? Please Let Us Know In Our <B>Discord!</B>",
+    "target": "覺得這份指南可以改進嗎？歡迎到我們的 <b>Discord</b> 告訴我們！"
+  },
+  {
+    "source": "can this guide be improved? please let us know in our <b>discord!</b>",
+    "target": "覺得這份指南可以改進嗎？歡迎到我們的 <b>Discord</b> 告訴我們！"
+  },
+  {
+    "source": "Can this guide be improved? Please let us know in our <b>Discord!</b>",
+    "target": "覺得這份指南可以改進嗎？歡迎到我們的 <b>Discord</b> 告訴我們！"
+  },
+  {
+    "source": "CAN THIS GUIDE BE IMPROVED? PLEASE LET US KNOW IN OUR <B>DISCORD!</B>",
+    "target": "覺得這份指南可以改進嗎？歡迎到我們的 <b>Discord</b> 告訴我們！"
+  },
+  {
+    "source": "Please share discovered bugs and quirks in our <b>Discord!</b>",
+    "target": "發現錯誤或異常情況時，請到我們的 <b>Discord</b> 回報！"
+  },
+  {
+    "source": "please share discovered bugs and quirks in our <b>discord!</b>",
+    "target": "發現錯誤或異常情況時，請到我們的 <b>Discord</b> 回報！"
+  },
+  {
+    "source": "Please Share Discovered Bugs And Quirks In Our <B>Discord!</B>",
+    "target": "發現錯誤或異常情況時，請到我們的 <b>Discord</b> 回報！"
+  },
+  {
+    "source": "PLEASE SHARE DISCOVERED BUGS AND QUIRKS IN OUR <B>DISCORD!</B>",
+    "target": "發現錯誤或異常情況時，請到我們的 <b>Discord</b> 回報！"
+  },
+  {
+    "source": "note: animals do not require resources to progress, <i>only time.</i>",
+    "target": "注意：動物的進展不需要資源，<i>只需要時間。</i>"
+  },
+  {
+    "source": "NOTE: ANIMALS DO NOT REQUIRE RESOURCES TO PROGRESS, <I>ONLY TIME.</I>",
+    "target": "注意：動物的進展不需要資源，<i>只需要時間。</i>"
+  },
+  {
+    "source": "Note: Animals Do Not Require Resources To Progress, <I>Only Time.</I>",
+    "target": "注意：動物的進展不需要資源，<i>只需要時間。</i>"
+  },
+  {
+    "source": "NOTE: ANIMALS DO NOT REQUIRE RESOURCES TO PROGRESS, <i>ONLY TIME.</i>",
+    "target": "注意：動物的進展不需要資源，<i>只需要時間。</i>"
+  },
+  {
+    "source": "Events Are Organized By Theme And Plotline, Flowing Right To Left In A Chain Of Causation.",
+    "target": "事件依主題與劇情線排列，從右向左呈現彼此的因果關係。"
+  },
+  {
+    "source": "EVENTS ARE ORGANIZED BY THEME AND PLOTLINE, FLOWING RIGHT TO LEFT IN A CHAIN OF CAUSATION.",
+    "target": "事件依主題與劇情線排列，從右向左呈現彼此的因果關係。"
+  },
+  {
+    "source": "events are organized by theme and plotline, flowing right to left in a chain of causation.",
+    "target": "事件依主題與劇情線排列，從右向左呈現彼此的因果關係。"
+  },
+  {
+    "source": "determine the cause of everly praetis' death.",
+    "target": "查明艾芙莉・普雷蒂斯的死因。"
+  },
+  {
+    "source": "Determine the cause of Everly Praetis' death.",
+    "target": "查明艾芙莉・普雷蒂斯的死因。"
+  },
+  {
+    "source": "Determine The Cause Of Everly Praetis' Death.",
+    "target": "查明艾芙莉・普雷蒂斯的死因。"
+  },
+  {
+    "source": "DETERMINE THE CAUSE OF EVERLY PRAETIS' DEATH.",
+    "target": "查明艾芙莉・普雷蒂斯的死因。"
+  },
+  {
+    "source": "New Everly Praetis Story Unlocked.",
+    "target": "已解鎖新的艾芙莉・普雷蒂斯故事。"
+  },
+  {
+    "source": "New Everly Praetis story unlocked.",
+    "target": "已解鎖新的艾芙莉・普雷蒂斯故事。"
+  },
+  {
+    "source": "new everly praetis story unlocked.",
+    "target": "已解鎖新的艾芙莉・普雷蒂斯故事。"
+  },
+  {
+    "source": "NEW EVERLY PRAETIS STORY UNLOCKED.",
+    "target": "已解鎖新的艾芙莉・普雷蒂斯故事。"
+  },
+  {
+    "source": "LIKELIHOOD OF A FAILED SCAVENGE",
+    "target": "拾荒失敗機率"
+  },
+  {
+    "source": "Likelihood Of A Failed Scavenge",
+    "target": "拾荒失敗機率"
+  },
+  {
+    "source": "likelihood of a failed scavenge",
+    "target": "拾荒失敗機率"
+  },
+  {
+    "source": "likelihood of a successful scavenge",
+    "target": "拾荒成功機率"
+  },
+  {
+    "source": "Likelihood Of A Successful Scavenge",
+    "target": "拾荒成功機率"
+  },
+  {
+    "source": "LIKELIHOOD OF A SUCCESSFUL SCAVENGE",
+    "target": "拾荒成功機率"
+  },
+  {
+    "source": "always rebuild",
+    "target": "一律重建"
+  },
+  {
+    "source": "Always Rebuild",
+    "target": "一律重建"
+  },
+  {
+    "source": "ALWAYS REBUILD",
+    "target": "一律重建"
+  },
+  {
+    "source": "not yet built",
+    "target": "尚未建造"
+  },
+  {
+    "source": "NOT YET BUILT",
+    "target": "尚未建造"
+  },
+  {
+    "source": "Not Yet Built",
+    "target": "尚未建造"
+  },
+  {
+    "source": "balance",
+    "target": "收支"
+  },
+  {
+    "source": "BALANCE",
+    "target": "收支"
+  },
+  {
+    "source": "Balance",
+    "target": "收支"
+  },
+  {
+    "source": "In",
+    "target": "流入"
+  },
+  {
+    "source": "in",
+    "target": "流入"
+  },
+  {
+    "source": "IN",
+    "target": "流入"
+  },
+  {
+    "source": "out",
+    "target": "流出"
+  },
+  {
+    "source": "OUT",
+    "target": "流出"
+  },
+  {
+    "source": "Out",
+    "target": "流出"
+  },
+  {
+    "source": "TOTAL",
+    "target": "總計"
+  },
+  {
+    "source": "Total",
+    "target": "總計"
+  },
+  {
+    "source": "total",
+    "target": "總計"
+  },
+  {
+    "source": "Available",
+    "target": "可用"
+  },
+  {
+    "source": "available",
+    "target": "可用"
+  },
+  {
+    "source": "AVAILABLE",
+    "target": "可用"
+  },
+  {
+    "source": "UNLOCKED",
+    "target": "已解鎖"
+  },
+  {
+    "source": "unlocked",
+    "target": "已解鎖"
+  },
+  {
+    "source": "Unlocked",
+    "target": "已解鎖"
+  },
+  {
+    "source": "UNLOCK",
+    "target": "解鎖"
+  },
+  {
+    "source": "unlock",
+    "target": "解鎖"
+  },
+  {
+    "source": "Unlock",
+    "target": "解鎖"
+  },
+  {
+    "source": "prog.",
+    "target": "進度"
+  },
+  {
+    "source": "PROG.",
+    "target": "進度"
+  },
+  {
+    "source": "Prog.",
+    "target": "進度"
+  },
+  {
+    "source": "Looping . . .",
+    "target": "循環播放中……"
+  },
+  {
+    "source": "LOOPING . . .",
+    "target": "循環播放中……"
+  },
+  {
+    "source": "looping . . .",
+    "target": "循環播放中……"
+  },
+  {
+    "source": "Welcome To",
+    "target": "歡迎來到"
+  },
+  {
+    "source": "welcome to",
+    "target": "歡迎來到"
+  },
+  {
+    "source": "WELCOME TO",
+    "target": "歡迎來到"
+  },
+  {
+    "source": "Welcome to",
+    "target": "歡迎來到"
+  },
+  {
+    "source": "Start New Game",
+    "target": "開始新遊戲"
+  },
+  {
+    "source": "start new game",
+    "target": "開始新遊戲"
+  },
+  {
+    "source": "START NEW GAME",
+    "target": "開始新遊戲"
+  },
+  {
+    "source": "Select A Game:",
+    "target": "選擇存檔："
+  },
+  {
+    "source": "SELECT A GAME:",
+    "target": "選擇存檔："
+  },
+  {
+    "source": "select a game:",
+    "target": "選擇存檔："
+  },
+  {
+    "source": "NO GAME LOADED.",
+    "target": "尚未載入存檔。"
+  },
+  {
+    "source": "No Game Loaded.",
+    "target": "尚未載入存檔。"
+  },
+  {
+    "source": "no game loaded.",
+    "target": "尚未載入存檔。"
+  },
+  {
+    "source": "QUEST TREE",
+    "target": "任務樹"
+  },
+  {
+    "source": "Quest Tree",
+    "target": "任務樹"
+  },
+  {
+    "source": "quest tree",
+    "target": "任務樹"
+  },
+  {
+    "source": "Victory",
+    "target": "完成度"
+  },
+  {
+    "source": "victory",
+    "target": "完成度"
+  },
+  {
+    "source": "VICTORY",
+    "target": "完成度"
+  },
+  {
+    "source": "scavenging zones",
+    "target": "拾荒區域"
+  },
+  {
+    "source": "Scavenging Zones",
+    "target": "拾荒區域"
+  },
+  {
+    "source": "SCAVENGING ZONES",
+    "target": "拾荒區域"
+  },
+  {
+    "source": "Save Game #1",
+    "target": "存檔 #1"
+  },
+  {
+    "source": "SAVE GAME #1",
+    "target": "存檔 #1"
+  },
+  {
+    "source": "save game #1",
+    "target": "存檔 #1"
+  },
+  {
+    "source": "SAVE GAME #2",
+    "target": "存檔 #2"
+  },
+  {
+    "source": "Save Game #2",
+    "target": "存檔 #2"
+  },
+  {
+    "source": "save game #2",
+    "target": "存檔 #2"
+  },
+  {
+    "source": "save game #3",
+    "target": "存檔 #3"
+  },
+  {
+    "source": "Save Game #3",
+    "target": "存檔 #3"
+  },
+  {
+    "source": "SAVE GAME #3",
+    "target": "存檔 #3"
+  },
+  {
+    "source": "by <color=\"dafff8\">chaystar</color> unlimited",
+    "target": "由 <color=\"DAFFF8\">CHAYSTAR</color> UNLIMITED 製作"
+  },
+  {
+    "source": "BY <COLOR=\"DAFFF8\">CHAYSTAR</COLOR> UNLIMITED",
+    "target": "由 <color=\"DAFFF8\">CHAYSTAR</color> UNLIMITED 製作"
+  },
+  {
+    "source": "BY <color=\"DAFFF8\">CHAYSTAR</color> UNLIMITED",
+    "target": "由 <color=\"DAFFF8\">CHAYSTAR</color> UNLIMITED 製作"
+  },
+  {
+    "source": "By <Color=\"Dafff8\">Chaystar</Color> Unlimited",
+    "target": "由 <color=\"DAFFF8\">CHAYSTAR</color> UNLIMITED 製作"
+  },
+  {
+    "source": "Show Friendly Font",
+    "target": "切換易讀字型"
+  },
+  {
+    "source": "SHOW FRIENDLY FONT",
+    "target": "切換易讀字型"
+  },
+  {
+    "source": "show friendly font",
+    "target": "切換易讀字型"
+  },
+  {
+    "source": "Hide Friendly Font",
+    "target": "還原原始字型"
+  },
+  {
+    "source": "HIDE FRIENDLY FONT",
+    "target": "還原原始字型"
+  },
+  {
+    "source": "hide friendly font",
+    "target": "還原原始字型"
+  },
+  {
+    "source": "Speed Mode Speed",
+    "target": "加速模式倍率"
+  },
+  {
+    "source": "SPEED MODE SPEED",
+    "target": "加速模式倍率"
+  },
+  {
+    "source": "speed mode speed",
+    "target": "加速模式倍率"
+  },
+  {
+    "source": "Speed Mode / Offline Progress",
+    "target": "加速模式／離線進度"
+  },
+  {
+    "source": "SPEED MODE / OFFLINE PROGRESS",
+    "target": "加速模式／離線進度"
+  },
+  {
+    "source": "speed mode / offline progress",
+    "target": "加速模式／離線進度"
+  },
+  {
+    "source": "Show Fast Forward Buttons",
+    "target": "顯示快轉按鈕"
+  },
+  {
+    "source": "SHOW FAST FORWARD BUTTONS",
+    "target": "顯示快轉按鈕"
+  },
+  {
+    "source": "show fast forward buttons",
+    "target": "顯示快轉按鈕"
+  },
+  {
+    "source": "Use Speed Mode?",
+    "target": "啟用加速模式？"
+  },
+  {
+    "source": "USE SPEED MODE?",
+    "target": "啟用加速模式？"
+  },
+  {
+    "source": "use speed mode?",
+    "target": "啟用加速模式？"
+  },
+  {
+    "source": "RESOLUTION",
+    "target": "解析度"
+  },
+  {
+    "source": "resolution",
+    "target": "解析度"
+  },
+  {
+    "source": "Resolution",
+    "target": "解析度"
+  },
+  {
+    "source": "TOGGLE FULL SCREEN MODE",
+    "target": "切換全螢幕模式"
+  },
+  {
+    "source": "toggle full screen mode",
+    "target": "切換全螢幕模式"
+  },
+  {
+    "source": "Toggle Full Screen Mode",
+    "target": "切換全螢幕模式"
+  },
+  {
+    "source": "steam deck mode",
+    "target": "Steam Deck 模式"
+  },
+  {
+    "source": "Steam Deck Mode",
+    "target": "Steam Deck 模式"
+  },
+  {
+    "source": "STEAM DECK MODE",
+    "target": "Steam Deck 模式"
+  },
+  {
+    "source": "toggle steam deck mode",
+    "target": "切換 Steam Deck 模式"
+  },
+  {
+    "source": "Toggle Steam Deck Mode",
+    "target": "切換 Steam Deck 模式"
+  },
+  {
+    "source": "TOGGLE STEAM DECK MODE",
+    "target": "切換 Steam Deck 模式"
+  },
+  {
+    "source": "Steam Deck Mode Forced [On]",
+    "target": "Steam Deck 模式已強制開啟"
+  },
+  {
+    "source": "steam deck mode forced [on]",
+    "target": "Steam Deck 模式已強制開啟"
+  },
+  {
+    "source": "STEAM DECK MODE FORCED [ON]",
+    "target": "Steam Deck 模式已強制開啟"
+  },
+  {
+    "source": "UI SCALING UNAVAILABLE IN STEAM DECK MODE",
+    "target": "Steam Deck 模式無法調整介面縮放"
+  },
+  {
+    "source": "ui scaling unavailable in steam deck mode",
+    "target": "Steam Deck 模式無法調整介面縮放"
+  },
+  {
+    "source": "Ui Scaling Unavailable In Steam Deck Mode",
+    "target": "Steam Deck 模式無法調整介面縮放"
+  },
+  {
+    "source": "Windowed Mode Unavailable In Steam Deck Mode",
+    "target": "Steam Deck 模式無法使用視窗模式"
+  },
+  {
+    "source": "WINDOWED MODE UNAVAILABLE IN STEAM DECK MODE",
+    "target": "Steam Deck 模式無法使用視窗模式"
+  },
+  {
+    "source": "windowed mode unavailable in steam deck mode",
+    "target": "Steam Deck 模式無法使用視窗模式"
+  },
+  {
+    "source": "STEAM CHAT \\ FRIENDS STATUS",
+    "target": "Steam 聊天／好友狀態"
+  },
+  {
+    "source": "steam chat \\ friends status",
+    "target": "Steam 聊天／好友狀態"
+  },
+  {
+    "source": "Steam Chat \\ Friends Status",
+    "target": "Steam 聊天／好友狀態"
+  },
+  {
+    "source": "NORM",
+    "target": "正常"
+  },
+  {
+    "source": "Norm",
+    "target": "正常"
+  },
+  {
+    "source": "norm",
+    "target": "正常"
+  },
+  {
+    "source": "FREQUENTLY ASKED QUESTIONS",
+    "target": "常見問題"
+  },
+  {
+    "source": "Frequently Asked Questions",
+    "target": "常見問題"
+  },
+  {
+    "source": "frequently asked questions",
+    "target": "常見問題"
+  },
+  {
+    "source": "resource flow",
+    "target": "資源流動"
+  },
+  {
+    "source": "Resource Flow",
+    "target": "資源流動"
+  },
+  {
+    "source": "RESOURCE FLOW",
+    "target": "資源流動"
+  },
+  {
+    "source": "Work Locations",
+    "target": "工作地點"
+  },
+  {
+    "source": "work locations",
+    "target": "工作地點"
+  },
+  {
+    "source": "WORK LOCATIONS",
+    "target": "工作地點"
+  },
+  {
+    "source": "ERAS",
+    "target": "時代"
+  },
+  {
+    "source": "Eras",
+    "target": "時代"
+  },
+  {
+    "source": "eras",
+    "target": "時代"
+  },
+  {
+    "source": "initial display settings",
+    "target": "初始顯示設定"
+  },
+  {
+    "source": "Initial Display Settings",
+    "target": "初始顯示設定"
+  },
+  {
+    "source": "INITIAL DISPLAY SETTINGS",
+    "target": "初始顯示設定"
+  },
+  {
+    "source": "getting started",
+    "target": "入門指南"
+  },
+  {
+    "source": "GETTING STARTED",
+    "target": "入門指南"
+  },
+  {
+    "source": "Getting Started",
+    "target": "入門指南"
+  },
+  {
+    "source": "Hint >",
+    "target": "提示 >"
+  },
+  {
+    "source": "HINT >",
+    "target": "提示 >"
+  },
+  {
+    "source": "hint >",
+    "target": "提示 >"
+  },
+  {
+    "source": "exp",
+    "target": "經驗"
+  },
+  {
+    "source": "Exp",
+    "target": "經驗"
+  },
+  {
+    "source": "EXP",
+    "target": "經驗"
+  },
+  {
+    "source": "XP",
+    "target": "經驗"
+  },
+  {
+    "source": "xp",
+    "target": "經驗"
+  },
+  {
+    "source": "Xp",
+    "target": "經驗"
+  },
+  {
+    "source": "MEALS",
+    "target": "餐"
+  },
+  {
+    "source": "Meals",
+    "target": "餐"
+  },
+  {
+    "source": "meals",
+    "target": "餐"
+  },
+  {
+    "source": "Logs",
+    "target": "根木材"
+  },
+  {
+    "source": "LOGS",
+    "target": "根木材"
+  },
+  {
+    "source": "logs",
+    "target": "根木材"
+  },
+  {
+    "source": "PIECES",
+    "target": "件"
+  },
+  {
+    "source": "Pieces",
+    "target": "件"
+  },
+  {
+    "source": "pieces",
+    "target": "件"
+  },
+  {
+    "source": "BARRELS",
+    "target": "桶"
+  },
+  {
+    "source": "barrels",
+    "target": "桶"
+  },
+  {
+    "source": "Barrels",
+    "target": "桶"
+  },
+  {
+    "source": "IDEAS",
+    "target": "點知識"
+  },
+  {
+    "source": "ideas",
+    "target": "點知識"
+  },
+  {
+    "source": "Ideas",
+    "target": "點知識"
+  },
+  {
+    "source": "OPALS",
+    "target": "蛋白石"
+  },
+  {
+    "source": "opals",
+    "target": "蛋白石"
+  },
+  {
+    "source": "Opals",
+    "target": "蛋白石"
+  },
+  {
+    "source": "mls",
+    "target": "餐"
+  },
+  {
+    "source": "MLS",
+    "target": "餐"
+  },
+  {
+    "source": "Mls",
+    "target": "餐"
+  },
+  {
+    "source": "lgs",
+    "target": "根"
+  },
+  {
+    "source": "Lgs",
+    "target": "根"
+  },
+  {
+    "source": "LGS",
+    "target": "根"
+  },
+  {
+    "source": "Pcs",
+    "target": "件"
+  },
+  {
+    "source": "pcs",
+    "target": "件"
+  },
+  {
+    "source": "PCS",
+    "target": "件"
+  },
+  {
+    "source": "LBS",
+    "target": "磅"
+  },
+  {
+    "source": "Lbs",
+    "target": "磅"
+  },
+  {
+    "source": "lbs",
+    "target": "磅"
+  },
+  {
+    "source": "Bar",
+    "target": "桶"
+  },
+  {
+    "source": "BAR",
+    "target": "桶"
+  },
+  {
+    "source": "bar",
+    "target": "桶"
+  },
+  {
+    "source": "Mw",
+    "target": "兆瓦"
+  },
+  {
+    "source": "MW",
+    "target": "兆瓦"
+  },
+  {
+    "source": "mw",
+    "target": "兆瓦"
+  },
+  {
+    "source": "HDS",
+    "target": "張"
+  },
+  {
+    "source": "Hds",
+    "target": "張"
+  },
+  {
+    "source": "hds",
+    "target": "張"
+  },
+  {
+    "source": "pry",
+    "target": "次祈禱"
+  },
+  {
+    "source": "PRY",
+    "target": "次祈禱"
+  },
+  {
+    "source": "Pry",
+    "target": "次祈禱"
+  },
+  {
+    "source": "Knw",
+    "target": "知識"
+  },
+  {
+    "source": "KNW",
+    "target": "知識"
+  },
+  {
+    "source": "knw",
+    "target": "知識"
+  },
+  {
+    "source": "Snl",
+    "target": "隻"
+  },
+  {
+    "source": "snl",
+    "target": "隻"
+  },
+  {
+    "source": "SNL",
+    "target": "隻"
+  },
+  {
+    "source": "opl",
+    "target": "顆"
+  },
+  {
+    "source": "OPL",
+    "target": "顆"
+  },
+  {
+    "source": "Opl",
+    "target": "顆"
+  },
+  {
+    "source": "You Have",
+    "target": "你擁有"
+  },
+  {
+    "source": "you have",
+    "target": "你擁有"
+  },
+  {
+    "source": "YOU HAVE",
+    "target": "你擁有"
+  },
+  {
+    "source": "Max",
+    "target": "上限"
+  },
+  {
+    "source": "max",
+    "target": "上限"
+  },
+  {
+    "source": "MAX",
+    "target": "上限"
+  },
+  {
+    "source": "Life Skill",
+    "target": "生活技能"
+  },
+  {
+    "source": "LIFE SKILL",
+    "target": "生活技能"
+  },
+  {
+    "source": "life skill",
+    "target": "生活技能"
+  },
+  {
+    "source": "Working Skill",
+    "target": "工作技能"
+  },
+  {
+    "source": "WORKING SKILL",
+    "target": "工作技能"
+  },
+  {
+    "source": "working skill",
+    "target": "工作技能"
+  },
+  {
+    "source": "Nature Skill",
+    "target": "自然技能"
+  },
+  {
+    "source": "nature skill",
+    "target": "自然技能"
+  },
+  {
+    "source": "NATURE SKILL",
+    "target": "自然技能"
+  },
+  {
+    "source": "Scavenging Skill",
+    "target": "拾荒技能"
+  },
+  {
+    "source": "scavenging skill",
+    "target": "拾荒技能"
+  },
+  {
+    "source": "SCAVENGING SKILL",
+    "target": "拾荒技能"
+  },
+  {
+    "source": "Artifacts Skill",
+    "target": "文物技能"
+  },
+  {
+    "source": "ARTIFACTS SKILL",
+    "target": "文物技能"
+  },
+  {
+    "source": "artifacts skill",
+    "target": "文物技能"
+  },
+  {
+    "source": "SCIENCE SKILL",
+    "target": "科學技能"
+  },
+  {
+    "source": "Science Skill",
+    "target": "科學技能"
+  },
+  {
+    "source": "science skill",
+    "target": "科學技能"
+  },
+  {
+    "source": "GOVERNING SKILL",
+    "target": "治理技能"
+  },
+  {
+    "source": "Governing Skill",
+    "target": "治理技能"
+  },
+  {
+    "source": "governing skill",
+    "target": "治理技能"
+  },
+  {
+    "source": "religion skill",
+    "target": "宗教技能"
+  },
+  {
+    "source": "RELIGION SKILL",
+    "target": "宗教技能"
+  },
+  {
+    "source": "Religion Skill",
+    "target": "宗教技能"
+  },
+  {
+    "source": "congratulations",
+    "target": "恭喜"
+  },
+  {
+    "source": "Congratulations",
+    "target": "恭喜"
+  },
+  {
+    "source": "CONGRATULATIONS",
+    "target": "恭喜"
+  }
+]
