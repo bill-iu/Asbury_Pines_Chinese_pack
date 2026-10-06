@@ -1,4 +1,4 @@
-﻿param([string]$Version='0.1.14-pack.1')
+﻿param([string]$Version='0.1.14-pack.2')
 $ErrorActionPreference='Stop'
 if($Version -notmatch '^[0-9A-Za-z][0-9A-Za-z.-]{0,60}$'){throw 'Invalid release version.'}
 $repo=Split-Path $PSScriptRoot -Parent
@@ -8,7 +8,7 @@ $zipPath=Join-Path $out ('Asbury_Pines_TC_'+$Version+'_Portable.zip')
 $exePath=Join-Path $out ('Asbury_Pines_TC_'+$Version+'_Setup.exe')
 if((Test-Path -LiteralPath $zipPath) -or (Test-Path -LiteralPath $exePath)){throw 'Release artifacts already exist; use a new version or preserve the existing artifacts first.'}
 $rootFiles=@('README.md','Easy-Setup.ps1','Install.cmd','Uninstall.cmd','Install-TraditionalChinese.ps1','Set-TraditionalChinese.ps1','Uninstall-TraditionalChinese.ps1')
-$files=@(foreach($name in $rootFiles){Get-Item -LiteralPath (Join-Path $repo $name)};foreach($name in @('payload','source','licenses','docs','installer','tools')){Get-ChildItem -LiteralPath (Join-Path $repo $name) -Recurse -File})
+$files=@(foreach($name in $rootFiles){Get-Item -LiteralPath (Join-Path $repo $name)};foreach($name in @('payload','source','licenses','docs','installer','tools')){Get-ChildItem -LiteralPath (Join-Path $repo $name) -Recurse -File | Where-Object {$_.FullName -notmatch '[\\/]__pycache__[\\/]'}})
 foreach($file in $files){
  $relative=$file.FullName.Substring($repo.Length+1)
  if($relative -match '(^|\\)(config|cache|diagnostics|backup|test-work|\.git)(\\|$)|Assembly-CSharp\.dll|UnityEngine.*\.dll|Newtonsoft\.Json\.dll|UnityPlayer\.dll|AsburyPines\.exe|\.log$'){throw "Forbidden package file: $relative"}

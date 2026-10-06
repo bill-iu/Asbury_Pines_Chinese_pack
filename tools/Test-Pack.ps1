@@ -1,4 +1,4 @@
-﻿param([Parameter(Mandatory=$true)][string]$GameRoot,[string]$Version='0.1.14-pack.1')
+﻿param([Parameter(Mandatory=$true)][string]$GameRoot,[string]$Version='0.1.14-pack.2')
 $ErrorActionPreference='Stop'
 $repo=Split-Path $PSScriptRoot -Parent
 $exe=Join-Path $repo ('artifacts\Asbury_Pines_TC_'+$Version+'_Setup.exe')

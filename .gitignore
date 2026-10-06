@@ -1,3 +1,7 @@
 /artifacts/
 /test-work/
+/simplified/artifacts/
+/simplified/test-work/
 *.log
+__pycache__/
+*.pyc

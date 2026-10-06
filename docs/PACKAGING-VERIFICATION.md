@@ -1,6 +1,6 @@
 # 簡易安裝包驗證
 
-封裝版本：`0.1.14-pack.1`；插件版本：`0.1.14`。驗證日期：2026-10-06。
+封裝版本：`0.1.14-pack.2`；插件版本：`0.1.14`。驗證日期：2026-10-07。
 
 本次重新封裝的插件、全部詞庫及載入器，已逐檔比對目前安裝內容的 SHA-256，確認一致。插件顯示及翻譯邏輯沒有變動。原有遊戲內測試範圍請見 `RELEASE-VERIFICATION.md`。
 
@@ -28,3 +28,5 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\tools\Test-Pack.ps1 -G
 ```
 
 已有同名發佈檔時，重建會停止，避免意外取代已發佈檔。測試會建立隔離資料夾，不會將補丁安裝到傳入的原有遊戲資料夾。
+
+本次 pack.2 另驗證繁中→簡中→繁中安裝互換。編譯詞庫測試需 PowerShell 7 (pwsh.exe)；正式安裝器使用內建 Windows PowerShell，無需 PowerShell 7。

@@ -6,3 +6,4 @@
 *.zip -text
 *.gz -text
 payload/** -text
+simplified/payload/** -text

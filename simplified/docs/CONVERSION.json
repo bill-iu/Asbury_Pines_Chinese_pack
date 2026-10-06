@@ -1,0 +1,10 @@
+{
+  "conversion": "OpenCC tw2s",
+  "files": 76,
+  "translation_rows": 4237,
+  "dynamic_rules": 47,
+  "changed_outputs": 3607,
+  "source_keys_unchanged": true,
+  "regex_patterns_unchanged": true,
+  "traditional_layout_cache_omitted": true
+}

@@ -1,0 +1,166 @@
+[
+  {
+    "source": "<b>Jida:</b> SPEAK OR DIE! \r",
+    "target": "<b>吉妲：</b>说，不然死！"
+  },
+  {
+    "source": "<b>Lawsayer Djuret:</b> Next to stand public trial be Quentinite called Poleeda. Poleeda, before this here quart of Obark people, you is ‘cused of stealin’ off Obark land. The Obark people wants payment for stolen goods. They willin’ to spare punishments for an old woman like you so longs you speak where yer leader be hidin’.  \r\n\r",
+    "target": "<b>宣法人朱雷特：</b>下一个公开受审的，是叫波莉妲的昆汀修士。波莉妲，在欧巴克百姓的法庭上，妳被控偷窃欧巴克土地的东西。百姓要赔偿。妳这把年纪，只要说出领袖藏哪，他们愿意免妳受罚。"
+  },
+  {
+    "source": "<b>Lawsayer Djuret:</b> ORDERS! Orders in the quart. Now Poleeda, if yous got a speech, make it now. \r",
+    "target": "<b>宣法人朱雷特：</b>肃静！法庭肃静。波莉妲，有话现在说。"
+  },
+  {
+    "source": "<b>Crowd:</b> SPEAK OR DIE! SPEAK OR DIE! SPEAK OR DIE! SPEAK OR DIE! \r \r\r",
+    "target": "<b>群众：</b>说，不然死！说，不然死！说，不然死！说，不然死！"
+  },
+  {
+    "source": "<b>Jida and Crowd:</b> FLESH! FLESH! FLESH! FLESH!",
+    "target": "<b>吉妲与群众：</b>肉！肉！肉！肉！"
+  },
+  {
+    "source": "<b>Lawsayer Djuret:</b> People of Obark, Poleeda has choosed silence. Gives yer verdic – slave or flesh. \r",
+    "target": "<b>宣法人朱雷特：</b>欧巴克百姓，波莉妲选择沉默。作判决吧，奴隶，还是肉？"
+  },
+  {
+    "source": "The elders is tellin’ me not to do it. \r\n\r\nThem pines is “lifeblood” for Obark, they says. \"Tribe is gone whither, people gone leave.\" \r\n\r\nBut they ain’t gots to answer the tribe. They ain’t holdin’ the load I got, the respons-bilty to make us all survive.  “We needs clean waters. We needs crops. We needs slave meat.” I gets it all! All the anger and blamin’ done gets put on my back! \r\n\r\nI knows some more them Quentinites still hidin’ in the pines, turnin’ my tribe ‘gainst me. Makin’ me look like a bean-brained dustlizard whiles they feedin’ theyselves. \r\n\r\nIf I’m already the holder of the blamin’, then I don't care if I gets some more. \r\n\r\nWe burnin’ them pines tonight. ",
+    "target": "长老们叫我别做。\n\n说松林是欧巴克的「命脉」，「部落会衰败，人会走」。\n\n可他们不用向族人交代，不用扛我的担子，扛让大家活下去的责任。「要干净水，要庄稼，要奴隶肉。」全找我！所有怒气和责怪，全压我背上！\n\n我知道还有昆汀修士躲松林，挑拨族人反我。把我弄得像豆脑尘蜥，自己却吃饱饱。\n\n反正全怪我，那再多点也无所谓。\n\n今晚烧松林。"
+  },
+  {
+    "source": "<b>Savyna Praetis:</b> \rOur scout saw you wandering the prairie, child. My name is Savyna, and I lead a big group of travelers. What do you call yourself? \r",
+    "target": "<b>莎维娜・普雷蒂斯：</b>孩子，我们的斥候看见妳在草原徘徊。我叫莎维娜，带领一大群旅人。妳叫什么名字？"
+  },
+  {
+    "source": "<b>Savyna Praetis:</b> I’m sorry you are lost. I’d like to hear more of your story, Sadie Sloan. We’re the kind of travelers who love stories. Can I see your arm? Oh, it seems the sun is burning you. Let’s get some salve for that. I’ll introduce you to my group, and you can have all the water you want, and even delicious red fruit called apples. \r",
+    "target": "<b>莎维娜・普雷蒂斯：</b>很遗憾妳迷路了。莎蒂・斯隆，我想再听妳的故事。我们是喜欢故事的旅人。能看看手臂吗？噢，好像晒伤了。拿点药膏吧。我介绍同伴给妳，水想喝多少都行，还有好吃的红果，叫苹果。"
+  },
+  {
+    "source": "<b>Sadie:</b> *Sniff* I remember chasing a white raccoon in the pines. And I fell down and lost my necklace. Then when I stood up, the forest was *sniff* browner and thinner than before. I got up and started walking to find Asbury and, and, and… \r",
+    "target": "<b>莎蒂：</b>＊吸鼻子＊我记得在松林追白浣熊，摔倒，丢了项链。站起来，森林却＊吸鼻子＊比原本更褐、更稀。我起身走，想找阿斯伯里，然后、然后……"
+  },
+  {
+    "source": "<b>Savyna Praetis:</b> I’m sorry Sadie Sloan, I don’t know where Asbury is, or its people. You are near the land of Obark. Maybe we can find what you’re looking for. How did you get lost? Oh, that’s alright child, here – a rag for your tears. \r",
+    "target": "<b>莎维娜・普雷蒂斯：</b>抱歉，莎蒂・斯隆，我不知道阿斯伯里在哪，也不认识那里的人。这里靠近欧巴克。也许能帮妳找。怎么迷路的？噢，没关系，孩子，来，擦泪的布。"
+  },
+  {
+    "source": "<b>Savyna Praetis:</b> Oh… of course. What an interesting person you are. You have much knowledge already. And you speak properly, the way words are in books. Even your dress and shoes are crafted finely, like nothing I have seen. I think your green bow is pretty. Come, Sadie Sloan, take my hand and tell me about Asbury. ",
+    "target": "<b>莎维娜・普雷蒂斯：</b>噢……当然。妳真有意思，已经懂很多。说话也端正，像书上的字句。连洋装和鞋都做得精细，从没见过。我觉得绿蝴蝶结很漂亮。来，莎蒂・斯隆，牵我的手，告诉我阿斯伯里的事。"
+  },
+  {
+    "source": "<b>Sadie:</b> I know *sniff* what apples are. Everyone does.   \r",
+    "target": "<b>莎蒂：</b>我知道＊吸鼻子＊苹果是什么。大家都知道。"
+  },
+  {
+    "source": "<b>Sadie:</b> M-my name is Sadie Sloan and I’m from the town of Asbury. Where is the town? Where is Da? Where is everybody? \r",
+    "target": "<b>莎蒂：</b>我、我叫莎蒂・斯隆，来自阿斯伯里镇。镇在哪？爸爸在哪？大家在哪？"
+  },
+  {
+    "source": "The small houses of wood and clay begin to block my view of the pines. \r\n\r\nMy silent companion, the well, has long been dry and sealed. And yet, more people arrive and settle around us across these past few years. They dry clothes on my branches, gather my seed pods in the summer, pray in my shade, urinate on my trunk, mate under my darkness… They force me to be part of their life. I am named.   \r\n\r\nAre the great pines ever bothered like this? Are they forced to gaze at little else than the humans and their irksome unpredictability? Their shortsightedness? Generations of wayward lives? \r\n\r\nDo the pines gaze back with jealousy? Do they yearn to be needed by humans? Valued beyond beams and firewood? Do the evergreens think they’d be happier with more respect from the great shapers of our world?\r\n\r\nStars have names. Great structures have names. Friends have names. The pines do not have names. \r\n\r\nI am named. \r\n\r\nI am named Great Nav’ed. \r\n\r\nI am apprehensive to hope, but I think this is good. ",
+    "target": "木与泥的小屋，开始挡住松林景色。\n\n沉默的伙伴，水井，早已干涸封住。然而这几年，更多人来，在我们周围定居。枝上晒衣，夏天采豆荚，荫下祈祷，树干上撒尿，夜幕下交配……强迫我成为生活的一部分。我有了名字。\n\n高大的松树，也受这样打扰吗？也被迫只能看人类，以及他们恼人的莫测、短视，一代代任性的生命吗？\n\n松树会嫉妒地望回来吗？渴望被人需要吗？价值不只梁木与柴火？常青树会以为，获得世界塑造者更多尊重，就更快乐吗？\n\n星辰有名字，宏伟建筑有名字，朋友有名字。松树没有。\n\n我有名字。\n\n我叫伟大的纳维德。\n\n我不敢抱希望，但想，这很好。"
+  },
+  {
+    "source": "<b>Did You Know?</b>\n\nCreating an Exomnus sentence is much like drawing a portrait of a person. First, you sketch the shape of the concept, like the face, and create boundaries. Then you section the material into understandable nuggets – eyes, ears, nose, expression. You keep information simple as you add it, then infuse precise detail like lighting and shadow. The process is similar with Exomnus. We first use words to create a simple idea. Then we take the Dictopedia, which holds all defined meanings of all words we know, and add precise references to the meanings we want each word to hold. The end result is a highly precise idea! \r\n",
+    "target": "<b>你知道吗？</b>\n\n造艾克索姆语句子，很像画人物肖像。先勾勒概念轮廓，如脸形，确立边界，再分成易懂的小块：眼、耳、鼻、表情。逐步加入简单资讯，再赋予精确细节，如光影。艾克索姆语也相似：先用词建立简单想法，再查收录所有已知词义的《辞义百科》，为每个词添上所需意思的精确参照。最后，便得到高度精确的想法！"
+  },
+  {
+    "source": "Sadie",
+    "target": "莎蒂"
+  },
+  {
+    "source": "<b>Dictopedia Meanings\r:</b>",
+    "target": "<b>辞义百科释义：</b>"
+  },
+  {
+    "source": "What is the information in this sentence in your own words? ",
+    "target": "请用自己的话，说明句子传达的资讯："
+  },
+  {
+    "source": "Exomnus Lesson 12: Using the Dictopedia\n",
+    "target": "艾克索姆语第十二课：使用辞义百科"
+  },
+  {
+    "source": "<b>Directions:</b> Use the Exomnus Dictopedia to decipher the meanings of the sentence. Remember, each word has a number of meanings. Find the correct meaning for each word to unlock the precise information in the sentence. \r\n",
+    "target": "<b>说明：</b>使用《艾克索姆语辞义百科》解读句意。记住，每个词都有多种意思。找到各词正确释义，便能解开句中精确资讯。"
+  },
+  {
+    "source": "  Well done Sadie! You'll be a\nQuentenite Apprentice in \n    no time :)",
+    "target": "莎蒂，做得好！\n妳很快就能成为\n昆汀学徒了 :) "
+  },
+  {
+    "source": "My body is warmed by the Spring-noon sun’s gentle hotness. I enjoy the warmth for it is unexpected but welcome. ",
+    "target": "春日正午的阳光，以温和的热度暖着身体。我喜欢这份暖意，因为它出乎意料，却令人欣喜。"
+  },
+  {
+    "source": "The   hot   of  the   sun   feels    good    . \r\n",
+    "target": "The hot of the sun feels good.\n太阳的热，感觉很好。"
+  },
+  {
+    "source": "           standard, no emphasis\r\n          gentle hotness: warmth\r\n        standard possessive\r\n          standard, no emphasis \r\n          mid-day sun in Spring\r\n             sensation on skin\r\n             unexpected but welcomed  ",
+    "target": "标准用法，无强调\n\n温和的热：暖意\n\n标准所有格\n\n标准用法，无强调\n\n春日正午的太阳\n\n皮肤的感受\n\n意料之外，却欣然接受"
+  },
+  {
+    "source": "The   –  \nHot   – \nOf   – \nThe   –  \nSun   –  \nFeels     –  \nGood     –  ",
+    "target": "The　—\nHot（热）　—\nOf（的）　—\nThe　—\nSun（太阳）　—\nFeels（感觉）　—\nGood（好）　—"
+  },
+  {
+    "source": "meet my husbind. I am happy to think we is be toogedth eech others again but this time in the golden forist and silver lakes of the High Relm. \r\n\r\nBe the best you is can be. \r\n\r\nYor loving Ma,\r\nJida \r\n",
+    "target": "见丈夫。想到又能在一起，我很高兴。这回，是高境的金森林、银湖泊。\n\n做最好的自己。\n\n爱你的妈\n吉妲"
+  },
+  {
+    "source": "sorvive. I wanted just some food. Not even a hole harvist. Remember this. Do not lose yor self in feer. Do not take a nother man’s feers and make them yors.\r\n\r\nTWO. Lern as much as you can. The more you ejukayt lern the more you can do yor self and help other peeple. Splain this to all yor childrin. \r\n\r\nTHREE. We is all more same then difrent. When sumwon did not agrees with you try to think why that is. Many peeple is not bad. They is just think difrent. We has a life story and they has a life story too. Try to share thees. This is good for peece with yor naybors no matter how new or old they is to this yung city. \r\n\r\nI give you this letter from love. The Grate Wind God Nebyl is soon take my speerit to ",
+    "target": "活下去。我只要一点吃的，甚至不是整场丰收。记住，别迷失在害怕里，别把别人的恐惧当自己的。\n\n第二，尽量学。读得学得越多，越能自己做事、帮别人。告诉所有孩子。\n\n第三，我们相同的地方，比不同多。有人不同意，就想想为什么。很多人不坏，只是想法不同。我们有生命故事，他们也有。试着分享。不管邻居是新来还是住很久，对这年轻城市的和平都好。\n\n这封信来自爱。伟大风神内比尔，很快带我的魂去"
+  },
+  {
+    "source": "My son Palud, \r\n\r\nI do not has much to leave you. But the infermaysh ideeas in this lettur. \r\n\r\nI can not beleev we can read and write. Can you? I am sad I did not able to do this my hole life. Kween saveena was right about the grateness of lerning. It is such a big abbilla gift from the kween and the kwentnites. I am happy from the thawt that my words can last on this paper for many lives. You will read it and so will yor childrin and so will they childrin. On and on. \r\n\r\nI want to give you my ideeas from life so that yor life can be better.  \r\n\r\nONE. Kwentnites is good peeple. One of the biggest sadniss in my life is that I cheered for they hurt and they deth. I was a big fool. I was a animul. I wanted us to eat and ",
+    "target": "儿子帕路德：\n\n我没多少能留你，只有信里的资讯、想法。\n\n真不敢信，我们能读写了。你信吗？难过以前一辈子都不会。莎维娜女王说得对，学习真伟大。女王和昆汀修士，给了多大的本领、礼物。想到字能留在纸上好多代，我很高兴。你读，你孩子读，他们孩子也读，一直下去。\n\n想把这辈子的想法给你，让你活更好。\n\n第一，昆汀修士是好人。我一生最难过的事之一，是曾为他们受苦、死去欢呼。我大傻瓜，我像兽。我只想让我们吃饱、"
+  },
+  {
+    "source": "Pa, look – a daisy, I believe. Growing in the shade of your gravestone. “Nav’ed Praetis, Father of the Quentinites.” Father. Father…  \r\n\r\nEverytime I come out to see you in our pines a deep envy heats my blood. I cannot help it. People knew you as Father longer than me. I never met the visionary mind who fathomed Exomnus. You never met the QUEEN OF QUENT, heh. The title makes me shudder. I — my journey never meant to be so long…\r\n\r\nHow peaceful, though. Our Quentinite Brothers and Sisters chose well to bury you in this clearing. Each time I visit there are more young shoots, greener needles, richer birdsong... our people truly are bringing the forest back to life from Rekter's destruction. \r\n\r\nI came by to tell you something incredible. Do you remember your ambitions with the roadrunners and the maps? Well, we are very close to finishing your work. The Great Waterhole Roads, a trade and travel system spanning in each direction from our city, will grow us into the Library of the World! \r\n\r\nAs before, violent marauders find their way to our borders and cause bloodshed. But our forging and engineering knowledge combines to give us many missile weapons. Why, our crossbows make city defenders out of the old weavers! \r\n\r\nI will admit, I never imagined the complexity of settling a constant influx of migrants. How would you manage it, Pa? My best guess would be free but mandatory education as a path to Quent citizenship. But all the intricate customs, squabbles, beliefs, biases… how should law and justice accommodate these? Building society is the most frustrating work of my life. \r\n\r\nI worry my Ebned and Ravani may not be suited for the throne of Quent. Precocious and intelligent as my children are, it is Sadie Sloan who holds the most brilliant imagination for progress. \r\n\r\nWe’re already exploring her theories on “printing” words for mass texts like a “news on paper” and using wind as a source of energy. And she dreams of greatness: harnessing electricity for night-time lights, exploding powder for defenses and mining, machines for sowing, currency for economy,  “typing” contraptions to assist our scribes.... All ideas from a place in her mind called Asbury. I tend to think she would have the most unique solutions to a growing society’s challenges. \r\n\r\nAh, chill bumps. The night is bringing the cooled air. I will see you again soon, Pa. \r\n",
+    "target": "爸，看，一朵雏菊，大概是。长在你墓碑的荫下。「纳维德・普雷蒂斯，昆汀之父。」父亲。父亲……\n\n每次来松林看你，深深的嫉妒就烧热血液。我忍不住。别人认识身为「父亲」的你，比我更久。我没见过构思艾克索姆语的远见头脑，你也没见过昆特女王，嘿。这头衔让我发抖。我……旅程本不该那么久……\n\n可这里多平静。昆汀兄弟姊妹选这空地安葬你，选得好。每次都有更多幼苗、更绿松针、更丰富鸟鸣。族人确实在雷克特的破坏后，让森林重生。\n\n今天来说件不可思议的事。记得走鹃与地图的志向吗？我们快完成你的工作了。大水源道，从城里向各方延伸的商旅系统，将使我们成为世界的图书馆！\n\n和以前一样，暴力掠夺者找到边境，造成流血。但冶锻与工程知识结合，给了我们许多远射武器。弩竟能让年老织工也成为守城者！\n\n我承认，从没想过安置不断涌入的移民这么复杂。爸，你会怎么办？我想最好是免费但强制的教育，作为取得昆特公民资格的途径。可习俗、争执、信仰、偏见，如此错综，法律与正义该如何容纳？建设社会，是我一生最挫折的工作。\n\n我担心艾布内德和拉瓦妮不适合昆特王位。孩子虽早慧聪敏，对进步最有绝妙想像力的，却是莎蒂・斯隆。\n\n我们已研究她「印刷」文字、大量制作「纸上新闻」的想法，以及用风作能源。她梦想伟大事物：电力夜灯、防卫采矿用爆炸粉末、播种机、经济货币、辅助抄写员的「打字」机关……全来自她心里一个叫阿斯伯里的地方。我总觉得，她能为成长社会的难题，提出最独特的解法。\n\n啊，起鸡皮疙瘩了，夜带来凉意。爸，很快再来看你。"
+  },
+  {
+    "source": "Opinion: The Queen Has Become Invisible \r\n",
+    "target": "评论：女王隐形了"
+  },
+  {
+    "source": "Your time well spent",
+    "target": "值得您花时间阅读"
+  },
+  {
+    "source": "By Lewish Sneevol",
+    "target": "路易什・斯尼沃 撰"
+  },
+  {
+    "source": "Third annual Savyna Praetis Memorial Day is Mayute 14. Day of rest. Hommage event begins at highest-sun. All welcome. Meet at Savyna’s tomb by Mesquite tree Great Nav’ed.  \r\n\r\nMount Vivienne Quarry flooded. Miners hit deep spring. Endless groundwater. Large canal project planned. High priority for Quent. \r\n\r\nQueen Sadie opens School of Archaeology. Admission requires level 7 Exomnus literacy. Seek out High Scholar Jehyr at the Rotunda Libraria (formerly Ringfort) to apply. \r\n\r\nRespect newcomers. Read for them. Show them to the Arrivals Tent in the Market Quarter. Help them register names and skills for a reward.\r\n",
+    "target": "第三届莎维娜・普雷蒂斯纪念日，订于 Mayute 14，休息一日。致敬活动于日正当中开始，欢迎所有人。于牧豆树「伟大的纳维德」旁、莎维娜墓前集合。\n\n薇薇安山采石场淹水。矿工挖中深泉，地下水源源不绝。大型渠道工程规划中，列为昆特优先项目。\n\n莎蒂女王创设考古学院。入学须具七级艾克索姆语读写能力。请至圆厅图书馆（原环堡），找高阶学者杰希尔申请。\n\n尊重新来者，替他们读字，带往市场区抵达帐篷。协助登记姓名与技能，可获奖励。"
+  },
+  {
+    "source": " Archaeology is the study of human history through digging into the earth to find and examine ancient items called artifacts. ",
+    "target": "考古学透过挖掘土地，寻找、检验称为文物的古代物件，研究人类历史。"
+  },
+  {
+    "source": "PRESS OF QUENT\n",
+    "target": "昆特报"
+  },
+  {
+    "source": "  ellow Quentizens, if seeing is believing\nthen I do believe our Queen is invisible. There is no need to panic, yet. I hear of ",
+    "target": "各位昆特公民，若眼见为凭，\n那我确信女王已经隐形。\n暂且不用恐慌。我听闻"
+  },
+  {
+    "source": "<b>FOR HIRE\r></b>\n\r\nMiners – Seek out Hoysin. Forgers Guild.\r\n\nDiggers – Seek out Engineer Pyroq. Craftorium 1.\r\n\nScribes – Exomnus literacy level 3 or higher. Seek out Sciencer Lera. Laboratoria Minor. \r\n\nLoggers – Seek out Engineer Josseda. Craftorium 3. \r\n\nStablemate – Cattle, sheep, and pig breeding. Seek out Husbander Malk. Grazeland Tower. \r\n\nBellcryer – Standard literacy required. Strong voice. Seek out Editor Zihelcik. Press of Quent. \r\n",
+    "target": "<b>征人\n></b>\n\n矿工——请找霍伊辛，锻造公会。\n\n挖掘工——请找工程师派洛克，第一工坊。\n\n抄写员——艾克索姆语三级以上。请找科学师蕾拉，小实验院。\n\n伐木工——请找工程师乔塞妲，第三工坊。\n\n牧厩助手——繁育牛羊猪。请找畜牧师马尔克，牧地塔。\n\n鸣钟传报员——须具标准读写能力，声音洪亮。请找编辑齐赫尔契克，昆特报。"
+  },
+  {
+    "source": " Genius is a person of extreme intelligence and imaginative capacity. \r\n A crop from the past with yellow, edible kernels and can grow as tall as a grown man\r.\n\n",
+    "target": "天才：智力与想像力极高的人。\n\n一种古代作物，结出可食的黄色籽粒，可长至成人身高。"
+  },
+  {
+    "source": "The Rotunda Libraria expansion project has yielded a surprising discovery. The corpse of an ancient genius , Hugo “Huck” Smeed, was found in a stone coffin. His fingers clutched a sealed metal box. Inside was a recipe for highly durable concrete compound. \r\n\r\n“We will be able to build an eternal city with this mixture,” said Tharten Luss, Chief City Planning Advisor. “Stable, sturdy homes and structures will reach up to the heavens, as in ancient times.”  \r\n\r\nFurthermore, the coffin was lined with husks that held dried kernels of a plant that Archaeology Scholars call “corn.”  Queen Sadie herself is overseeing the Botanists assigned to regrow this crop back into existence.  \r\n",
+    "target": "圆厅图书馆扩建工程带来惊人发现：石棺中找到古代天才雨果「哈克」斯米德的遗体，手指紧握密封金属盒，内藏高耐久混凝土配方。\n\n「用这混合物，我们能建永恒之城，」首席城市规划顾问萨尔滕・勒斯表示。「稳固住宅与建筑，将如古代般直达天际。」\n\n此外，棺内衬有包叶，里面保存干燥籽粒，考古学者称其为「玉米」。莎蒂女王正亲自督导植物学家，让这种作物重现世间。"
+  },
+  {
+    "source": "<b>FOR HIRE\r></b>\n\r\nGlassmakers – High demand. Seek out Lashlin. Craftorium 9, Industrial District. \r\n\nCustomskeepers – Exomnus literacy level 2 or higher. Seek out Merchant’s Guild, Market District. \r\n\nForgers – Seek out Engineer Josseda. Craftorium 3, Central District. \r\n\nForesters – Seek out Kolket. Logger’s Lodge, Pine Forest West. \r\n\nDoctors – Exomnus literacy level 5 or higher. Seek out Pelyk, Medicine Hall 2, Northgate District. \r\n\nFreighters – Horse/ox handling skills required. Seek out Bajeed, Wagoners Collective, Industrial District. \r\n\nPolicer – Fitness and good judgment required. Seek out Jodzer, Citywatch Headquarters, Central District.  \r\n",
+    "target": "<b>征人\n></b>\n\n玻璃工——需求殷切。请找拉什林，工业区第九工坊。\n\n关务员——艾克索姆语二级以上。请洽市场区商人公会。\n\n锻工——请找工程师乔塞妲，中央区第三工坊。\n\n林务员——请找科尔凯特，西松林伐木小屋。\n\n医师——艾克索姆语五级以上。请找佩利克，北门区第二医馆。\n\n货运工——须会驾驭马牛。请找巴吉德，工业区货车联社。\n\n治安员——须体健、判断良好。请找乔泽尔，中央区城防总部。"
+  }
+]

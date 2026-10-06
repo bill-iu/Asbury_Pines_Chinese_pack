@@ -1,0 +1,98 @@
+[
+  {
+    "source": "NATURE\nBLOCKED",
+    "target": "探索\n受阻"
+  },
+  {
+    "source": "BUILDING\nBLOCKED",
+    "target": "建造\n受阻"
+  },
+  {
+    "source": "YOU HAVEN'T UNLOCKED THIS RESOURCE YET",
+    "target": "尚未解锁这项资源"
+  },
+  {
+    "source": "EXAMINED",
+    "target": "已检视"
+  },
+  {
+    "source": "HIDDEN",
+    "target": "隐藏"
+  },
+  {
+    "source": "This artifact is not examined yet.",
+    "target": "这件文物尚未检视。"
+  },
+  {
+    "source": "BLOCKED",
+    "target": "受阻"
+  },
+  {
+    "source": "STORY\nBLOCKED",
+    "target": "故事\n受阻"
+  },
+  {
+    "source": "Tides",
+    "target": "潮汐时代"
+  },
+  {
+    "source": "unknown",
+    "target": "未知"
+  },
+  {
+    "source": "Unknown",
+    "target": "未知"
+  },
+  {
+    "source": "WORSHIPPED",
+    "target": "已完成崇拜"
+  },
+  {
+    "source": "RESEARCHED",
+    "target": "已研究"
+  },
+  {
+    "source": "WORK\nBLOCKED",
+    "target": "工作\n受阻"
+  },
+  {
+    "source": "SCAVENGED",
+    "target": "已拾荒"
+  },
+  {
+    "source": "LIVING\nBLOCKED",
+    "target": "生活\n受阻"
+  },
+  {
+    "source": "GOV. LIFE CYCLE COMPLETE",
+    "target": "政体生命周期完成"
+  },
+  {
+    "source": "Snail",
+    "target": "蜗牛"
+  },
+  {
+    "source": "Col",
+    "target": "殖民"
+  },
+  {
+    "source": "Jazz",
+    "target": "爵士"
+  },
+  {
+    "source": "Dust",
+    "target": "尘埃"
+  },
+  {
+    "source": "L-Dep",
+    "target": "长萧条"
+  },
+  {
+    "source": "Pres",
+    "target": "现代"
+  },
+  {
+    "source": "Neo",
+    "target": "新石器"
+  }
+]

@@ -1,12 +1,23 @@
 # Asbury Pines 繁體中文漢化包
 
-目前插件版本 **0.1.14**，簡易安裝包版本 **0.1.14-pack.1**。
+目前插件版本 **0.1.14**，安裝包版本 **0.1.14-pack.2**。同時提供繁體及簡體中文版本。
+
+| 版本 | EXE | ZIP |
+| --- | --- | --- |
+| 繁體中文 | `Asbury_Pines_TC_0.1.14-pack.2_Setup.exe` | `Asbury_Pines_TC_0.1.14-pack.2_Portable.zip` |
+| 簡體中文 | `Asbury_Pines_SC_0.1.14-pack.2_Setup.exe` | `Asbury_Pines_SC_0.1.14-pack.2_Portable.zip` |
+
+檔案皆在 [Releases](https://github.com/bill-iu/Asbury_Pines_TC_pack/releases/latest)。繁中資料位於 repo 根目錄，簡中版位於 [`simplified/`](https://github.com/bill-iu/Asbury_Pines_TC_pack/blob/main/simplified/README.md)。
+
+兩版共用同一插件位置，**每次使用其中一版**。切換版本時，關閉遊戲後執行另一版的安裝器即可；安裝器會核對舊檔並備份。F8 切換目前安裝的中文版本與英文。
+
+簡中版由繁中詞庫以 OpenCC `tw2s` 轉換，同時轉換插件動態文字與安裝介面；英文比對鍵、正則規則、富文字標籤及排版空行保持原樣。繁中預算排版快取未移入簡中版，簡中版使用原有的即時量測及執行期快取。簡中版尚未重新完成繁中版的 421 個版型遊戲內視覺檢查，詳細驗證範圍見 [簡中說明](https://github.com/bill-iu/Asbury_Pines_TC_pack/blob/main/simplified/README.md)。
 
 這是 Windows Steam 版 Asbury Pines 的非官方繁體中文補丁，包含外掛、詞庫及所需的 BepInEx x86 載入器。使用系統的微軟正黑體，不散佈遊戲本體、遊戲 DLL、素材、字型或存檔。
 
 ## 最簡單：EXE 安裝器
 
-1. 從 [Releases](https://github.com/bill-iu/Asbury_Pines_TC_pack/releases/latest) 下載 `Asbury_Pines_TC_0.1.14-pack.1_Setup.exe`。
+1. 從 [Releases](https://github.com/bill-iu/Asbury_Pines_TC_pack/releases/latest) 下載所需版本的 `Setup.exe`。
 2. 關閉遊戲，雙擊安裝器。
 3. 選擇含有 `AsburyPines.exe` 的遊戲資料夾，選「安裝／更新繁體中文補丁」，按「執行」。安裝器會嘗試填入預設 Steam 路徑；其他 Steam 遊戲庫請自行選擇。
 4. 安裝完成後，由 Steam 正常啟動遊戲。
@@ -15,7 +26,7 @@
 
 ## ZIP 版本
 
-下載 `Asbury_Pines_TC_0.1.14-pack.1_Portable.zip`，**完整解壓縮**到任意可寫入的資料夾，再雙擊 `Install.cmd`。操作方式與 EXE 相同。不要只複製單一 DLL，也不要直接將 `payload` 強制覆蓋到已有插件的遊戲目錄；安裝器會先檢查版本和檔案，再建立安裝清單及備份。
+下載所需版本的 `Portable.zip`，**完整解壓縮**到任意可寫入的資料夾，再雙擊 `Install.cmd`。操作方式與 EXE 相同。不要只複製單一 DLL，也不要直接將 `payload` 強制覆蓋到已有插件的遊戲目錄；安裝器會先檢查版本和檔案，再建立安裝清單及備份。
 
 需要手動操作時，可在解壓目錄執行：
 
@@ -55,5 +66,7 @@
 `source/` 保留插件原始碼、排版快取、MonoMod 原檔與相容性修補腳本；`installer/` 是本次 EXE 外殼原始碼。`payload/` 僅包含可散佈的補丁及載入器。第三方授權、來源和 Doorstop 對應來源壓縮檔在 `licenses/`。
 
 在 Windows PowerShell 執行 `powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\tools\Build-Pack.ps1` 可從本 repo 重新建立 ZIP 與 EXE，輸出在 `artifacts/`。此命令重新打包已驗證插件，不重新編譯遊戲插件。
+
+簡中版可直接執行 `simplified/tools/Build-Pack.ps1` 重建安裝包。若要從繁中重新產生簡中詞庫及插件，需要建置端 Python／OpenCC `tw2s`，執行 `tools/Generate-Simplified.py`，再執行 `tools/Build-Simplified-Plugin.ps1 -GameRoot '遊戲資料夾'`。已有 `simplified/` 時產生器會停止，請先保留舊資料。已發佈安裝包不需 Python 或 OpenCC。
 
 Asbury Pines 及原有劇情、名稱與素材屬於各自權利人；翻譯用於另外安裝的遊戲。各第三方授權僅適用於對應元件，詳見 [第三方聲明](licenses/THIRD-PARTY-NOTICES.md)。

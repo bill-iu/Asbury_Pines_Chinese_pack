@@ -11,8 +11,8 @@
     },
     {
         "Path":  "docs/PACKAGING-VERIFICATION.md",
-        "SHA256":  "1F05900D7B5B96968B1F2E2FED9DD234775E432F6A2698BB91B0E95B35E6BA46",
-        "Bytes":  2128
+        "SHA256":  "B88F93B44221A81615AB4B36A2202650DF9F351A63EB0701036D5DFD46682E31",
+        "Bytes":  2313
     },
     {
         "Path":  "docs/PERFORMANCE.zh-TW.md",
@@ -26,8 +26,8 @@
     },
     {
         "Path":  "docs/RELEASE-NOTES.md",
-        "SHA256":  "CDB2D2889A697EB0FF2A61DF343D96BB7A130CCAF8E9AFD48910BAF42EB12119",
-        "Bytes":  1125
+        "SHA256":  "19C4054E5D218B5AA5204E51A4C4F9116CA782B6221B5CFFA8C1E9C42C3D1A06",
+        "Bytes":  1481
     },
     {
         "Path":  "docs/RELEASE-VERIFICATION.md",
@@ -51,7 +51,7 @@
     },
     {
         "Path":  "installer/Bootstrap.cs",
-        "SHA256":  "935F0347736DF429C89B95B88E72F764BD243F65327D834D92A728513C195686",
+        "SHA256":  "2537DC616DE960B90154854F8AF1384D74EB32B297A826B21910B1B8AF378661",
         "Bytes":  6834
     },
     {
@@ -601,8 +601,8 @@
     },
     {
         "Path":  "README.md",
-        "SHA256":  "81E15C9BC66AAF0BECB9C1C4A4773C62CBD99BDC747658EB7CDD609C51C6B44F",
-        "Bytes":  4386
+        "SHA256":  "DFA01A2C2E6B99A9D50ED50CF811810B8B4BAE852ABC684D86EAC2B557EC927F",
+        "Bytes":  5992
     },
     {
         "Path":  "Set-TraditionalChinese.ps1",
@@ -631,12 +631,42 @@
     },
     {
         "Path":  "tools/Build-Pack.ps1",
-        "SHA256":  "D1967F4912D9336A67C13287D5C4E1F173BAA6E407114CA510666DC04E0A2AD9",
-        "Bytes":  3341
+        "SHA256":  "1860F530AAAE5B8F25C05984021952BD5B27BF7E26F144894ABF7130427B1E71",
+        "Bytes":  3404
+    },
+    {
+        "Path":  "tools/Build-Simplified-Plugin.ps1",
+        "SHA256":  "F39EAC1D99A2601F5BE7C1364D4BABEFAFF55DB77DBE26DC615FE6AFAF9A73AE",
+        "Bytes":  1492
+    },
+    {
+        "Path":  "tools/Generate-Simplified.py",
+        "SHA256":  "40451AD919B46CA0FB53436733C352DCBCDC85DC69F1A5B136674D078E275253",
+        "Bytes":  6289
+    },
+    {
+        "Path":  "tools/simplified-template/docs/PACKAGING-VERIFICATION.md",
+        "SHA256":  "7EA0D7146EDE8776DB606E56453C5E67CAEA2E5812EB89A46B1F07FDF6887328",
+        "Bytes":  1113
+    },
+    {
+        "Path":  "tools/simplified-template/README.md",
+        "SHA256":  "C5A309C572489809B91013C7D5F56548383F613781AB0711101CB9511207112B",
+        "Bytes":  3497
+    },
+    {
+        "Path":  "tools/Test-Catalog.ps1",
+        "SHA256":  "FDDAF2BDCF7C013DEA5D88B75C805D3F2710229BAD5D8371878C2B23334A2094",
+        "Bytes":  10655
+    },
+    {
+        "Path":  "tools/Test-Language-Switch.ps1",
+        "SHA256":  "8A64F43782F1F1543B94E47AD43DC60021814483B609E52B751FB9AA5698A505",
+        "Bytes":  2204
     },
     {
         "Path":  "tools/Test-Pack.ps1",
-        "SHA256":  "A7B533AB4164670C4FBFE4A7272B85A671E395B41D44D5119086E6D12C1B4DC5",
+        "SHA256":  "5CC7819CDCB001284C9733BD05E723436DEF70893A43DB0AED598BA255FE3161",
         "Bytes":  5873
     },
     {

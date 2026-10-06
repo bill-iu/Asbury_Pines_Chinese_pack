@@ -10,8 +10,8 @@ using System.Windows.Forms;
 [assembly: AssemblyTitle("Asbury Pines Traditional Chinese Setup")]
 [assembly: AssemblyDescription("Offline setup and management for Asbury Pines Traditional Chinese 0.1.14")]
 [assembly: AssemblyProduct("Asbury_Pines_TC_pack")]
-[assembly: AssemblyVersion("0.1.14.1")]
-[assembly: AssemblyFileVersion("0.1.14.1")]
+[assembly: AssemblyVersion("0.1.14.2")]
+[assembly: AssemblyFileVersion("0.1.14.2")]
 
 internal static class Bootstrap
 {

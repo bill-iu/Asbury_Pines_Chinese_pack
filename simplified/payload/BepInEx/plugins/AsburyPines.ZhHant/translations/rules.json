@@ -1,0 +1,190 @@
+[
+  {
+    "pattern": "^VICTORY ([0-9.,]+)%$",
+    "replacement": "完成度 $1%"
+  },
+  {
+    "pattern": "^VERSION ([0-9]+\\.[0-9]+\\.[0-9]+)$",
+    "replacement": "版本 $1"
+  },
+  {
+    "pattern": "^AGE ([0-9]+)$",
+    "replacement": "$1 岁"
+  },
+  {
+    "pattern": "^([0-9]+) HRS$",
+    "replacement": "$1 小时"
+  },
+  {
+    "pattern": "^([0-9.,]+)\\s*(<size=(?:[0-9]+|\"[0-9]+\")>)(?:S|s|SEC)(</size>)$",
+    "replacement": "$1 $2秒$3"
+  },
+  {
+    "pattern": "^([0-9.,]+)\\s*(<size=(?:[0-9]+|\"[0-9]+\")>)MINUTES(</size>)$",
+    "replacement": "$1 $2分钟$3"
+  },
+  {
+    "pattern": "^([0-9.,]+) (<size=12>)SEC(</size>) ([0-9.,]+) (<size=12>)PTS(</size>)$",
+    "replacement": "$1 $2秒$3 $4 $5点数$6"
+  },
+  {
+    "pattern": "^([0-9]+) (<size=12>)M(</size>) ([0-9]+) (<size=12>)s(</size>)$",
+    "replacement": "$1 $2分$3 $4 $5秒$6"
+  },
+  {
+    "pattern": "^([0-9.,]+)% (<size=\"13\">)of(</size>) GOV\\. LIFE CYCLE COMPLETE \\(([0-9.,]+) / ([0-9.,]+) PTS\\)$",
+    "replacement": "$1% $2政体周期完成$3（$4／$5 点数）"
+  },
+  {
+    "pattern": "^([0-9.,]+)% WORSHIPPED \\(([0-9.,]+) / ([0-9.,]+) XP\\)$",
+    "replacement": "崇拜进度 $1%（$2／$3 经验）"
+  },
+  {
+    "pattern": "^([0-9.,]+)% RESEARCHED \\(([0-9.,]+) / ([0-9.,]+) XP\\)$",
+    "replacement": "研究进度 $1%（$2／$3 经验）"
+  },
+  {
+    "pattern": "^([0-9.,]+)% RESEARCHED \\(([0-9.,]+) / ([0-9.,]+) PTS\\)$",
+    "replacement": "研究进度 $1%（$2／$3 点数）"
+  },
+  {
+    "pattern": "^([0-9.,]+)% EXAMINED \\(([0-9.,]+) / ([0-9.,]+) XP\\)$",
+    "replacement": "检视进度 $1%（$2／$3 经验）"
+  },
+  {
+    "pattern": "^([0-9.,]+)% GOV\\. LIFE CYCLE COMPLETE \\(([0-9.,]+) / ([0-9.,]+) XP\\)$",
+    "replacement": "政体生命周期完成 $1%（$2／$3 经验）"
+  },
+  {
+    "pattern": "^([0-9]+)(<size=12>)M(</size>) ([0-9]+)(<size=12>)S(</size>)( \\([0-9.,]+ <size=12>XP</size>\\))?$",
+    "replacement": "$1$2分$3 $4$5秒$6$7"
+  },
+  {
+    "pattern": "^([0-9]+)(<size=12>)HR(</size>) ([0-9]+)(<size=12>)M(</size>)( \\([0-9.,]+ <size=12>XP</size>\\))?$",
+    "replacement": "$1$2时$3 $4$5分$6$7"
+  },
+  {
+    "pattern": "^IDLE([ .]+)$",
+    "replacement": "闲置$1"
+  },
+  {
+    "pattern": "^EXAMINING([ .]+)$",
+    "replacement": "检视中$1"
+  },
+  {
+    "pattern": "^WORSHIPPING([ .]+)$",
+    "replacement": "崇拜中$1"
+  },
+  {
+    "pattern": "^RESEARCHING([ .]+)$",
+    "replacement": "研究中$1"
+  },
+  {
+    "pattern": "^GOVERNING([ .]+)$",
+    "replacement": "治理中$1"
+  },
+  {
+    "pattern": "^WORKING([ .]+)$",
+    "replacement": "工作中$1"
+  },
+  {
+    "pattern": "^CURRENT VALUE: (<color=\"#[0-9A-Fa-f]{6,8}\">)([+\\-0-9.,%]+)(</color>)$",
+    "replacement": "目前数值：$1$2$3"
+  },
+  {
+    "pattern": "^CURRENT ACTION LENGTH: (<color=\"#FFAB83\">)([0-9.,]+|\\?\\?\\?)(</color><size=14>) s(</size>)$",
+    "replacement": "目前行动时间：$1$2$3 秒$4"
+  },
+  {
+    "pattern": "^BASE ACTION LENGTH: (<color=\"#FFAB83\">)([0-9.,]+|\\?\\?\\?)(</color><size=14>) s(</size>)$",
+    "replacement": "基础行动时间：$1$2$3 秒$4"
+  },
+  {
+    "pattern": "^BASE VALUE: (<color=\"#FFAB83\">)([+\\-0-9.,%KMBT]+)(</color>)$",
+    "replacement": "基础数值：$1$2$3"
+  },
+  {
+    "pattern": "^(-?[0-9.,KMBT]+) EXP REMAINING\\s*$",
+    "replacement": "剩余 $1 经验"
+  },
+  {
+    "pattern": "^([0-9.,]+)% EXAMINED$",
+    "replacement": "已检视 $1%"
+  },
+  {
+    "pattern": "^([0-9.,]+)% REMAINING$",
+    "replacement": "剩余 $1%"
+  },
+  {
+    "pattern": "^BUILDING \\(([0-9.,]+)%\\)([ .]*)$",
+    "replacement": "建造中（$1%）$2"
+  },
+  {
+    "pattern": "^IDLE \\(([0-9.,]+)%\\)$",
+    "replacement": "闲置（$1%）"
+  },
+  {
+    "pattern": "^YOU HAVE (<color=\"#FFAB83\">)([0-9.,KMBT]+)(</color>) PRAYERS\\.$",
+    "replacement": "你拥有 $1$2$3 祈祷。"
+  },
+  {
+    "pattern": "^You were gone for at least 12 hours\\.$",
+    "replacement": "你离开了至少 12 小时。"
+  },
+  {
+    "pattern": "^You were gone for less than a minute\\.?$",
+    "replacement": "你离开了不到一分钟。"
+  },
+  {
+    "pattern": "^You were gone for (?:about )?(\\d+) hours? and (\\d+) minutes?\\.$",
+    "replacement": "你离开了约 $1 小时又 $2 分钟。"
+  },
+  {
+    "pattern": "^You were gone for (?:about )?(\\d+) hours?\\.$",
+    "replacement": "你离开了约 $1 小时。"
+  },
+  {
+    "pattern": "^You were gone for (?:about )?(\\d+) minutes?\\.$",
+    "replacement": "你离开了约 $1 分钟。"
+  },
+  {
+    "pattern": "^(<b>\\d+</b>)\\s+Unlocked and\\s+(<b>\\d+</b>)\\s+Completed$",
+    "replacement": "已解锁 $1，已完成 $2"
+  },
+  {
+    "pattern": "^(<b>\\d+</b>)\\s+Unlocked$",
+    "replacement": "已解锁 $1"
+  },
+  {
+    "pattern": "^(<b>\\d+</b>)\\s+Completed$",
+    "replacement": "已完成 $1"
+  },
+  {
+    "pattern": "^SAVE GAME #(\\d+)$",
+    "replacement": "存档 #$1"
+  },
+  {
+    "pattern": "^SKILL LVL (\\d+)$",
+    "replacement": "技能等级 $1"
+  },
+  {
+    "pattern": "^VERSION (.+) <i>PHASE (\\d+)</i>$",
+    "replacement": "版本 $1 <i>第 $2 阶段</i>"
+  },
+  {
+    "pattern": "^(\\d+) (?:of|OF) (\\d+|\\?)$",
+    "replacement": "$1／$2"
+  },
+  {
+    "pattern": "^([0-9.,]+) (<size=12>)s(</size>) +([0-9.,]+) (<size=12>)TIME(</size>) *$",
+    "replacement": "$1 $2秒$3   $4 $5时间$6"
+  },
+  {
+    "pattern": "^<ERROR - ([A-Za-z0-9#_-]+)>$",
+    "replacement": "〈错误：$1〉"
+  },
+  {
+    "pattern": "^(.+?)  <size=15>\\+([0-9.,KMBTkmbt]+) IN ([0-9.,:]+)</size><size=12>S</size>$",
+    "replacement": "$1  <size=15>$3秒后 +$2</size><size=12></size>"
+  }
+]

@@ -1,0 +1,598 @@
+[
+  {
+    "source": "REWARDS",
+    "target": "奖励"
+  },
+  {
+    "source": "DORY's DINER",
+    "target": "多莉餐馆"
+  },
+  {
+    "source": "ABANDONED GRAVE",
+    "target": "荒废的坟墓"
+  },
+  {
+    "source": "ASCENSION",
+    "target": "崛起"
+  },
+  {
+    "source": "Save",
+    "target": "储存"
+  },
+  {
+    "source": "DECLINE",
+    "target": "衰退"
+  },
+  {
+    "source": "REFORMED CHRISTIANITY",
+    "target": "改革宗基督教"
+  },
+  {
+    "source": "READ\nMAGAZINES",
+    "target": "阅读\n杂志"
+  },
+  {
+    "source": "LOCAL LEGENDARY LAWMAN HAS CHOSEN HIS SUCCESSOR.",
+    "target": "本地传奇警长已选定接班人。"
+  },
+  {
+    "source": "ALVIN VAN EISEN II\n\n",
+    "target": "艾尔文・范艾森二世"
+  },
+  {
+    "source": "GRAND ROSA THE PINE",
+    "target": "大罗莎松树"
+  },
+  {
+    "source": "GAME 100% COMPLETED",
+    "target": "游戏完成度 100%"
+  },
+  {
+    "source": "ROSARY",
+    "target": "玫瑰念珠"
+  },
+  {
+    "source": "Spend resources to gain experience.",
+    "target": "消耗资源以获得经验值。"
+  },
+  {
+    "source": "WORKERS",
+    "target": "工人"
+  },
+  {
+    "source": "WORSHIPPERS",
+    "target": "信徒"
+  },
+  {
+    "source": "THE PRESENT",
+    "target": "现代"
+  },
+  {
+    "source": "PUPA",
+    "target": "蛹"
+  },
+  {
+    "source": "SUPPORT TYPE",
+    "target": "支援类型"
+  },
+  {
+    "source": "FORMATION",
+    "target": "形成"
+  },
+  {
+    "source": "RESOURCES & PERKS",
+    "target": "资源与加成"
+  },
+  {
+    "source": "MAJOR UPDATE",
+    "target": "重大更新"
+  },
+  {
+    "source": "ASTRONOMY",
+    "target": "天文学"
+  },
+  {
+    "source": "SIMULATING OFFLINE PROGRESS . . .",
+    "target": "正在模拟离线进度……"
+  },
+  {
+    "source": "ROMINA'S KNIFE",
+    "target": "萝蜜娜的小刀"
+  },
+  {
+    "source": "SELECT TO VIEW",
+    "target": "选取以查看"
+  },
+  {
+    "source": "SHERIFF\nSNOW",
+    "target": "史诺警长"
+  },
+  {
+    "source": "TOGGLE MICRO MODE",
+    "target": "切换迷你模式"
+  },
+  {
+    "source": "WILMA'S BLACKBERRY COBBLER",
+    "target": "威尔玛的黑莓酥饼"
+  },
+  {
+    "source": "GREAT NAV'ED",
+    "target": "伟大的纳维德"
+  },
+  {
+    "source": "A.N.I.S FIELD MANUAL",
+    "target": "A.N.I.S 野战手册"
+  },
+  {
+    "source": "FRESH PRODUCE MARKET",
+    "target": "生鲜农产市场"
+  },
+  {
+    "source": "SUPPLIES REQUIRED",
+    "target": "所需物资"
+  },
+  {
+    "source": "                                                               Worst day of my fucking life. ",
+    "target": "\n我他妈这辈子最糟的一天。"
+  },
+  {
+    "source": "but the pines wait for no one.",
+    "target": "但松林不等人。"
+  },
+  {
+    "source": "CEREMONY OF SPIRITS",
+    "target": "灵魂仪式"
+  },
+  {
+    "source": "THE SECOND RENAISSANCE",
+    "target": "第二次文艺复兴"
+  },
+  {
+    "source": "Plants live their lives 6% faster.",
+    "target": "植物的生命周期加快 6%。"
+  },
+  {
+    "source": "View high level production status.",
+    "target": "查看整体生产状况。"
+  },
+  {
+    "source": "RESOURCE\nBLOCKED",
+    "target": "资源\n受阻"
+  },
+  {
+    "source": "Fixed a data bug that gave all scavenging zones the wrong stats.",
+    "target": "修正了所有拾荒区域数值错误的资料问题。"
+  },
+  {
+    "source": "DEMO",
+    "target": "试玩版"
+  },
+  {
+    "source": "Scientific revolution!\r",
+    "target": "科学革命！"
+  },
+  {
+    "source": "SNAIL LORD TRIUMVIRATE",
+    "target": "蜗领主三头统治"
+  },
+  {
+    "source": "SOURCE",
+    "target": "来源"
+  },
+  {
+    "source": "THE GREAT UNDERHIVE",
+    "target": "大地下蜂巢"
+  },
+  {
+    "source": "Read community wide narratives.",
+    "target": "阅读全镇的社群故事。"
+  },
+  {
+    "source": "THE NEOLITHIC",
+    "target": "新石器时代"
+  },
+  {
+    "source": "Sheriff finds dead everly.",
+    "target": "警长发现艾芙莉的遗体。"
+  },
+  {
+    "source": "STRANGE PENDANT NECKLACE",
+    "target": "奇异的坠饰项链"
+  },
+  {
+    "source": "ROARING 20'S",
+    "target": "咆哮的二○年代"
+  },
+  {
+    "source": "BILLBOARD FOR MAYOR'S RACE",
+    "target": "镇长选举广告看板"
+  },
+  {
+    "source": "TITLE",
+    "target": "标题"
+  },
+  {
+    "source": "TOTAL COMPLETION & QUEST TREE",
+    "target": "总完成度与任务树"
+  },
+  {
+    "source": "STUDY\nSTARS",
+    "target": "观测\n星辰"
+  },
+  {
+    "source": "Nature skill level of all characters increased by +5.\n",
+    "target": "所有角色的自然技能等级提高 5 级。"
+  },
+  {
+    "source": "BUFFALO GRASS",
+    "target": "野牛草"
+  },
+  {
+    "source": "Mayor Van Eisen launches A.N.I.S.",
+    "target": "范艾森镇长启动 A.N.I.S.。"
+  },
+  {
+    "source": "PINECONE",
+    "target": "松果"
+  },
+  {
+    "source": "BETA",
+    "target": "Beta 测试"
+  },
+  {
+    "source": "IRON FORGE",
+    "target": "炼铁工坊"
+  },
+  {
+    "source": "THE COLONIAL",
+    "target": "殖民时代"
+  },
+  {
+    "source": "YOUNG GRAND ROSA",
+    "target": "年幼的大罗莎"
+  },
+  {
+    "source": "SKIP",
+    "target": "略过"
+  },
+  {
+    "source": "Testing a variety of economic balance adjustments.",
+    "target": "测试各种经济平衡调整。"
+  },
+  {
+    "source": "View past notifications.",
+    "target": "查看过往通知。"
+  },
+  {
+    "source": "LEGACY",
+    "target": "传承"
+  },
+  {
+    "source": "Resource flow adjustments.",
+    "target": "调整资源流动。"
+  },
+  {
+    "source": "Modified chance of finding an extra resource during scavenging.",
+    "target": "调整拾荒时找到额外资源的机率。"
+  },
+  {
+    "source": "A NEW SELF-SERVE GAS STATION",
+    "target": "新开的自助加油站"
+  },
+  {
+    "source": "HOMECOMING DANCE HALL",
+    "target": "返校节舞厅"
+  },
+  {
+    "source": "MESQUITE TREE",
+    "target": "牧豆树"
+  },
+  {
+    "source": "Exmonus Lesson 12: Using the Dictopedia\n",
+    "target": "艾克索姆语第 12 课：使用辞义百科"
+  },
+  {
+    "source": "DOWNTOWN ASBURY",
+    "target": "阿斯伯里市中心"
+  },
+  {
+    "source": "EVERLY PRAETIS MURDER SCENE",
+    "target": "艾芙莉・普雷蒂斯命案现场"
+  },
+  {
+    "source": "WARNING",
+    "target": "警告"
+  },
+  {
+    "source": "NEIGHBORHOOD SIDEWALKS",
+    "target": "社区人行道"
+  },
+  {
+    "source": "The initial release of Asbury Pines for internal development use.",
+    "target": "供内部开发使用的《Asbury Pines》初始版本。"
+  },
+  {
+    "source": "LIFE EVENTS!",
+    "target": "人生大事！"
+  },
+  {
+    "source": "RAIDERS FORCE THE PRAETIS FAMILY TO HIDE IN THE PINE FOREST.",
+    "target": "劫掠者迫使普雷蒂斯一家躲进松林。"
+  },
+  {
+    "source": "ASBURY GAS",
+    "target": "阿斯伯里加油站"
+  },
+  {
+    "source": "ASTRONOMY CLUB",
+    "target": "天文社"
+  },
+  {
+    "source": "Everly Praetis",
+    "target": "艾芙莉・普雷蒂斯"
+  },
+  {
+    "source": "SHERIFF \"BUZZ\" SNOW",
+    "target": "「巴兹」史诺警长"
+  },
+  {
+    "source": "Everly arrives in the Y2K era.",
+    "target": "艾芙莉来到千禧年时代。"
+  },
+  {
+    "source": "THE LONG DEPRESSION",
+    "target": "长期萧条"
+  },
+  {
+    "source": "PUBLIC BETA TEST",
+    "target": "公开 Beta 测试"
+  },
+  {
+    "source": "SAVE & QUIT",
+    "target": "储存并离开"
+  },
+  {
+    "source": "ALL SKILLS: +1 PER SUPPORT CHAR",
+    "target": "每位支援角色：所有技能 +1"
+  },
+  {
+    "source": "THE DUST AGE",
+    "target": "尘埃时代"
+  },
+  {
+    "source": "ROMINA'S RATTY COAT",
+    "target": "萝蜜娜的破旧大衣"
+  },
+  {
+    "source": "You took some time away,",
+    "target": "你离开了一段时间，"
+  },
+  {
+    "source": "SYNOPSIS",
+    "target": "故事概要"
+  },
+  {
+    "source": "TIME TRAVEL",
+    "target": "时间旅行"
+  },
+  {
+    "source": "PATROL\nSTREETS",
+    "target": "巡逻\n街道"
+  },
+  {
+    "source": "PINE HILLS PARK",
+    "target": "松丘公园"
+  },
+  {
+    "source": "RESEARCHERS",
+    "target": "研究员"
+  },
+  {
+    "source": "Died on Dec 14, 2029.\n<i>Acute kidney failure.</i>",
+    "target": "于 2029 年 12 月 14 日逝世。\n<i>急性肾衰竭。</i>"
+  },
+  {
+    "source": "MESQUITE SEED\r",
+    "target": "牧豆树种子"
+  },
+  {
+    "source": "THE JAZZ AGE",
+    "target": "爵士时代"
+  },
+  {
+    "source": "MEDICAL SNAIL VENOM ",
+    "target": "医用蜗牛毒液"
+  },
+  {
+    "source": "This minor update includes a number of story adjustments & tweaks that were worked in parallel.",
+    "target": "这次小型更新包含同步进行的多项故事调整与修润。"
+  },
+  {
+    "source": "YOUNG EVERLY PRAETIS",
+    "target": "年轻的艾芙莉・普雷蒂斯"
+  },
+  {
+    "source": "HEARTLAND GAS",
+    "target": "腹地加油站"
+  },
+  {
+    "source": "TIMELINE",
+    "target": "时间轴"
+  },
+  {
+    "source": "Massuma Absolutism\r",
+    "target": "马苏玛绝对君主制"
+  },
+  {
+    "source": "DAISY WEED",
+    "target": "雏菊草"
+  },
+  {
+    "source": "Once worshipped, workers produce resources 5% faster at buildings.",
+    "target": "完成崇拜后，工人在建筑中生产资源的速度提高 5%。"
+  },
+  {
+    "source": "Minor corrections to V3.00.010.",
+    "target": "对 V3.00.010 的小幅修正。"
+  },
+  {
+    "source": "ABANDONED ASBURY PRISON",
+    "target": "废弃的阿斯伯里监狱"
+  },
+  {
+    "source": "THE CLEARING",
+    "target": "林间空地"
+  },
+  {
+    "source": "<b>NOTE:</b> Offline progress is limited to 12 hours.",
+    "target": "<b>注意：</b>离线进度最多计算 12 小时。"
+  },
+  {
+    "source": "View resource flow.",
+    "target": "查看资源流动。"
+  },
+  {
+    "source": "Gloppa Trail Deities\r",
+    "target": "格洛帕小径诸神"
+  },
+  {
+    "source": "BULL PINE BREWING COMPANY",
+    "target": "公牛松酿酒公司"
+  },
+  {
+    "source": "THE SPACE AGE",
+    "target": "太空时代"
+  },
+  {
+    "source": "CULTURE",
+    "target": "文化"
+  },
+  {
+    "source": "Rediscovered Chemistry \r",
+    "target": "重拾化学"
+  },
+  {
+    "source": "CIRCLE OF TIME",
+    "target": "时间之环"
+  },
+  {
+    "source": "SUPPORT LVL",
+    "target": "支援等级"
+  },
+  {
+    "source": "WENDA FOREST",
+    "target": "温妲森林"
+  },
+  {
+    "source": "Temporal Physics\r",
+    "target": "时间物理学"
+  },
+  {
+    "source": "Tycoon Cronyism",
+    "target": "财阀裙带主义"
+  },
+  {
+    "source": "AI Information Science ",
+    "target": "人工智慧资讯科学"
+  },
+  {
+    "source": "Star Worship\r",
+    "target": "星辰崇拜"
+  },
+  {
+    "source": "Read character narratives.",
+    "target": "阅读角色故事。"
+  },
+  {
+    "source": "Crude Microbiology \r",
+    "target": "粗略微生物学"
+  },
+  {
+    "source": "View active perks.",
+    "target": "查看生效中的加成。"
+  },
+  {
+    "source": "HAVE DEEP\nCONVOS",
+    "target": "深入\n交谈"
+  },
+  {
+    "source": "All nature locations produce +1 food.\n",
+    "target": "所有自然地点额外生产 1 单位食物。"
+  },
+  {
+    "source": "2ND RENAISSANCE",
+    "target": "第二次文艺复兴"
+  },
+  {
+    "source": "ARTIST",
+    "target": "美术"
+  },
+  {
+    "source": "Weak Agnosticism \r",
+    "target": "弱不可知论"
+  },
+  {
+    "source": "View game objectives.",
+    "target": "查看游戏目标。"
+  },
+  {
+    "source": "Legion of Scientific Mystics\r",
+    "target": "科学神秘学者军团"
+  },
+  {
+    "source": "MISSING TOE",
+    "target": "缺少的脚趾"
+  },
+  {
+    "source": "FOREST RABBIT",
+    "target": "森林兔"
+  },
+  {
+    "source": "EVERLY PRAETIS' EYEPATCH",
+    "target": "艾芙莉・普雷蒂斯的眼罩"
+  },
+  {
+    "source": "ABANDONED GROUNDS OF ASBURY PRISON",
+    "target": "阿斯伯里监狱废弃旧址"
+  },
+  {
+    "source": "DANNY PRAETIS' TOYOTA",
+    "target": "丹尼・普雷蒂斯的丰田汽车"
+  },
+  {
+    "source": "Nature skill level of all characters increased by +15.\n",
+    "target": "所有角色的自然技能等级提高 15 级。"
+  },
+  {
+    "source": "ANDROID",
+    "target": "仿生人"
+  },
+  {
+    "source": "AI Astrology\r",
+    "target": "人工智慧占星术"
+  },
+  {
+    "source": "THE INSECT REALM",
+    "target": "昆虫王国"
+  },
+  {
+    "source": "BABY!",
+    "target": "宝宝！"
+  },
+  {
+    "source": "SHERIFF BUZZ'S COFFEE MUG",
+    "target": "巴兹警长的咖啡杯"
+  },
+  {
+    "source": "ST. FRANCIS CATHOLIC CHURCH",
+    "target": "圣方济各天主教堂"
+  },
+  {
+    "source": "MAYOR OF ASBURY PINES",
+    "target": "阿斯伯里松林镇镇长"
+  },
+  {
+    "source": "Nature locations produce +1 resource per action.\n",
+    "target": "自然地点每次行动额外生产 1 单位资源。"
+  }
+]
