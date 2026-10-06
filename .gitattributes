@@ -5,3 +5,4 @@
 *.exe -text
 *.zip -text
 *.gz -text
+payload/** -text
