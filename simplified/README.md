@@ -1,5 +1,7 @@
 # Asbury Pines 简体中文汉化包
 
+[繁體中文](https://github.com/bill-iu/Asbury_Pines_Chinese_pack/blob/main/README.md) | [简体中文](https://github.com/bill-iu/Asbury_Pines_Chinese_pack/blob/main/README.zh-CN.md)
+
 插件版本 **0.1.14**，安装包版本 **0.1.14-pack.2**。适用 Windows Steam build 24231082／[EA] 3.01.001（Unity 6000.2.8f1、Mono、x86）。
 
 ## 安装

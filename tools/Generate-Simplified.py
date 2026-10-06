@@ -34,7 +34,7 @@ def build(destination):
     if destination.exists():
         raise FileExistsError("Output already exists; preserve it before regenerating.")
     destination.mkdir(parents=True)
-    for name in ("LICENSE", "LICENSE-SCOPE.md"):
+    for name in ("LICENSE", "LICENSE-SCOPE.md", "README.zh-CN.md"):
         shutil.copy2(repo / name, destination / name)
     for directory in ("payload", "source", "licenses", "installer"):
         shutil.copytree(repo / directory, destination / directory)
